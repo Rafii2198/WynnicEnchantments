@@ -1,0 +1,13 @@
+name = "BetterF3"
+filename = "BetterF3-5.0.0-Fabric-1.19.3-pre2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8shC1gFX/versions/C3hGuqnK/BetterF3-5.0.0-Fabric-1.19.3-pre2.jar"
+hash-format = "sha1"
+hash = "aaf5c9d7612f63f8b054aa9daf0a2bc09efa8221"
+
+[update]
+[update.modrinth]
+mod-id = "8shC1gFX"
+version = "C3hGuqnK"

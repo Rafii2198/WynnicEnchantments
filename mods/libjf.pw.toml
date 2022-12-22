@@ -1,0 +1,13 @@
+name = "LibJF"
+filename = "libjf-3.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WKwQAwke/versions/3rw9xmxg/libjf-3.4.0.jar"
+hash-format = "sha1"
+hash = "ea454c54e4f14de9af7820a9e199b659e1d82604"
+
+[update]
+[update.modrinth]
+mod-id = "WKwQAwke"
+version = "3rw9xmxg"

@@ -1,0 +1,214 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = wynnic_main
+  action = setbackgroundslideshow
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
+  x = 0
+  action = movebutton
+  y = -24
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
+  x = -204
+  action = movebutton
+  y = 0
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  orientation = top-left
+  x = 0
+  action = movebutton
+  y = 0
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}-{"placeholder":"elementwidth","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_copyright_button"}*1.55}","decimal":"true"}}
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = top-left
+  x = 0
+  action = movebutton
+  y = 0
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/2","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/1.2","decimal":"true"}}
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  orientation = mid-centered
+  x = 167
+  action = movebutton
+  y = -24
+}
+
+customization {
+  identifier = %id=604322%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
+  x = -12
+  action = movebutton
+  y = -24
+}
+
+customization {
+  identifier = %id=604322%
+  action = setbuttondescription
+  description = Connect to Wynncraft!
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
+  x = -102
+  action = movebutton
+  y = 0
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_options_button
+  x = -102
+  action = movebutton
+  y = 0
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 165
+  action = deep_customization_element:title_screen_branding
+  actionid = 502f3473-97a7-4726-b3ff-d69982cc1ddf1671648731218
+  y = 517
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 583
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 737d2eb3-7ff0-48f3-83dc-79bd3fbc19951671648731242
+  y = 232
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = aa32df41-2ac7-4192-a3f4-783807c3260a1671648731242
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = mid-centered
+  splash_color = #ffff00
+  hidden = true
+  x = 3
+  width = 60
+  splash_rotation = 0
+  action = deep_customization_element:title_screen_splash
+  actionid = e8f60693-36fa-4245-9c60-9653a1e8e2781671648731242
+  y = -13
+  height = 30
+}
+
+customization {
+  orientation = top-left
+  delayappearanceseconds = 2.0
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"} /2-{"placeholder":"elementwidth","values":{"id":"dcf22352-ffc2-4d9e-b621-dc383a4a5d501671648901723"}}/2","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}*0.025","decimal":"true"}}
+  path = fancymenu/logomain.png
+  fadein = true
+  fadeinspeed = 1.0
+  x = 0
+  width = 336
+  action = addtexture
+  actionid = dcf22352-ffc2-4d9e-b621-dc383a4a5d501671648901723
+  y = 0
+  delayappearance = true
+  delayappearanceeverytime = false
+  height = 144
+}
+
+customization {
+  advanced_height = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/3.5","decimal":"true"}}
+  path = fancymenu/gradient.png
+  orientation = top-left
+  x = 0
+  width = 960
+  action = addtexture
+  actionid = c399cf59-3f94-45e2-92f7-357fe0a014ca1671666550169
+  y = 0
+  advanced_width = {"placeholder":"guiwidth"}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}-{"placeholder":"elementheight","values":{"id":"c399cf59-3f94-45e2-92f7-357fe0a014ca1671666550169"}}","decimal":"true"}}
+  height = 151
+}
+
+customization {
+  orientation = element
+  enable_scrolling = false
+  shadow = true
+  delayappearanceseconds = 1.0
+  scale = 1.0
+  source = Version: {"placeholder":"json","values":{"source":"fancymenu/version.txt","json_path":"$.version"}}
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  orientation_element = vanillabtn:604322
+  x = -178
+  width = 173
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 15c5b882-558f-4ed1-95d2-2a8214e018f31671671865991
+  y = 6
+  delayappearance = true
+  alignment = centered
+  delayappearanceeverytime = false
+  height = 10
+}
+
