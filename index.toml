@@ -229,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "caf39d7482a850ad77ff01dd849952ef75a857dbc6aeb1913b18044fc43c8c0c"
+hash = "2cf1e28b7414f0f7826470d4d90f188a723f843d826574335fc96109d123e2fc"
 metafile = true
 
 [[files]]
@@ -274,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "29005499341d8e046355971f8d8dad3d32e819c2ddb7955a28bc56c757975dac"
+hash = "5b43c0fc6904ad4480c8ed596411c6e24172f8320ccd63de97b4ce2e7e0f90a5"
 metafile = true
 
 [[files]]
@@ -364,5 +364,5 @@ metafile = true
 
 [[files]]
 file = "mods/wynntils.pw.toml"
-hash = "1525616be2b30e5072855edd4c3be3bceaaed056d27d6a425608788368398dd2"
+hash = "c7bf13f512584ef4465e0096b9360286094cdede35e676791451a0feda020240"
 metafile = true
