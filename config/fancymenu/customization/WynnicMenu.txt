@@ -159,7 +159,7 @@ customization {
 
 customization {
   orientation = top-left
-  delayappearanceseconds = 2.0
+  delayappearanceseconds = 0.2
   advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"} /2-{"placeholder":"elementwidth","values":{"id":"dcf22352-ffc2-4d9e-b621-dc383a4a5d501671648901723"}}/2","decimal":"true"}}
   advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}*0.025","decimal":"true"}}
   path = fancymenu/logomain.png
@@ -171,7 +171,7 @@ customization {
   actionid = dcf22352-ffc2-4d9e-b621-dc383a4a5d501671648901723
   y = 0
   delayappearance = true
-  delayappearanceeverytime = false
+  delayappearanceeverytime = true
   height = 144
 }
 
@@ -195,7 +195,7 @@ customization {
   shadow = true
   delayappearanceseconds = 1.0
   scale = 1.0
-  source = Version: {"placeholder":"json","values":{"source":"fancymenu/version.txt","json_path":"$.version"}}
+  source = Installed Version: {"placeholder":"json","values":{"source":"fancymenu/version.txt","json_path":"$.version"}}
   text_border = 0
   case_mode = normal
   source_mode = direct
@@ -205,6 +205,29 @@ customization {
   width = 173
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 15c5b882-558f-4ed1-95d2-2a8214e018f31671671865991
+  y = 6
+  delayappearance = true
+  alignment = centered
+  delayappearanceeverytime = false
+  height = 10
+}
+
+customization {
+  orientation = element
+  enable_scrolling = false
+  shadow = true
+  delayappearanceseconds = 1.0
+  scale = 1.0
+  source = Newest Version: {"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/main/fancymenu/version.txt","json_path":"$.version"}}
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  orientation_element = vanillabtn:604322
+  x = 25
+  width = 173
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 948b774d-c5c9-4c48-a633-c87e169f228f1671738941517
   y = 6
   delayappearance = true
   alignment = centered
