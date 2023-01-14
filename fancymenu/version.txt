@@ -1,1 +1,4 @@
-{"version":"0.0.1"}
+{
+	"version": "0.0.2",
+	"changelog": "Update &l0.0.2&r:%n%%n%&lMods Added:&r%n%-Borderless Mining%n%-Figura%n%-First Person Model%n%-More Culling%n%-Not Enough Animations%n%%n%&lMod Updates:&r%n%-BetterF3%n%-C2ME%n%-Collective%n%-Entity Texture Features%n%-FabricAPI%n%-Fabric Language Kotlin%n%-Falling Leaves%n%-Indium%n%-Iris%n%-LibJF%n%-MoreCulling%n%-Sodium%n%-Sodium Extras%n%-Tooltip Scroll%n%-Wynntils"
+}

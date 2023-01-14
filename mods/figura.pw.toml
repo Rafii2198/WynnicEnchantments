@@ -1,0 +1,13 @@
+name = "Figura"
+filename = "figura-0.1.0-rc.13+1.19.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/B3csO4KD/versions/FcaLRIvb/figura-0.1.0-rc.13%2B1.19.3.jar"
+hash-format = "sha1"
+hash = "aad9d9f4c45abf7bfbcb2872859bbd17097898f0"
+
+[update]
+[update.modrinth]
+mod-id = "B3csO4KD"
+version = "FcaLRIvb"
