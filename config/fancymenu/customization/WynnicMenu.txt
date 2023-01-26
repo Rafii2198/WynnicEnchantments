@@ -212,6 +212,7 @@ customization {
   enable_scrolling = false
   shadow = true
   delayappearanceseconds = 1.0
+  vr_custom:value:fancymenu_visibility_requirement_is_text = ["mode":"equals","text":"{"placeholder":"json","values":{"source":"fancymenu/version.txt","json_path":"$.version"}}","compare_with":"{"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/main/fancymenu/version.txt","json_path":"$.version"}}"]$
   scale = 1.0
   source = Newest Version: {"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/main/fancymenu/version.txt","json_path":"$.version"}}
   text_border = 0
@@ -224,6 +225,7 @@ customization {
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 948b774d-c5c9-4c48-a633-c87e169f228f1671738941517
   y = -43
+  vr_custom:showif:fancymenu_visibility_requirement_is_text = true
   delayappearance = true
   alignment = centered
   delayappearanceeverytime = false
@@ -235,8 +237,9 @@ customization {
   orientation = top-left
   enable_scrolling = true
   shadow = true
+  vr_custom:value:fancymenu_visibility_requirement_is_text = ["mode":"equals","text":"{"placeholder":"json","values":{"source":"fancymenu/version.txt","json_path":"$.version"}}","compare_with":"{"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/main/fancymenu/version.txt","json_path":"$.version"}}"]$
   scale = 1.0
-  source = {"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/main/fancymenu/version.txt","json_path":"$.changelog"}}%n%%n%%n%%n%%n%%n%%n%%n%%n%%n%%n%%n% 
+  source = {"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/main/fancymenu/version.txt","json_path":"$.changelog"}}%n%%n%%n%%n%%n%%n%%n%%n%%n%%n%%n%%n% %n%%n%%n%%n% %n%%n%%n%%n% %n%%n%%n%%n% %n%%n%%n%%n% %n%%n%%n%%n% 
   advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}-{"placeholder":"elementwidth","values":{"id":"fbb97f93-9c0b-4a76-8a6a-653774edd8a81672678958612"}}-1","decimal":"true"}}
   text_border = 0
   case_mode = normal
@@ -249,7 +252,34 @@ customization {
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = fbb97f93-9c0b-4a76-8a6a-653774edd8a81672678958612
   y = 0
+  vr_custom:showif:fancymenu_visibility_requirement_is_text = false
   alignment = centered
   height = 117
+}
+
+customization {
+  orientation = element
+  enable_scrolling = false
+  shadow = true
+  delayappearanceseconds = 1.0
+  vr_custom:value:fancymenu_visibility_requirement_is_text = ["mode":"equals","text":"{"placeholder":"json","values":{"source":"fancymenu/version.txt","json_path":"$.version"}}","compare_with":"{"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/main/fancymenu/version.txt","json_path":"$.version"}}"]$
+  scale = 1.0
+  source = Newest Version: {"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/main/fancymenu/version.txt","json_path":"$.version"}}
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
+  x = 12
+  width = 175
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 24584061-8cfd-4f67-93fd-f04382aaec8d1674739124615
+  y = -43
+  vr_custom:showif:fancymenu_visibility_requirement_is_text = false
+  delayappearance = true
+  alignment = centered
+  base_color = ff0000
+  delayappearanceeverytime = false
+  height = 10
 }
 

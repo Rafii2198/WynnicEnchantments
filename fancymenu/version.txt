@@ -1,4 +1,4 @@
 {
-	"version": "0.0.2",
-	"changelog": "Update &l0.0.2&r:%n%%n%&lMods Added:&r%n%-Borderless Mining%n%-Figura%n%-First Person Model%n%-More Culling%n%-Not Enough Animations%n%%n%&lMod Updates:&r%n%-BetterF3%n%-C2ME%n%-Collective%n%-Entity Texture Features%n%-FabricAPI%n%-Fabric Language Kotlin%n%-Falling Leaves%n%-Indium%n%-Iris%n%-LibJF%n%-MoreCulling%n%-Sodium%n%-Sodium Extras%n%-Tooltip Scroll%n%-Wynntils"
+	"version": "0.0.3",
+	"changelog": "Update &l0.0.3&r:%n%%n%&lMods Added:&r%n%-Forge Config API Port%n%-Iceberg%n%-Kiwi%n%-Legendary Tooltips%n%-Nimble%n%-Prism%n%&lMod Updates:&r%n%-Collective%n%-Fabric API%n%-Falling Leaves%n%-Fancy Menu%n%-Konkrete%n%-Model Gap Fix%n%-Wavey Capes%n%-Wynntils%n%&lShaderpacks added:&r%n%-VanillAA%n%&lMods Removed:&r%n%-Tooltip Scroll%n%&lMod Configs:&r%n%-Changed Wavey Capes%n%-Added Nimble%n%-Added Legendary Tooltip%n%&lChanges:&r%n%-Updated Main Menu"
 }
