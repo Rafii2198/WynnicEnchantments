@@ -1,4 +1,4 @@
 {
-	"version": "0.0.3",
+	"version": "0.1.0",
 	"changelog": "Update &l0.1.0&r:%n%%n%&lChanges:&r%n%-Logo overhaul!%n%-New Loading Screen%n%-Slight updates to Main Menu%n%&lMods Added:&r%n%-Drippy Loading Screen%n%-Logical Zoom%n%&lMod Updates:&r%n%-Fabric API%n%-Fabric Language Kotlin%n%-Forge Config API Port%n%-More Culling%n%-VTDownloader%n%-Wynntils"
 }
