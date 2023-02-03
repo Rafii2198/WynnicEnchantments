@@ -28,6 +28,15 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
   identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
   orientation = element
   orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
@@ -37,12 +46,22 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
   orientation = top-left
   x = 0
   action = movebutton
   y = 0
-  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}-{"placeholder":"elementwidth","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_copyright_button"}*1.55}","decimal":"true"}}
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}-{"placeholder":"elementwidth","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_copyright_button"}*0.05}","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}*0.004","decimal":"true"}}
 }
 
 customization {
@@ -57,7 +76,16 @@ customization {
   action = movebutton
   y = 0
   advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/2","decimal":"true"}}
-  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/1.2","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/1.125","decimal":"true"}}
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
 }
 
 customization {
@@ -84,6 +112,15 @@ customization {
 
 customization {
   identifier = %id=604322%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=604322%
   action = setbuttondescription
   description = Connect to Wynncraft!
 }
@@ -98,12 +135,30 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   orientation = element
   orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_options_button
   x = -102
   action = movebutton
   y = 0
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
 }
 
 customization {
@@ -158,29 +213,39 @@ customization {
 }
 
 customization {
-  path = fancymenu/logomain.png
   orientation = top-left
+  delayappearanceseconds = 0.5
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"} /2-{"placeholder":"elementwidth","values":{"id":"dcf22352-ffc2-4d9e-b621-dc383a4a5d501671648901723"}}/2","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}*0.025","decimal":"true"}}
+  path = fancymenu/logomain.png
+  fadein = true
+  fadeinspeed = 1.5
   x = 0
   width = 336
   action = addtexture
   actionid = dcf22352-ffc2-4d9e-b621-dc383a4a5d501671648901723
   y = 0
-  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"} /2-{"placeholder":"elementwidth","values":{"id":"dcf22352-ffc2-4d9e-b621-dc383a4a5d501671648901723"}}/2","decimal":"true"}}
-  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}*0.025","decimal":"true"}}
+  delayappearance = true
+  delayappearanceeverytime = false
   height = 144
 }
 
 customization {
   advanced_height = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/3.5","decimal":"true"}}
-  path = fancymenu/gradient.png
   orientation = top-left
+  delayappearanceseconds = 0.5
+  advanced_width = {"placeholder":"guiwidth"}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}-{"placeholder":"elementheight","values":{"id":"c399cf59-3f94-45e2-92f7-357fe0a014ca1671666550169"}}","decimal":"true"}}
+  path = fancymenu/gradient.png
+  fadein = true
+  fadeinspeed = 1.5
   x = 0
   width = 640
   action = addtexture
   actionid = c399cf59-3f94-45e2-92f7-357fe0a014ca1671666550169
   y = 0
-  advanced_width = {"placeholder":"guiwidth"}
-  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}-{"placeholder":"elementheight","values":{"id":"c399cf59-3f94-45e2-92f7-357fe0a014ca1671666550169"}}","decimal":"true"}}
+  delayappearance = true
+  delayappearanceeverytime = false
   height = 100
 }
 
@@ -188,13 +253,15 @@ customization {
   orientation = element
   enable_scrolling = false
   shadow = true
-  delayappearanceseconds = 1.0
+  delayappearanceseconds = 0.5
   scale = 1.0
   source = Installed Version: {"placeholder":"json","values":{"source":"fancymenu/version.txt","json_path":"$.version"}}
   text_border = 0
   case_mode = normal
+  fadein = true
   source_mode = direct
   line_spacing = 1
+  fadeinspeed = 1.5
   orientation_element = vanillabtn:button_compatibility_id:modmenu_titlescreen_mods_button
   x = 13
   width = 175
@@ -217,8 +284,10 @@ customization {
   source = Newest Version: {"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/main/fancymenu/version.txt","json_path":"$.version"}}
   text_border = 0
   case_mode = normal
+  fadein = true
   source_mode = direct
   line_spacing = 1
+  fadeinspeed = 1.5
   orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
   x = 12
   width = 175
@@ -233,53 +302,60 @@ customization {
 }
 
 customization {
-  advanced_height = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/3","decimal":"true"}}
-  orientation = top-left
-  enable_scrolling = true
   shadow = true
+  delayappearanceseconds = 0.5
   vr_custom:value:fancymenu_visibility_requirement_is_text = ["mode":"equals","text":"{"placeholder":"json","values":{"source":"fancymenu/version.txt","json_path":"$.version"}}","compare_with":"{"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/main/fancymenu/version.txt","json_path":"$.version"}}"]$
   scale = 1.0
   source = {"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/main/fancymenu/version.txt","json_path":"$.changelog"}}%n%%n%%n%%n%%n%%n%%n%%n%%n%%n%%n%%n% %n%%n%%n%%n% %n%%n%%n%%n% %n%%n%%n%%n% %n%%n%%n%%n% %n%%n%%n%%n% 
   advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}-{"placeholder":"elementwidth","values":{"id":"fbb97f93-9c0b-4a76-8a6a-653774edd8a81672678958612"}}-1","decimal":"true"}}
   text_border = 0
-  case_mode = normal
   advanced_width = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/4","decimal":"true"}}
   advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/2-{"placeholder":"elementheight","values":{"id":"fbb97f93-9c0b-4a76-8a6a-653774edd8a81672678958612"}}/2","decimal":"true"}}
-  source_mode = direct
   line_spacing = 1
-  x = 0
-  width = 160
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = fbb97f93-9c0b-4a76-8a6a-653774edd8a81672678958612
-  y = 0
   vr_custom:showif:fancymenu_visibility_requirement_is_text = false
+  delayappearance = true
+  height = 126
+  advanced_height = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/2.8","decimal":"true"}}
+  orientation = top-left
+  enable_scrolling = true
+  case_mode = normal
+  fadein = true
+  source_mode = direct
+  fadeinspeed = 1.5
+  x = 0
+  width = 160
+  y = 0
   alignment = centered
-  height = 117
+  delayappearanceeverytime = false
 }
 
 customization {
-  orientation = element
-  enable_scrolling = false
   shadow = true
   delayappearanceseconds = 1.0
   vr_custom:value:fancymenu_visibility_requirement_is_text = ["mode":"equals","text":"{"placeholder":"json","values":{"source":"fancymenu/version.txt","json_path":"$.version"}}","compare_with":"{"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/main/fancymenu/version.txt","json_path":"$.version"}}"]$
   scale = 1.0
   source = Newest Version: {"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/main/fancymenu/version.txt","json_path":"$.version"}}
   text_border = 0
-  case_mode = normal
-  source_mode = direct
   line_spacing = 1
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 24584061-8cfd-4f67-93fd-f04382aaec8d1674739124615
+  vr_custom:showif:fancymenu_visibility_requirement_is_text = false
+  delayappearance = true
+  height = 10
+  orientation = element
+  enable_scrolling = false
+  case_mode = normal
+  fadein = true
+  source_mode = direct
+  fadeinspeed = 1.5
   orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
   x = 12
   width = 175
-  action = custom_layout_element:fancymenu_customization_item_text
-  actionid = 24584061-8cfd-4f67-93fd-f04382aaec8d1674739124615
   y = -43
-  vr_custom:showif:fancymenu_visibility_requirement_is_text = false
-  delayappearance = true
   alignment = centered
   base_color = ff0000
   delayappearanceeverytime = false
-  height = 10
 }
 

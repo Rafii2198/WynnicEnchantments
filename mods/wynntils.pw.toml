@@ -1,13 +1,13 @@
 name = "Wynntils"
-filename = "wynntils-0.0.2-alpha.151-fabric.jar"
+filename = "wynntils-0.0.2-alpha.169-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/dU5Gb9Ab/versions/Ywv7GLwQ/wynntils-0.0.2-alpha.151-fabric.jar"
+url = "https://cdn.modrinth.com/data/dU5Gb9Ab/versions/1YrdzQkh/wynntils-0.0.2-alpha.169-fabric.jar"
 hash-format = "sha1"
-hash = "17d8661c431dfcb5894341579d49360799853105"
+hash = "9e49c0ced548ede9c1ee781dc77adf697dc072bf"
 
 [update]
 [update.modrinth]
 mod-id = "dU5Gb9Ab"
-version = "Ywv7GLwQ"
+version = "1YrdzQkh"

@@ -1,0 +1,69 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = wynnic_main
+  action = setbackgroundslideshow
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 144
+  width = 352
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = f9c51323-aa38-437d-a3e3-65cc4034c88a1675344883365
+  y = 132
+  height = 88
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = 967062cd-98f5-420a-8273-4415c18ab8391675344883365
+  y = -1000000
+  height = 0
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 144
+  width = 352
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = 08c41736-00e4-4cc1-a3ff-9b39aaeed6591675344883365
+  y = 288
+  height = 10
+}
+
+customization {
+  orientation = top-right
+  delayappearanceseconds = 0.5
+  path = fancymenu/logomain.png
+  fadein = true
+  fadeinspeed = 1.5
+  x = -130
+  width = 129
+  action = addtexture
+  actionid = 7427f6e6-3697-4339-ade1-04c7d2449a881675445660999
+  y = 7
+  delayappearance = true
+  delayappearanceeverytime = false
+  height = 54
+}
+
