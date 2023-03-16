@@ -1,13 +1,13 @@
 name = "Nimble"
-filename = "Nimble-1.19.3-fabric-4.1.1.jar"
+filename = "Nimble-1.19.3-fabric-4.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Q5UvqqQd/versions/cgHFyhKs/Nimble-1.19.3-fabric-4.1.1.jar"
+url = "https://cdn.modrinth.com/data/Q5UvqqQd/versions/3PJaGt2i/Nimble-1.19.3-fabric-4.2.0.jar"
 hash-format = "sha1"
-hash = "64c55c88ea18fa8d711809b595b2e8d03d8d9728"
+hash = "8383e36b20dea789e0c09d575bf0eb8a90ef4a08"
 
 [update]
 [update.modrinth]
 mod-id = "Q5UvqqQd"
-version = "cgHFyhKs"
+version = "3PJaGt2i"

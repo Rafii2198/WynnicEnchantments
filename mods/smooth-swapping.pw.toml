@@ -1,13 +1,13 @@
 name = "Smooth Swapping"
-filename = "Smooth Swapping 0.6.1 (1.19.3)-0.6.1.jar"
+filename = "Smooth Swapping 0.7 (1.19.3)-0.7.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ydZic5r4/versions/jNKdgPB9/Smooth%20Swapping%200.6.1%20%281.19.3%29-0.6.1.jar"
+url = "https://cdn.modrinth.com/data/ydZic5r4/versions/wZ87sQbE/Smooth%20Swapping%200.7%20%281.19.3%29-0.7.jar"
 hash-format = "sha1"
-hash = "e27046c943ec441927c3218d921ac63b04ab20ef"
+hash = "ddb63e85b973bf868eb956f2573745c30a46cc0d"
 
 [update]
 [update.modrinth]
 mod-id = "ydZic5r4"
-version = "jNKdgPB9"
+version = "wZ87sQbE"

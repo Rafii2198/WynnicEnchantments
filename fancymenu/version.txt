@@ -1,4 +1,4 @@
 {
-	"version": "0.1.0",
-	"changelog": "Update &l0.1.0&r:%n%%n%&lChanges:&r%n%-Logo overhaul!%n%-New Loading Screen%n%-Slight updates to Main Menu%n%&lMods Added:&r%n%-Drippy Loading Screen%n%-Logical Zoom%n%&lMod Updates:&r%n%-Fabric API%n%-Fabric Language Kotlin%n%-Forge Config API Port%n%-More Culling%n%-VTDownloader%n%-Wynntils"
+	"version": "0.2.0",
+	"changelog": "Update &l0.2.0&r:%n%%n%&lMods Added:&r%n%-Auth Me%n%-Chime%n%-Halo HUD%n%-YetAnotherConfigLib%n%&lMod Updates:&r%n%-3D Skin Layers%n%-Capes%n%-Collective%n%-Drippy Loading Screen%n%-EntityCulling%n%-Entity Texture Features%n%-Fabric API%n%-Fabric Language Kotlin%n%-Falling Leaves%n%-Figura%n%-First Person Model%n%-Forge Config API Port%n%-Indium%n%-Iris%n%-Konkrete%n%-LibJF%n%-Lithium%n%-Memory Leak Fix%n%-Mod Menu%n%-Mods Command%n%-More Culling%n%-Nimble%n%-Not Enough Animations%n%-Smooth Swapping%n%-Sodium%n%-Sodium Extra%n%-Visiuality%n%-VTDownloader%n%-Wavey Capes%n%-Wynntils%n%&lMod Configs:&r%n%-Added Halo HUD"
 }
