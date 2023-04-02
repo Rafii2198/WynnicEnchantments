@@ -1,4 +1,4 @@
 {
-	"version": "0.2.0",
-	"changelog": "Update &l0.2.0&r:%n%%n%&lMods Added:&r%n%-Auth Me%n%-Chime%n%-Halo HUD%n%-YetAnotherConfigLib%n%&lMod Updates:&r%n%-3D Skin Layers%n%-Capes%n%-Collective%n%-Drippy Loading Screen%n%-EntityCulling%n%-Entity Texture Features%n%-Fabric API%n%-Fabric Language Kotlin%n%-Falling Leaves%n%-Figura%n%-First Person Model%n%-Forge Config API Port%n%-Indium%n%-Iris%n%-Konkrete%n%-LibJF%n%-Lithium%n%-Memory Leak Fix%n%-Mod Menu%n%-Mods Command%n%-More Culling%n%-Nimble%n%-Not Enough Animations%n%-Smooth Swapping%n%-Sodium%n%-Sodium Extra%n%-Visiuality%n%-VTDownloader%n%-Wavey Capes%n%-Wynntils%n%&lMod Configs:&r%n%-Added Halo HUD"
+	"version": "0.2.1",
+	"changelog": "Update &l0.2.1&r:%n%%n%Reinstalled Capes Mod"
 }

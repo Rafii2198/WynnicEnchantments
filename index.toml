@@ -170,7 +170,7 @@ hash = "f2f87bd1a67142bfe5666a38087fd56f906301e34eafe5b0cea0c9709fcfe2f7"
 
 [[files]]
 file = "fancymenu/version.txt"
-hash = "918955e7696c55035ca5b696d25d037f7b5e3c9c412ddce2d334dfb619112134"
+hash = "4c6936f74a70a113c495fb9ef6b94d42898fa714e7cc001754d859047c2730d2"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "47aa880171caf9c12c8db015cba01ed578bf126939f5de8f50f51be873c395d8"
+hash = "83d8a8865dfe81276fabc0c7085106a760608c0a3d569716fc77b3d0cb4d4c0d"
 metafile = true
 
 [[files]]
