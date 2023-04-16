@@ -32,7 +32,7 @@ S:customgameintroskiptext = '';
 ##[minecraftwindow]
 
 [A minecraft restart is required after changing this value.]
-S:customwindowtitle = 'Wynnic Enchantments for 1.19.3';
+S:customwindowtitle = 'Wynnic Enchantments for 1.19.4';
 [A minecraft restart is required after changing this value.]
 B:customwindowicon = 'true';
 

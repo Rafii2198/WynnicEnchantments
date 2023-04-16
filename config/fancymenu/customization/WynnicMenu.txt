@@ -102,30 +102,6 @@ customization {
 }
 
 customization {
-  identifier = %id=604322%
-  orientation = element
-  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
-  x = -12
-  action = movebutton
-  y = -24
-}
-
-customization {
-  identifier = %id=604322%
-  seconds = 1.0
-  onlyfirsttime = true
-  fadein = true
-  fadeinspeed = 1.0
-  action = hidebuttonfor
-}
-
-customization {
-  identifier = %id=604322%
-  action = setbuttondescription
-  description = Connect to Wynncraft!
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   orientation = element
   orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
@@ -240,13 +216,13 @@ customization {
   fadein = true
   fadeinspeed = 1.5
   x = 0
-  width = 640
+  width = 534
   action = addtexture
   actionid = c399cf59-3f94-45e2-92f7-357fe0a014ca1671666550169
   y = 0
   delayappearance = true
   delayappearanceeverytime = false
-  height = 100
+  height = 85
 }
 
 customization {
@@ -255,7 +231,7 @@ customization {
   shadow = true
   delayappearanceseconds = 0.5
   scale = 1.0
-  source = Installed Version: {"placeholder":"json","values":{"source":"fancymenu/version.txt","json_path":"$.version"}}
+  source = Installed Version: {"placeholder":"getvariable","values":{"name":"wynnicLocalVersionMajor"}}.{"placeholder":"getvariable","values":{"name":"wynnicLocalVersionMinor"}}.{"placeholder":"getvariable","values":{"name":"wynnicLocalVersionPatch"}}
   text_border = 0
   case_mode = normal
   fadein = true
@@ -279,9 +255,8 @@ customization {
   enable_scrolling = false
   shadow = true
   delayappearanceseconds = 1.0
-  vr_custom:value:fancymenu_visibility_requirement_is_text = ["mode":"equals","text":"{"placeholder":"json","values":{"source":"fancymenu/version.txt","json_path":"$.version"}}","compare_with":"{"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/main/fancymenu/version.txt","json_path":"$.version"}}"]$
   scale = 1.0
-  source = Newest Version: {"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/main/fancymenu/version.txt","json_path":"$.version"}}
+  source = Newest Version: {"placeholder":"getvariable","values":{"name":"wynnicOnlineVersionMajor"}}.{"placeholder":"getvariable","values":{"name":"wynnicOnlineVersionMinor"}}.{"placeholder":"getvariable","values":{"name":"wynnicOnlineVersionPatch"}}
   text_border = 0
   case_mode = normal
   fadein = true
@@ -294,7 +269,6 @@ customization {
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 948b774d-c5c9-4c48-a633-c87e169f228f1671738941517
   y = -43
-  vr_custom:showif:fancymenu_visibility_requirement_is_text = true
   delayappearance = true
   alignment = centered
   delayappearanceeverytime = false
@@ -302,11 +276,11 @@ customization {
 }
 
 customization {
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if_not][group:group_1681678391925][req_id:c30ddd0d-2244-4e9e-878a-2402c5760eb41681678410154] = wynnicLocalVersionMinor:{"placeholder":"getvariable","values":{"name":"wynnicOnlineVersionMinor"}}
   shadow = true
   delayappearanceseconds = 0.5
-  vr_custom:value:fancymenu_visibility_requirement_is_text = ["mode":"equals","text":"{"placeholder":"json","values":{"source":"fancymenu/version.txt","json_path":"$.version"}}","compare_with":"{"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/main/fancymenu/version.txt","json_path":"$.version"}}"]$
   scale = 1.0
-  source = {"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/main/fancymenu/version.txt","json_path":"$.changelog"}}%n%%n%%n%%n%%n%%n%%n%%n%%n%%n%%n%%n% %n%%n%%n%%n% %n%%n%%n%%n% %n%%n%%n%%n% %n%%n%%n%%n% %n%%n%%n%%n% 
+  source = {"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/main/fancymenu/version2.json","json_path":"$.changelog"}}%n%%n%%n%%n%%n%%n%%n%%n%%n%%n%%n%%n% %n%%n%%n%%n% %n%%n%%n%%n% %n%%n%%n%%n% %n%%n%%n%%n% %n%%n%%n%%n% 
   advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}-{"placeholder":"elementwidth","values":{"id":"fbb97f93-9c0b-4a76-8a6a-653774edd8a81672678958612"}}-1","decimal":"true"}}
   text_border = 0
   advanced_width = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/4","decimal":"true"}}
@@ -314,39 +288,43 @@ customization {
   line_spacing = 1
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = fbb97f93-9c0b-4a76-8a6a-653774edd8a81672678958612
-  vr_custom:showif:fancymenu_visibility_requirement_is_text = false
   delayappearance = true
-  height = 126
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if_not][group:group_1681678391925][req_id:c9a71ad1-e201-4c5a-a18f-5d0b1fe0a9961681678428596] = wynnicLocalVersionPatch:{"placeholder":"getvariable","values":{"name":"wynnicOnlineVersionPatch"}}
+  height = 107
   advanced_height = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/2.8","decimal":"true"}}
   orientation = top-left
   enable_scrolling = true
   case_mode = normal
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if_not][group:group_1681678391925][req_id:d592713a-fdbf-4e56-929e-42d6373856f41681678393867] = wynnicLocalVersionMajor:{"placeholder":"getvariable","values":{"name":"wynnicOnlineVersionMajor"}}
   fadein = true
   source_mode = direct
   fadeinspeed = 1.5
   x = 0
-  width = 160
+  width = 133
   y = 0
   alignment = centered
+  [loading_requirement_group:group_1681678391925] = [group_mode:or]
   delayappearanceeverytime = false
 }
 
 customization {
   shadow = true
   delayappearanceseconds = 1.0
-  vr_custom:value:fancymenu_visibility_requirement_is_text = ["mode":"equals","text":"{"placeholder":"json","values":{"source":"fancymenu/version.txt","json_path":"$.version"}}","compare_with":"{"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/main/fancymenu/version.txt","json_path":"$.version"}}"]$
   scale = 1.0
-  source = Newest Version: {"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/main/fancymenu/version.txt","json_path":"$.version"}}
+  source = Newest Version: {"placeholder":"getvariable","values":{"name":"wynnicOnlineVersionMajor"}}.{"placeholder":"getvariable","values":{"name":"wynnicOnlineVersionMinor"}}.{"placeholder":"getvariable","values":{"name":"wynnicOnlineVersionPatch"}}
   text_border = 0
   line_spacing = 1
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if_not][group:group_1681677786440][req_id:208be4e7-d88e-48a8-86f8-ae1a5c0d6d131681677792322] = wynnicLocalVersionMajor:{"placeholder":"getvariable","values":{"name":"wynnicOnlineVersionMajor"}}
   action = custom_layout_element:fancymenu_customization_item_text
-  actionid = 24584061-8cfd-4f67-93fd-f04382aaec8d1674739124615
-  vr_custom:showif:fancymenu_visibility_requirement_is_text = false
+  actionid = bb809740-c78f-4497-a03c-200f50ae2b771681676897660
   delayappearance = true
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if_not][group:group_1681677786440][req_id:92b479b0-fc6f-4dd5-bee9-44f4ca26f4231681677854427] = wynnicLocalVersionPatch:{"placeholder":"getvariable","values":{"name":"wynnicOnlineVersionPatch"}}
   height = 10
   orientation = element
   enable_scrolling = false
+  [loading_requirement_group:group_1681677786440] = [group_mode:or]
   case_mode = normal
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if_not][group:group_1681677786440][req_id:1fece56c-0152-4bd2-8858-38bd72004c2e1681677807697] = wynnicLocalVersionMinor:{"placeholder":"getvariable","values":{"name":"wynnicOnlineVersionMinor"}}
   fadein = true
   source_mode = direct
   fadeinspeed = 1.5
@@ -355,7 +333,108 @@ customization {
   width = 175
   y = -43
   alignment = centered
-  base_color = ff0000
+  base_color = #ff0000
   delayappearanceeverytime = false
+}
+
+customization {
+  tickeraction_0_set_variable = wynnicOnlineVersionPatch:{"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/main/fancymenu/version2.json","json_path":"$.patch"}}
+  orientation = top-left
+  tick_delay = 0
+  is_async = false
+  x = 44
+  width = 20
+  action = custom_layout_element:fancymenu_customization_item_ticker
+  actionid = b0d883aa-eb80-422d-beb2-9cd1feb09a861681681140525
+  y = 28
+  tick_mode = on_menu_load
+  height = 20
+}
+
+customization {
+  tickeraction_0_set_variable = wynnicOnlineVersionMinor:{"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/main/fancymenu/version2.json","json_path":"$.minor"}}
+  orientation = top-left
+  tick_delay = 0
+  is_async = false
+  x = 23
+  width = 20
+  action = custom_layout_element:fancymenu_customization_item_ticker
+  actionid = 5b53f6a2-0003-4009-a31c-6089b2ded52f1681681140525
+  y = 28
+  tick_mode = on_menu_load
+  height = 20
+}
+
+customization {
+  tickeraction_0_set_variable = wynnicOnlineVersionMajor:{"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/main/fancymenu/version2.json","json_path":"$.major"}}
+  orientation = top-left
+  tick_delay = 0
+  is_async = false
+  x = 2
+  width = 20
+  action = custom_layout_element:fancymenu_customization_item_ticker
+  actionid = b14bf74d-4ac6-4c6d-88e2-f41b9f28faee1681681140525
+  y = 28
+  tick_mode = on_menu_load
+  height = 20
+}
+
+customization {
+  tickeraction_0_set_variable = wynnicLocalVersionMajor:{"placeholder":"json","values":{"source":"/fancymenu/version2.json","json_path":"$.major"}}
+  orientation = top-left
+  tick_delay = 0
+  is_async = false
+  x = 2
+  width = 20
+  action = custom_layout_element:fancymenu_customization_item_ticker
+  actionid = 92f989d8-ab48-4be6-be75-462d2d9dd18a1681681140525
+  y = 6
+  tick_mode = on_menu_load
+  height = 20
+}
+
+customization {
+  tickeraction_0_set_variable = wynnicLocalVersionMinor:{"placeholder":"json","values":{"source":"/fancymenu/version2.json","json_path":"$.minor"}}
+  orientation = top-left
+  tick_delay = 0
+  is_async = false
+  x = 23
+  width = 20
+  action = custom_layout_element:fancymenu_customization_item_ticker
+  actionid = 28a223b5-ce7b-4ae0-9e6b-55cb81a1b4131681681140525
+  y = 6
+  tick_mode = on_menu_load
+  height = 20
+}
+
+customization {
+  tickeraction_0_set_variable = wynnicLocalVersionPatch:{"placeholder":"json","values":{"source":"/fancymenu/version2.json","json_path":"$.patch"}}
+  orientation = top-left
+  tick_delay = 0
+  is_async = false
+  x = 44
+  width = 20
+  action = custom_layout_element:fancymenu_customization_item_ticker
+  actionid = fbe12bd3-bb01-49c9-9749-f0354f132ec71681681140525
+  y = 6
+  tick_mode = on_menu_load
+  height = 20
+}
+
+customization {
+  tickeraction_0_reloadmenu = 
+  orientation = top-left
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:2929c699-b4c6-4ae5-80aa-21e8a53dda6c1681681203385] = wynnicOnlineVersionMajor:
+  tick_mode = normal
+  tick_delay = 10
+  is_async = false
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:598515dc-2176-42d8-8090-ef9b8cb4e6691681681246307] = wynnicOnlineVersionMinor:
+  x = 2
+  width = 70
+  action = custom_layout_element:fancymenu_customization_item_ticker
+  actionid = 54974a69-0b87-4045-b0ee-23d2c7c095461681681194657
+  y = 52
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:eba53da1-9db2-4a37-a5fb-f7c1585036241681681275731] = wynnicOnlineVersionPatch:
+  height = 14
 }
 
