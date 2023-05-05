@@ -1,0 +1,159 @@
+type = menu
+
+customization-meta {
+  identifier = wynnic_function_stock
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  action = setscale
+  scale = 3
+}
+
+customization {
+  baseheight = 1080
+  action = autoscale
+  basewidth = 1920
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  advanced_height = 15
+  orientation = top-left
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = Function Stock | Wynntils Artemis Version: {"placeholder":"modversion","values":{"modid":"wynntils"}}
+  advanced_posx = 0
+  text_border = 0
+  case_mode = normal
+  advanced_width = {"placeholder":"guiwidth"}
+  advanced_posy = 12
+  source_mode = direct
+  line_spacing = 1
+  x = 0
+  width = 653
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = b682d9fc-82f2-4433-b4d3-d9f1202ddae11681642050640
+  y = 0
+  alignment = centered
+  height = 15
+}
+
+customization {
+  advanced_height = 4
+  orientation = top-left
+  shape = rectangle
+  color = #1ce368f0
+  advanced_posx = 12
+  advanced_width = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}*0.9","decimal":"false"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}*0.1","decimal":"true"}}
+  x = 0
+  width = 588
+  action = addshape
+  actionid = 34ef9c90-c47b-421f-83fb-a72e5b5fe0fb1681658825113
+  y = 0
+  height = 4
+}
+
+customization {
+  orientation = element
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  orientation_element = 34ef9c90-c47b-421f-83fb-a72e5b5fe0fb1681658825113
+  buttonaction = set_variable;function_type:bar%btnaction_splitter_fm%set_variable;function_source:xp_bar%btnaction_splitter_fm%reloadmenu%btnaction_splitter_fm%
+  x = 306
+  width = 267
+  action = addbutton
+  actionid = 563cdc44-d9b7-4a38-80be-2dc9be5fc56c1682854666344
+  y = 7
+  label = Custom XP Bar supporting Professions
+  height = 20
+}
+
+customization {
+  orientation = element
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  orientation_element = 563cdc44-d9b7-4a38-80be-2dc9be5fc56c1682854666344
+  buttonaction = set_variable;function_type:box%btnaction_splitter_fm%set_variable;function_source:inv_flash%btnaction_splitter_fm%reloadmenu%btnaction_splitter_fm%
+  x = 0
+  width = 267
+  action = addbutton
+  actionid = 900c89c0-c942-42bd-902b-43c64212bf651682854792962
+  y = 23
+  label = Flashing Inventory Overlay
+  height = 20
+}
+
+customization {
+  orientation = element
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  orientation_element = 900c89c0-c942-42bd-902b-43c64212bf651682854792962
+  buttonaction = set_variable;function_type:box%btnaction_splitter_fm%set_variable;function_source:pouch_flash%btnaction_splitter_fm%reloadmenu%btnaction_splitter_fm%
+  x = 0
+  width = 267
+  action = addbutton
+  actionid = 4193d13d-f214-4ce0-9933-060577e802311682854833056
+  y = 23
+  label = Flashing Pouch Overlay
+  height = 20
+}
+
+customization {
+  orientation = element
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  orientation_element = 4193d13d-f214-4ce0-9933-060577e802311682854833056
+  buttonaction = set_variable;function_type:box%btnaction_splitter_fm%set_variable;function_source:horse_info%btnaction_splitter_fm%reloadmenu%btnaction_splitter_fm%
+  x = 0
+  width = 267
+  action = addbutton
+  actionid = 6f2302c8-1240-4010-82e1-5d443b1f73581682854861112
+  y = 23
+  label = Horse info
+  height = 20
+}
+
+customization {
+  orientation = element
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  orientation_element = 6f2302c8-1240-4010-82e1-5d443b1f73581682854861112
+  buttonaction = set_variable;function_type:box%btnaction_splitter_fm%set_variable;function_source:xp_box%btnaction_splitter_fm%reloadmenu%btnaction_splitter_fm%
+  x = 0
+  width = 267
+  action = addbutton
+  actionid = 140e937e-fd48-408f-944d-6bb5c62e91651682854924235
+  y = 23
+  label = Advanced XP Overlay
+  height = 20
+}
+
+customization {
+  orientation = bottom-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Note: You need to wait a second or two after pressing Copy buttons for them to actually copy
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 0
+  width = 634
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = e1abe11d-284c-4137-a675-074348fd6b621683142399496
+  y = -13
+  alignment = left
+  height = 13
+}
+

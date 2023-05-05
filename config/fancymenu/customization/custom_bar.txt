@@ -1,0 +1,103 @@
+type = menu
+
+customization-meta {
+  identifier = wynnic_function_stock
+  randomgroup = 1
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:625668a7-c00f-470d-909f-eb2504cc03b01682884191443] = function_type:bar
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  action = setscale
+  scale = 3
+}
+
+customization {
+  baseheight = 1080
+  action = autoscale
+  basewidth = 1920
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = &l{"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicFunctionStock/main/{"placeholder":"getvariable","values":{"name":"function_source"}}/data.json","json_path":"$.name"}}%n%Version: {"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicFunctionStock/main/{"placeholder":"getvariable","values":{"name":"function_source"}}/data.json","json_path":"$.version"}}%n%For Wynntils: {"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicFunctionStock/main/{"placeholder":"getvariable","values":{"name":"function_source"}}/data.json","json_path":"$.wynntils"}}
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 15
+  width = 300
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 8c1ad73d-c2b2-4833-9f90-749082c071ef1682857773270
+  y = 145
+  alignment = centered
+  height = 43
+}
+
+customization {
+  orientation = element
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  orientation_element = 8c1ad73d-c2b2-4833-9f90-749082c071ef1682857773270
+  buttonaction = copytoclipboard;{"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicFunctionStock/main/{"placeholder":"getvariable","values":{"name":"function_source"}}/data.json","json_path":"$.value"}}%btnaction_splitter_fm%
+  x = 0
+  width = 300
+  action = addbutton
+  actionid = 33f23cda-700c-4985-a6cb-50a65794fbb21682883677782
+  y = 46
+  label = Copy Value Template
+  height = 20
+}
+
+customization {
+  orientation = element
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  orientation_element = 33f23cda-700c-4985-a6cb-50a65794fbb21682883677782
+  buttonaction = copytoclipboard;{"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicFunctionStock/main/{"placeholder":"getvariable","values":{"name":"function_source"}}/data.json","json_path":"$.text"}}%btnaction_splitter_fm%
+  x = 0
+  width = 300
+  action = addbutton
+  actionid = 172320f7-d288-4000-b307-3255d529f7ea1682883723135
+  y = 23
+  label = Copy Text Template
+  height = 20
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = copytoclipboard;{"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicFunctionStock/main/{"placeholder":"getvariable","values":{"name":"function_source"}}/data.json","json_path":"$.color"}}%btnaction_splitter_fm%
+  label = (Optional) Copy Color
+  loopbackgroundanimations = true
+  [loading_requirement:fancymenu_visibility_requirement_is_number][requirement_mode:if_not][req_id:5dc1abe6-c8ca-43a0-8725-7543b56f456e1682884526865] = ["mode":"equals","number":"0","compare_with":"{"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicFunctionStock/main/{"placeholder":"getvariable","values":{"name":"function_source"}}/data.json","json_path":"$.color"}}"]$
+  orientation_element = 172320f7-d288-4000-b307-3255d529f7ea1682883723135
+  x = 0
+  width = 300
+  action = addbutton
+  actionid = cbab47b6-e59e-4f60-9dfb-8a06038c7b701682883753717
+  y = 23
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  x = 15
+  width = 300
+  action = addwebtexture
+  actionid = acc9278a-9cb1-4ba5-b89d-39fec55f6f0a1682886540489
+  y = 42
+  url = https://raw.githubusercontent.com/Rafii2198/WynnicFunctionStock/main/{"placeholder":"getvariable","values":{"name":"function_source"}}/image.png
+  height = 100
+}
+

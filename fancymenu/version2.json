@@ -1,7 +1,7 @@
 {
 	"mc": "1.19.4",
 	"major": 0,
-	"minor": 3,
+	"minor": 4,
 	"patch": 0,
-	"changelog": "Update &l0.3.0&r%n%%n%&lMinecraft&r:%n%-Updated to &l1.19.4&r%n%&lMods Removed:&r%n%-Iceberg%n%-Legendary Tooltips%n%&lKnown Issues:&r%n%-Wynn button placement"
+	"changelog": "Update &l0.4.0%n%%n%&lMods Added:%n%-Iceberg%n%-Legendary Tooltips%n%-MoreChatHistory%n%-Nicer Skies%n%&lMod Updates:%n%-BetterF3%n%-C2ME%n%-Drippy Loading Screen%n%-Entity Texture Features%n%-Fabric API%n%-Fabric Language Kotlin%n%-Fabrishot%n%-Fancy Menu%n%-Indium%n%-Iris%n%-Kiwi%n%-Konkrete%n%-Mod Menu%n%-Server Pack Unlocker%n%-Smooth Swapping%n%-Sodium%n%-Sodium Extra%n%-Wynntils%n%-Yet Another Config Lib%n%&lMods Removed:%n%-Amecs%n%&lShaderpacks added:%n%-Complementary Reimagined%n%&lChanges:%n%-Added Function Stock%n%-Further main menu changes"
 }
