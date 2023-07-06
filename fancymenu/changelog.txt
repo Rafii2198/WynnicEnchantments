@@ -1,37 +1,5 @@
-Update &l0.4.0
-&lMods Added:
--Iceberg
--Legendary Tooltips
--MoreChatHistory
--Nicer Skies
+Update &l0.4.1
 
 &lMod Updates:
--BetterF3
--C2ME
--Drippy Loading Screen
--Entity Texture Features
--Fabric API
--Fabric Language Kotlin
--Fabrishot
--Fancy Menu
--Indium
--Iris
--Kiwi
--Konkrete
--Mod Menu
--Server Pack Unlocker
--Smooth Swapping
--Sodium
--Sodium Extra
--Wynntils
--Yet Another Config Lib
-
-&lMods Removed:
--Amecs
-
-&lShaderpacks added:
--Complementary Reimagined
-
-&lChanges:
--Added Function Stock
--Further main menu changes
+- Fabric API
+- Wynntils
