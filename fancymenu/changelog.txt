@@ -1,5 +1,37 @@
-Update &l0.4.1
+Update &l0.5.0
+
+
+&lMods Added:
+- Entity Model Features
+- Modern Fix
+- OptiGUI
 
 &lMod Updates:
-- Fabric API
+- Auth Me
+- BetterF3
+- Bobby
+- C2ME
+- Capes
+- Cloth Config API
+- Collective
+- Drippy Loading Screen
+- Entity Texture Features
+- Fabric Language Kotlin
+- Falling Leaves
+- Figura
+- Iceberg
+- Indium
+- Iris
+- LibJF
+- Memory Leak Fix
+- Mod Menu
+- Not Enough Animations
+- Smooth Swapping
+- Sodium
+- Wavey Capes
 - Wynntils
+- Yet Another Config Lib
+
+&lShaderpacks Updates:
+- Complementary Reimagined 
+^ ALso file name changed

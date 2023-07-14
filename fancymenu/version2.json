@@ -1,7 +1,7 @@
 {
 	"mc": "1.19.4",
 	"major": 0,
-	"minor": 4,
-	"patch": 1,
-	"changelog": "Update &l0.4.1%n%%n%&lMod Updates:%n%-Fabric API%n%- Wynntils"
+	"minor": 5,
+	"patch": 0,
+	"changelog": "Update &l0.5.0%n%%n%%n%&lMods Added:%n%- Entity Model Features%n%- Modern Fix%n%- OptiGUI%n%%n%&lMod Updates:%n%- Auth Me%n%- BetterF3%n%- Bobby%n%- C2ME%n%- Capes%n%- Cloth Config API%n%- Collective%n%- Drippy Loading Screen%n%- Entity Texture Features%n%- Fabric Language Kotlin%n%- Falling Leaves%n%- Figura%n%- Iceberg%n%- Indium%n%- Iris%n%- LibJF%n%- Memory Leak Fix%n%- Mod Menu%n%- Not Enough Animations%n%- Smooth Swapping%n%- Sodium%n%- Wavey Capes%n%- Wynntils%n%- Yet Another Config Lib%n%%n%&lShaderpacks Updates:%n%- Complementary Reimagined %n%^ ALso file name changed"
 }
