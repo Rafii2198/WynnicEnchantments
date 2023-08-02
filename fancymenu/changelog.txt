@@ -5,7 +5,7 @@ Update &l0.5.1
 - Fabric API
 - Fabric Language Kotlin
 - Falling Leaves
-- Fancy Meni
+- Fancy Menu
 - ModernFix
 - Mod Menu
 - OptiGUI

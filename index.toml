@@ -178,7 +178,7 @@ hash = "73b0cc19c51755c2622e5ea09700519ad26fa724469ffb2e34ae7e3edb55262e"
 
 [[files]]
 file = "fancymenu/changelog.txt"
-hash = "7ea69bc7dbec278e1e8702ab7a29015d06ee2e02d8b767d164df0211bb70fd63"
+hash = "044bafba19dead340f162fa5ff57ed061ccd208360e88e4eaf34cd6abd2e3e7f"
 
 [[files]]
 file = "fancymenu/gradient.png"
@@ -202,7 +202,7 @@ hash = "6c5d7a62b6824beaaf7258f27a2bc004b8c52a51c97618dae39715f79b01ccd7"
 
 [[files]]
 file = "fancymenu/version2.json"
-hash = "769ce268c3ade949e0cdb8d8cdd3df3dc50774b587029ec85961820b4d339fea"
+hash = "458e09560919d05785f9aa4b374cb23d76f5c7d3eabf4e9c16ac7a61aa751ac7"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
