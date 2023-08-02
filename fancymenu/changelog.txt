@@ -1,37 +1,14 @@
-Update &l0.5.0
-
-
-&lMods Added:
-- Entity Model Features
-- Modern Fix
-- OptiGUI
+Update &l0.5.1
 
 &lMod Updates:
-- Auth Me
-- BetterF3
-- Bobby
 - C2ME
-- Capes
-- Cloth Config API
-- Collective
-- Drippy Loading Screen
-- Entity Texture Features
+- Fabric API
 - Fabric Language Kotlin
 - Falling Leaves
-- Figura
-- Iceberg
-- Indium
-- Iris
-- LibJF
-- Memory Leak Fix
+- Fancy Meni
+- ModernFix
 - Mod Menu
-- Not Enough Animations
-- Smooth Swapping
-- Sodium
-- Wavey Capes
+- OptiGUI
+- Reese's Sodium Options
 - Wynntils
-- Yet Another Config Lib
-
-&lShaderpacks Updates:
-- Complementary Reimagined 
-^ Also file name changed
+- YACL
