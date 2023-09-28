@@ -1,14 +1,22 @@
-Update &l0.5.1
+Update &l0.5.2
 
 &lMod Updates:
 - C2ME
+- Collective
+- Dynamic FPS
+- Entity Model Features
+- Entity Texture Features
 - Fabric API
 - Fabric Language Kotlin
 - Falling Leaves
-- Fancy Menu
-- ModernFix
-- Mod Menu
-- OptiGUI
-- Reese's Sodium Options
+- Figura
+- Iris
+- Memory Leak Fix
+- Modern Fix
 - Wynntils
 - YACL
+
+&lShader Updates:
+- Complementary Reimagined
+^ Fixed a typo in file name
+^ Thus config will reset
