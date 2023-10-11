@@ -1,0 +1,43 @@
+{
+	"enabled": true,
+	"ticksRevealed": 10,
+	"haloComponents": [
+		"Health",
+		"Food"
+	],
+	"halo2Components": [
+		"Status"
+	],
+	"haloRadius": 24.0,
+	"haloWidth": 3.5,
+	"halo2Radius": 31.0,
+	"halo2Width": 1.0,
+	"colorEmpty": 553648127,
+	"showElytraBelow": 0.5,
+	"colorElytra": -1059201571,
+	"colorAttack": 16777215,
+	"colorProgress": -1070563280,
+	"colorStrength": -1064098781,
+	"colorHaste": -1059471293,
+	"colorWeakness": -1069003448,
+	"colorMiningFatigue": -1068875241,
+	"showHealthAlways": false,
+	"showHealthBelow": 0.8,
+	"colorHealth": 2143879211,
+	"colorAbsorption": -1071295835,
+	"colorRegeneration": -1060283221,
+	"colorPoison": -1068592335,
+	"colorWither": -1070257625,
+	"showFoodAlways": false,
+	"showFoodBelow": 0.9,
+	"colorFood": 2130740680,
+	"colorHeldFood": -1062567936,
+	"colorHunger": -1067944365,
+	"heldFoodAnimationType": "Pulsating",
+	"showAirBelow": 1.0,
+	"colorAir": 2141891327,
+	"showToolAlways": false,
+	"showToolBelow": 0.5,
+	"showOffhand": true,
+	"colorTool": -1056964609
+}

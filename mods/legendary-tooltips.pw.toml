@@ -1,13 +1,13 @@
 name = "Legendary Tooltips"
-filename = "LegendaryTooltips-1.19.4-fabric-1.4.3.jar"
+filename = "LegendaryTooltips-1.20.1-fabric-1.4.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/atHH8NyV/versions/UOVPhZoi/LegendaryTooltips-1.19.4-fabric-1.4.3.jar"
+url = "https://cdn.modrinth.com/data/atHH8NyV/versions/pKKg19XI/LegendaryTooltips-1.20.1-fabric-1.4.4.jar"
 hash-format = "sha1"
-hash = "9aca62b110f8788593306741312004bb5ff87622"
+hash = "f63050d83d5c10fc18bf64a61e741d42cd45e20b"
 
 [update]
 [update.modrinth]
 mod-id = "atHH8NyV"
-version = "UOVPhZoi"
+version = "pKKg19XI"

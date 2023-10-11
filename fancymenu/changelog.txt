@@ -1,22 +1,93 @@
-Update &l0.5.2
+Update &l0.6.0
 
-&lMod Updates:
+&lMinecraft:
+- Updated to 1.20.2
+
+&lChanges:
+- New banner and logo design
+- New Main Menu
+
+&lMods Added:
+- Ambient Sounds
+- Better Third Person
+- Camera Overhaul | Optional
+- Chat Patches
+- Controlling
+- Creative Core
+- Custom FOV
+- FabriZoom
+- Immediately Fast
+- Item Highlighter
+- Mica
+- Midnight Controls | Optional
+- Physics Mod | Optional
+- Searchables
+- Spark
+
+&lUpdated Mods:
+- 3D Skin Layer
+- BetterF3
+- Bobby
+- Borderless Mining
 - C2ME
+- Capes
+- Cloth Config
 - Collective
+- Drippy Loading Screen
 - Dynamic FPS
 - Entity Model Features
+- Entity Culling
 - Entity Texture Features
 - Fabric API
-- Fabric Language Kotlin
+- Fabrishot
 - Falling Leaves
-- Figura
+- Fancy Menu
+- FerriteCore
+- First Person Model
+- Forge Config API Port
+- Halo HUD
+- Iceberg
+- Indium
 - Iris
-- Memory Leak Fix
-- Modern Fix
+- Konkrete
+- Krypton
+- Legendary Tooltips
+- LibJF
+- Lithium
+- Model Gap Fix
+- ModernFix
+- Mod Menu
+- Mods Command
+- More Culling
+- Nicer Skies
+- Nimble
+- Not Enough Animations
+- Prism
+- Reese's Sodium Options
+- Respackopts
+- Server Pack Unlocker
+- Smooth Swapping
+- Sodium
+- Starlight
+- Visuality
+- Wavey Capes
 - Wynntils
 - YACL
 
+&lRemoved Mods:
+- Auth Me
+- Chime
+- Figura
+- Kiwi
+- Logical Zoom
+- Memory Leak Fix
+- More Chat History
+- OptiGUI
+- Smooth Boot
+- VT Downloader
+
 &lShader Updates:
-- Complementary Reimagined
-^ Fixed a typo in file name
-^ Thus config will reset
+- VanillAA
+
+&lKnown Issues:
+- Some Main Menu buttons are displaced

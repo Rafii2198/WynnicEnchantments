@@ -1,7 +1,7 @@
 {
-	"mc": "1.19.4",
+	"mc": "1.20.2",
 	"major": 0,
-	"minor": 5,
-	"patch": 2,
-	"changelog": "Update &l0.5.2%n%%n%&lMod Updates:%n%- C2ME%n%- Collective%n%- Dynamic FPS%n%- Entity Model Features%n%- Entity Texture Features%n%- Fabric API%n%- Fabric Language Kotlin%n%- Falling Leaves%n%- Figura%n%- Iris%n%- Memory Leak Fix%n%- Modern Fix%n%- Wynntils%n%- YACL%n%%n%&lShader Updates:%n%- Complementary Reimagined%n%^ Fixed a typo in file name%n%^ Thus config will reset"
+	"minor": 6,
+	"patch": 0,
+	"changelog": "Update &l0.3.0&r%n%%n%&lMinecraft&r:%n%-Updated to &l1.19.4&r%n%&lMods Removed:&l%n%-Iceberg%n%-Legendary Tooltips%n%&lKnown Issues:&r%n%-Wynn button placement"
 }

@@ -3,11 +3,11 @@ filename = "VanillAA.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/W3QK7DQz/versions/X5eYhMjV/VanillAA.zip"
+url = "https://cdn.modrinth.com/data/W3QK7DQz/versions/CgdY86YT/VanillAA.zip"
 hash-format = "sha1"
-hash = "b37a460b748d82d6d0a0c25a90351d6dd459c944"
+hash = "6d603bade00b3f8ccb18939f74e29f27bdca97ad"
 
 [update]
 [update.modrinth]
 mod-id = "W3QK7DQz"
-version = "X5eYhMjV"
+version = "CgdY86YT"

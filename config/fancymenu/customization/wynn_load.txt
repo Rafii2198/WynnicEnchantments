@@ -21,12 +21,13 @@ customization {
 customization {
   orientation = top-left
   hidden = false
-  x = 117
-  width = 300
+  original_pos_size_calculation = true
+  x = 144
+  width = 352
   action = deep_customization_element:drippy_overlay_logo
   actionid = f9c51323-aa38-437d-a3e3-65cc4034c88a1675344883365
-  y = 113
-  height = 74
+  y = 132
+  height = 88
 }
 
 customization {
@@ -43,111 +44,23 @@ customization {
 customization {
   orientation = top-left
   hidden = false
-  x = 117
-  width = 300
+  original_pos_size_calculation = true
+  x = 144
+  width = 352
   action = deep_customization_element:drippy_overlay_progress_bar
   actionid = 08c41736-00e4-4cc1-a3ff-9b39aaeed6591675344883365
-  y = 244
+  y = 288
   height = 10
 }
 
 customization {
-  orientation = top-right
-  delayappearanceseconds = 0.5
   path = fancymenu/logomain.png
-  fadein = true
-  fadeinspeed = 1.5
-  x = -130
-  width = 129
+  orientation = top-right
+  x = -179
+  width = 174
   action = addtexture
-  actionid = 7427f6e6-3697-4339-ade1-04c7d2449a881675445660999
-  y = 7
-  delayappearance = true
-  delayappearanceeverytime = false
-  height = 54
-}
-
-customization {
-  tickeraction_0_set_variable = wynnicLocalVersionMajor:{"placeholder":"json","values":{"source":"/fancymenu/version2.json","json_path":"$.major"}}
-  orientation = top-left
-  tick_delay = 0
-  is_async = false
-  x = 1
-  width = 20
-  action = custom_layout_element:fancymenu_customization_item_ticker
-  actionid = dfc0ccab-a383-4646-9d01-c8c39aadb8331681680863504
-  y = 6
-  tick_mode = on_menu_load
-  height = 20
-}
-
-customization {
-  tickeraction_0_set_variable = wynnicLocalVersionMinor:{"placeholder":"json","values":{"source":"/fancymenu/version2.json","json_path":"$.minor"}}
-  orientation = top-left
-  tick_delay = 0
-  is_async = false
-  x = 22
-  width = 20
-  action = custom_layout_element:fancymenu_customization_item_ticker
-  actionid = 75bd498b-5e88-40cd-a419-cc6005bfada41681680863504
-  y = 6
-  tick_mode = on_menu_load
-  height = 20
-}
-
-customization {
-  tickeraction_0_set_variable = wynnicLocalVersionPatch:{"placeholder":"json","values":{"source":"/fancymenu/version2.json","json_path":"$.patch"}}
-  orientation = top-left
-  tick_delay = 0
-  is_async = false
-  x = 43
-  width = 20
-  action = custom_layout_element:fancymenu_customization_item_ticker
-  actionid = b4e32f0e-a60b-4a66-91a6-2ae75d073a6f1681680863504
-  y = 6
-  tick_mode = on_menu_load
-  height = 20
-}
-
-customization {
-  tickeraction_0_set_variable = wynnicOnlineVersionPatch:{"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/main/fancymenu/version2.json","json_path":"$.patch"}}
-  orientation = top-left
-  tick_delay = 0
-  is_async = false
-  x = 43
-  width = 20
-  action = custom_layout_element:fancymenu_customization_item_ticker
-  actionid = a8dd2b02-5760-47d1-a004-d89d73c74f761681680863504
-  y = 28
-  tick_mode = on_menu_load
-  height = 20
-}
-
-customization {
-  tickeraction_0_set_variable = wynnicOnlineVersionMinor:{"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/main/fancymenu/version2.json","json_path":"$.minor"}}
-  orientation = top-left
-  tick_delay = 0
-  is_async = false
-  x = 22
-  width = 20
-  action = custom_layout_element:fancymenu_customization_item_ticker
-  actionid = 939c358f-b08d-45d8-8f5e-7ddb81130a231681680863504
-  y = 28
-  tick_mode = on_menu_load
-  height = 20
-}
-
-customization {
-  tickeraction_0_set_variable = wynnicOnlineVersionMajor:{"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/main/fancymenu/version2.json","json_path":"$.major"}}
-  orientation = top-left
-  tick_delay = 0
-  is_async = false
-  x = 1
-  width = 20
-  action = custom_layout_element:fancymenu_customization_item_ticker
-  actionid = 58a6427b-9632-45b9-a812-760576815a0e1681680863504
-  y = 28
-  tick_mode = on_menu_load
-  height = 20
+  actionid = 8ff6a2ac-8a0e-409e-bf88-eea860f758d91697028077011
+  y = 5
+  height = 61
 }
 
