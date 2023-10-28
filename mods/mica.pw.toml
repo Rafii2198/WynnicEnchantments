@@ -1,13 +1,13 @@
 name = "Mica"
-filename = "mica-1.0.0.jar"
+filename = "mica-1.0.1-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ku1JKosh/versions/wt9PmYni/mica-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/ku1JKosh/versions/RLf6khoW/mica-1.0.1-fabric.jar"
 hash-format = "sha1"
-hash = "d5a5cc09d14fc7ab0e46c3f35ab21d4d6d2171ed"
+hash = "53c216ba7f41ff769374005c5212f34f10579e47"
 
 [update]
 [update.modrinth]
 mod-id = "ku1JKosh"
-version = "wt9PmYni"
+version = "RLf6khoW"

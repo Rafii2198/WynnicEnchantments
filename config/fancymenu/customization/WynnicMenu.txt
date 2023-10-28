@@ -37,13 +37,13 @@ customization {
 }
 
 customization {
-  identifier = %id=604382%
+  identifier = %id=604394%
   orientation = top-left
   x = 0
   action = movebutton
   y = 0
-  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposx","values":{"id":"vanillabtn:376382"}}+{"placeholder":"elementwidth","values":{"id":"vanillabtn:376382"}}+4","decimal":"true"}}
-  advanced_posy = {"placeholder":"elementposy","values":{"id":"vanillabtn:376382"}}
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposx","values":{"id":"vanillabtn:376394"}}+{"placeholder":"elementwidth","values":{"id":"vanillabtn:376394"}}+4","decimal":"true"}}
+  advanced_posy = {"placeholder":"elementposy","values":{"id":"vanillabtn:376394"}}
 }
 
 customization {
@@ -83,7 +83,7 @@ customization {
 }
 
 customization {
-  identifier = %id=604322%
+  identifier = %id=604310%
   orientation = top-left
   x = 0
   action = movebutton
@@ -93,7 +93,7 @@ customization {
 }
 
 customization {
-  identifier = %id=376382%
+  identifier = %id=376394%
   orientation = top-left
   x = 0
   action = movebutton

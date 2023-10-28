@@ -1,93 +1,31 @@
-Update &l0.6.0
-
-&lMinecraft:
-- Updated to 1.20.2
+Update &l0.6.1
 
 &lChanges:
-- New banner and logo design
-- New Main Menu
+- Fixed main menu issues
 
 &lMods Added:
-- Ambient Sounds
-- Better Third Person
-- Camera Overhaul | Optional
-- Chat Patches
-- Controlling
-- Creative Core
-- Custom FOV
-- FabriZoom
-- Immediately Fast
-- Item Highlighter
-- Mica
-- Midnight Controls | Optional
-- Physics Mod | Optional
-- Searchables
-- Spark
+- Auth Me
+- CIT Resewn
+- F3 Keybind
+- Flow
+- Notes
+- Presence Footsteps
+- Sonace
 
 &lUpdated Mods:
-- 3D Skin Layer
-- BetterF3
-- Bobby
-- Borderless Mining
-- C2ME
-- Capes
-- Cloth Config
-- Collective
+- Better F3
 - Drippy Loading Screen
-- Dynamic FPS
-- Entity Model Features
-- Entity Culling
-- Entity Texture Features
 - Fabric API
-- Fabrishot
-- Falling Leaves
 - Fancy Menu
-- FerriteCore
-- First Person Model
-- Forge Config API Port
-- Halo HUD
-- Iceberg
-- Indium
+- Ferrite Core
 - Iris
 - Konkrete
-- Krypton
-- Legendary Tooltips
-- LibJF
-- Lithium
-- Model Gap Fix
-- ModernFix
-- Mod Menu
-- Mods Command
-- More Culling
-- Nicer Skies
-- Nimble
-- Not Enough Animations
-- Prism
+- Mica
 - Reese's Sodium Options
-- Respackopts
-- Server Pack Unlocker
-- Smooth Swapping
-- Sodium
+- Searchables
+- Sodium Extra
 - Starlight
-- Visuality
-- Wavey Capes
 - Wynntils
-- YACL
 
 &lRemoved Mods:
-- Auth Me
-- Chime
-- Figura
-- Kiwi
-- Logical Zoom
-- Memory Leak Fix
-- More Chat History
-- OptiGUI
-- Smooth Boot
-- VT Downloader
-
-&lShader Updates:
-- VanillAA
-
-&lKnown Issues:
-- Some Main Menu buttons are displaced
+- Smooth Swapping

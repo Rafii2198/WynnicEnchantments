@@ -1,0 +1,13 @@
+name = "F3 Keybind"
+filename = "f3Keybind-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IJYMfro4/versions/SRU4J2Ao/f3Keybind-1.0.1.jar"
+hash-format = "sha1"
+hash = "1e6542afcb213a4eed6ae7ffab4ed48d6478bbea"
+
+[update]
+[update.modrinth]
+mod-id = "IJYMfro4"
+version = "SRU4J2Ao"

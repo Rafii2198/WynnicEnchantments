@@ -1,13 +1,13 @@
 name = "BetterF3"
-filename = "BetterF3-8.0.0-Fabric-1.20.2.jar"
+filename = "BetterF3-8.0.1-Fabric-1.20.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/8shC1gFX/versions/5WYwDGtD/BetterF3-8.0.0-Fabric-1.20.2.jar"
+url = "https://cdn.modrinth.com/data/8shC1gFX/versions/o935ywNh/BetterF3-8.0.1-Fabric-1.20.2.jar"
 hash-format = "sha1"
-hash = "b143d40a6d22d0e260b0252572e7a5061f8450da"
+hash = "9792a063cc9a74bb496472900e4591309e5cdaa2"
 
 [update]
 [update.modrinth]
 mod-id = "8shC1gFX"
-version = "5WYwDGtD"
+version = "o935ywNh"

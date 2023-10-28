@@ -64,3 +64,24 @@ customization {
   height = 61
 }
 
+customization {
+  orientation = top-left
+  tickeraction_7_set_variable = wynnic2_version_full_git:{"placeholder":"getvariable","values":{"name":"wynnic2_version_major_git"}}.{"placeholder":"getvariable","values":{"name":"wynnic2_version_minor_git"}}.{"placeholder":"getvariable","values":{"name":"wynnic2_version_patch_git"}}
+  tickeraction_5_set_variable = wynnic2_version_patch_local:{"placeholder":"json","values":{"source":"/fancymenu/version2.json","json_path":"$.patch"}}
+  tickeraction_6_set_variable = wynnic2_version_full_local:{"placeholder":"getvariable","values":{"name":"wynnic2_version_major_local"}}.{"placeholder":"getvariable","values":{"name":"wynnic2_version_minor_local"}}.{"placeholder":"getvariable","values":{"name":"wynnic2_version_patch_local"}}
+  tickeraction_3_set_variable = wynnic2_version_major_local:{"placeholder":"json","values":{"source":"/fancymenu/version2.json","json_path":"$.major"}}
+  tick_mode = on_menu_load
+  tickeraction_4_set_variable = wynnic2_version_minor_local:{"placeholder":"json","values":{"source":"/fancymenu/version2.json","json_path":"$.minor"}}
+  tickeraction_0_set_variable = wynnic2_version_major_git:{"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/main/fancymenu/version2.json","json_path":"$.major"}}
+  tick_delay = 0
+  tickeraction_2_set_variable = wynnic2_version_patch_git:{"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/main/fancymenu/version2.json","json_path":"$.patch"}}
+  tickeraction_1_set_variable = wynnic2_version_minor_git:{"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/main/fancymenu/version2.json","json_path":"$.minor"}}
+  is_async = false
+  x = 350
+  width = 30
+  action = custom_layout_element:fancymenu_customization_item_ticker
+  actionid = 96b4a229-0d3c-4b70-863c-7deedb6151a01698502472477
+  y = 16
+  height = 30
+}
+

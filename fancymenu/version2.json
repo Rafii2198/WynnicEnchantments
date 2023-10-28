@@ -2,6 +2,6 @@
 	"mc": "1.20.2",
 	"major": 0,
 	"minor": 6,
-	"patch": 0,
-	"changelog": "Update &l0.3.0&r%n%%n%&lMinecraft&r:%n%-Updated to &l1.19.4&r%n%&lMods Removed:&l%n%-Iceberg%n%-Legendary Tooltips%n%&lKnown Issues:&r%n%-Wynn button placement"
+	"patch": 1,
+	"changelog": "Update &l0.6.1%n$%n$&lChanges:%n$- Fixed main menu issues%n$%n$&lMods Added:%n$- Auth Me%n$- CIT Resewn%n$- F3 Keybind%n$- Flow%n$- Notes%n$- Presence Footsteps%n$- Sonace%n$%n$&lUpdated Mods:%n$- Better F3%n$- Drippy Loading Screen%n$- Fabric API%n$- Fancy Menu%n$- Ferrite Core%n$- Iris%n$- Konkrete%n$- Mica%n$- Reese's Sodium Options%n$- Searchables%n$- Sodium Extra%n$- Starlight%n$- Wynntils%n$%n$&lRemoved Mods:%n$- Smooth Swapping"
 }
