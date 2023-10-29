@@ -2,6 +2,6 @@
 	"mc": "1.20.2",
 	"major": 0,
 	"minor": 6,
-	"patch": 2,
-	"changelog": "Update &l0.6.2%n%%n%&lChanges:%n%- Fixed Flow Config%n%- Minor HaloHUD config change%n%%n%&lMods Added:%n%- OptiGUI%n%%n%&lUpdated Mods:%n%- ModernFix%n%- Wynntils%n%- Yet Another Config Lib"
+	"patch": 3,
+	"changelog": "Update &l0.6.3%n%%n%&lChanges:%n%- Updated Fabric%n%- Updated Main Menu"
 }
