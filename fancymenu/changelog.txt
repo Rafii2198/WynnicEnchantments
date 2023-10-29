@@ -1,31 +1,13 @@
-Update &l0.6.1
+Update &l0.6.2
 
 &lChanges:
-- Fixed main menu issues
+- Fixed Flow Config
+- Minor HaloHUD config change
 
 &lMods Added:
-- Auth Me
-- CIT Resewn
-- F3 Keybind
-- Flow
-- Notes
-- Presence Footsteps
-- Sonace
+- OptiGUI
 
 &lUpdated Mods:
-- Better F3
-- Drippy Loading Screen
-- Fabric API
-- Fancy Menu
-- Ferrite Core
-- Iris
-- Konkrete
-- Mica
-- Reese's Sodium Options
-- Searchables
-- Sodium Extra
-- Starlight
+- ModernFix
 - Wynntils
-
-&lRemoved Mods:
-- Smooth Swapping
+- Yet Another Config Lib

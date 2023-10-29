@@ -2,6 +2,6 @@
 	"mc": "1.20.2",
 	"major": 0,
 	"minor": 6,
-	"patch": 1,
-	"changelog": "Update &l0.6.1%n$%n$&lChanges:%n$- Fixed main menu issues%n$%n$&lMods Added:%n$- Auth Me%n$- CIT Resewn%n$- F3 Keybind%n$- Flow%n$- Notes%n$- Presence Footsteps%n$- Sonace%n$%n$&lUpdated Mods:%n$- Better F3%n$- Drippy Loading Screen%n$- Fabric API%n$- Fancy Menu%n$- Ferrite Core%n$- Iris%n$- Konkrete%n$- Mica%n$- Reese's Sodium Options%n$- Searchables%n$- Sodium Extra%n$- Starlight%n$- Wynntils%n$%n$&lRemoved Mods:%n$- Smooth Swapping"
+	"patch": 2,
+	"changelog": "Update &l0.6.2%n%%n%&lChanges:%n%- Fixed Flow Config%n%- Minor HaloHUD config change%n%%n%&lMods Added:%n%- OptiGUI%n%%n%&lUpdated Mods:%n%- ModernFix%n%- Wynntils%n%- Yet Another Config Lib"
 }

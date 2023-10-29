@@ -170,11 +170,11 @@ hash = "f27db2df244107a607158267a180cf1ad0adcd33b582e0394aa58b690a25806e"
 
 [[files]]
 file = "config/flow.config.json"
-hash = "e26590c503e943a7f371d15b56e01b6694800e06cd7292457ff6d32c54c6975e"
+hash = "e23707eeb315182111f4df3719f119a434dcb5cf04a46a9f819d596994c24b67"
 
 [[files]]
 file = "config/halohud.json5"
-hash = "c14b4450a51209e679926e94e5459cb6b776bb64e888e4c0f1546cd56ba0c597"
+hash = "064b1264581707c258118aa710e3ffa43a0a312c460bbcf693329937798f0d2b"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
@@ -226,7 +226,7 @@ hash = "7674f91a618d1dca348a8685c6ff4fce64500ed0058dea5b6cb56b8603eff611"
 
 [[files]]
 file = "fancymenu/changelog.txt"
-hash = "2b6b6c024b58fee8b49c6d9a2b8016f53ff933dc08f030977c824287b7a69d9f"
+hash = "503b4b3c660d0afe5ff68f2fbd1adbbf69e66bad051c6404b98a27c624f5e6d9"
 
 [[files]]
 file = "fancymenu/kofi.png"
@@ -262,7 +262,7 @@ hash = "78041001f249f9eaa2aec2bd63e5db741b4c96958cecdf068cc346fe4f2d6ae5"
 
 [[files]]
 file = "fancymenu/version2.json"
-hash = "f26315ff357c047b066f0653e3b54f18dc44fd8476931fb416570ef6d3333764"
+hash = "91500775630ec5918ed2e9d4e1f451bd4b17dd8ca155f4ec27448154435567bd"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -511,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "74466c118cfcd7b89ccfc3841a4bf9421e762079b584807ca8651d6145b3afd8"
+hash = "908c65f0cf2b42a1889f4d8712d5976341ec1b5c77a629dad6eee105de6c6ab3"
 metafile = true
 
 [[files]]
@@ -547,6 +547,11 @@ metafile = true
 [[files]]
 file = "mods/notes.pw.toml"
 hash = "7606d42d4783504badb0ed5c73e8a6c0808a56148888c9e9373187b808efeafe"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "63bd12c34c206672ebba460d6d5845fe7ce4fbb86396e8da22aacd1af8d52d22"
 metafile = true
 
 [[files]]
@@ -626,12 +631,12 @@ metafile = true
 
 [[files]]
 file = "mods/wynntils.pw.toml"
-hash = "f0cc6af360bad34444db6c68f8243e68c72b033897feff1b161a5402b982e66d"
+hash = "52f152f9912d7ae201e2b3f88cd50f2c3a6b02d225ac187238c81f1536b34656"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "46d3f8c4c1bfc8f92858d7e405aed9d1a23e554a783f8977662cbeca06eda5f2"
+hash = "3fd697e0539879163b6a5649a587a4a82a2be58fb12e63128114f631a060adc8"
 metafile = true
 
 [[files]]

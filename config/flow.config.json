@@ -2,9 +2,9 @@
 	"easeInType": "easeInOutQuad",
 	"easeOutType": "easeInOutExpo",
 	"easeInDuration": 0.25,
-	"easeOutDuration": 0.75,
+	"easeOutDuration": 0.075,
 	"enableEaseIn": true,
 	"enableEaseOut": true,
 	"bgColorTint": -15724528,
-	"bgBlurIntensity": 0.2
+	"bgBlurIntensity": 0.25
 }
