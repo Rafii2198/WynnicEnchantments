@@ -37,69 +37,21 @@ customization {
 }
 
 customization {
-  identifier = %id=604382%
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
   orientation = top-left
   x = 0
   action = movebutton
   y = 0
-  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposx","values":{"id":"vanillabtn:376382"}}+{"placeholder":"elementwidth","values":{"id":"vanillabtn:376382"}}+4","decimal":"true"}}
-  advanced_posy = {"placeholder":"elementposy","values":{"id":"vanillabtn:376382"}}
+  advanced_posx = {"placeholder":"elementposx","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_realms_button"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposy","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_realms_button"}}+{"placeholder":"elementheight","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_realms_button"}}+3","decimal":"true"}}
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
-  orientation = top-left
-  x = 0
-  action = movebutton
-  y = 0
-  advanced_posx = {"placeholder":"elementposx","values":{"id":"vanillabtn:button_compatibility_id:modmenu_titlescreen_mods_button"}}
-  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposy","values":{"id":"vanillabtn:button_compatibility_id:modmenu_titlescreen_mods_button"}}+{"placeholder":"elementheight","values":{"id":"vanillabtn:button_compatibility_id:modmenu_titlescreen_mods_button"}}+3","decimal":"true"}}
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
   width = 50
   action = resizebutton
-  advanced_width = {"placeholder":"elementwidth","values":{"id":"vanillabtn:button_compatibility_id:modmenu_titlescreen_mods_button"}}
+  advanced_width = {"placeholder":"elementwidth","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_realms_button"}}
   height = 20
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  orientation = top-left
-  x = 0
-  action = movebutton
-  y = 0
-  advanced_posx = {"placeholder":"elementposx","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_options_button"}}
-  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposy","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_options_button"}}+{"placeholder":"elementheight","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_options_button"}}+3","decimal":"true"}}
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  width = 50
-  action = resizebutton
-  advanced_width = {"placeholder":"elementwidth","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_options_button"}}
-  height = 20
-}
-
-customization {
-  identifier = %id=604322%
-  orientation = top-left
-  x = 0
-  action = movebutton
-  y = 0
-  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposx","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button"}}+{"placeholder":"elementwidth","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button"}}+4","decimal":"true"}}
-  advanced_posy = {"placeholder":"elementposy","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button"}}
-}
-
-customization {
-  identifier = %id=376382%
-  orientation = top-left
-  x = 0
-  action = movebutton
-  y = 0
-  advanced_posx = {"placeholder":"elementposx","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_quit_button"}}
-  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposy","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_quit_button"}}+{"placeholder":"elementheight","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_quit_button"}}+3","decimal":"true"}}
 }
 
 customization {
@@ -139,21 +91,49 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   orientation = top-left
   x = 0
   action = movebutton
   y = 0
-  advanced_posx = {"placeholder":"elementposx","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_realms_button"}}
-  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposy","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_realms_button"}}+{"placeholder":"elementheight","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_realms_button"}}+3","decimal":"true"}}
+  advanced_posx = {"placeholder":"elementposx","values":{"id":"vanillabtn:button_compatibility_id:modmenu_titlescreen_mods_button"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposy","values":{"id":"vanillabtn:button_compatibility_id:modmenu_titlescreen_mods_button"}}+{"placeholder":"elementheight","values":{"id":"vanillabtn:button_compatibility_id:modmenu_titlescreen_mods_button"}}+3","decimal":"true"}}
 }
 
 customization {
-  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   width = 50
   action = resizebutton
-  advanced_width = {"placeholder":"elementwidth","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_realms_button"}}
+  advanced_width = {"placeholder":"elementwidth","values":{"id":"vanillabtn:button_compatibility_id:modmenu_titlescreen_mods_button"}}
   height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = top-left
+  x = 0
+  action = movebutton
+  y = 0
+  advanced_posx = {"placeholder":"elementposx","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_options_button"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposy","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_options_button"}}+{"placeholder":"elementheight","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_options_button"}}+3","decimal":"true"}}
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 50
+  action = resizebutton
+  advanced_width = {"placeholder":"elementwidth","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_options_button"}}
+  height = 20
+}
+
+customization {
+  identifier = %id=604310%
+  orientation = top-left
+  x = 0
+  action = movebutton
+  y = 0
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposx","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button"}}+{"placeholder":"elementwidth","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button"}}+4","decimal":"true"}}
+  advanced_posy = {"placeholder":"elementposy","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button"}}
 }
 
 customization {
@@ -442,5 +422,25 @@ customization {
   y = 0
   backgroundnormal = fancymenu/kofi.png
   height = 12
+}
+
+customization {
+  identifier = %id=376394%
+  orientation = top-left
+  x = 0
+  action = movebutton
+  y = 0
+  advanced_posx = {"placeholder":"elementposx","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_quit_button"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposy","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_quit_button"}}+{"placeholder":"elementheight","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_quit_button"}}+4","decimal":"true"}}
+}
+
+customization {
+  identifier = %id=604394%
+  orientation = top-left
+  x = 0
+  action = movebutton
+  y = 0
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposx","values":{"id":"vanillabtn:376394"}}+{"placeholder":"elementwidth","values":{"id":"vanillabtn:376394"}}+4","decimal":"true"}}
+  advanced_posy = {"placeholder":"elementposy","values":{"id":"vanillabtn:376394"}}
 }
 

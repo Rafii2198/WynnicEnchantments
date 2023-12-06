@@ -6,3 +6,6 @@ net.minecraft.class_433 {
 net.minecraft.class_442 {
 }
 
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+

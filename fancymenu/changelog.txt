@@ -1,5 +1,41 @@
-Update &l0.6.3
+Update &l0.6.4
+
+&lFabric Loader:
+- Updated to 0.15.0
+
+&lMods Added:
+- M.R.U
+
+&lUpdated Mods:
+- Better F3
+- Chat Patches
+- Cloth Config
+- Entity Model Features
+- Entity Texture Features
+- Fabric API
+- Fabric Language Kotlin
+- First Person Model
+- Flow
+- Forge Config API Port
+- Halo HUD
+- Immediately Fast
+- Iris
+- LibJF
+- ModernFix
+- Nimble
+- Physics Mod
+- Respackopts
+- Sodium
+- Sonace
+- Wavey Capes
+- Wynntils
+
+&lMods Removed:
+- FabriZoom
+- Indium
+
+&lShaderpacks Updated:
+- Complementary Reimagined
 
 &lChanges:
-- Updated Fabric
-- Updated Main Menu
+- Further Main Menu Fixes

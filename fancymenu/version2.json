@@ -2,6 +2,6 @@
 	"mc": "1.20.2",
 	"major": 0,
 	"minor": 6,
-	"patch": 3,
-	"changelog": "Update &l0.6.3%n%%n%&lChanges:%n%- Updated Fabric%n%- Updated Main Menu"
+	"patch": 4,
+	"changelog": "Update &l0.6.4%n%%n%&lFabric Loader:%n%-Updated to 0.15.0%n%%n%&lMods Added:%n%-M.R.U%n%%n%&lUpdated Mods:%n%-Better F3%n%-Chat Patches%n%-Cloth Config%n%-Entity Model Features%n%-Entity Texture Features%n%-Fabric API%n%-Fabric Language Kotlin%n%-First Person Model%n%-Flow%n%-Forge Config API Port%n%-Halo HUD%n%-Immediately Fast%n%-Iris%n%-LibJF%n%-ModernFix%n%-Nimble%n%-Physics Mod%n%-Respackopts%n%-Sodium%n%-Sonace%n%-Wavey Capes%n%-Wynntils%n%%n%&lMods Removed:%n%-FabriZoom%n%-Indium%n%%n%&lShaderpacks Updated:%n%-Complementary Reimagined%n%%n%&lChanges:%n%-Further Main Menu Fixes"
 }

@@ -1,5 +1,13 @@
 type = cached_variables
 
 variables {
+  wynnic2_version_full_local = 0.6.3
+  wynnic2_version_patch_git = 3
+  wynnic2_version_minor_local = 6
+  wynnic2_version_full_git = 0.6.3
+  wynnic2_version_patch_local = 3
+  wynnic2_version_minor_git = 6
+  wynnic2_version_major_local = 0
+  wynnic2_version_major_git = 0
 }
 

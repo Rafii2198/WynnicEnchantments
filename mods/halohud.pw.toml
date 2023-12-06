@@ -1,13 +1,13 @@
 name = "Halo HUD"
-filename = "halohud-4.1+1.20-fabric.jar"
+filename = "halohud-4.2+1.20.2-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/rbMt0AmF/versions/r90usO4s/halohud-4.1%2B1.20-fabric.jar"
+url = "https://cdn.modrinth.com/data/rbMt0AmF/versions/UlCdDizf/halohud-4.2%2B1.20.2-fabric.jar"
 hash-format = "sha1"
-hash = "56464b40d3706a55d1b232648aaed29458345d00"
+hash = "d19af024ebc317e3fdc46ada43898ab36bc846d4"
 
 [update]
 [update.modrinth]
 mod-id = "rbMt0AmF"
-version = "r90usO4s"
+version = "UlCdDizf"
