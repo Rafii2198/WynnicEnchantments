@@ -1,7 +1,7 @@
 type = menu
 
 customization-meta {
-  identifier = net.minecraft.class_433
+  identifier = com.wynntils.screens.wynntilsmenu.WynntilsMenuScreen
   randomgroup = 1
   renderorder = foreground
   randommode = false

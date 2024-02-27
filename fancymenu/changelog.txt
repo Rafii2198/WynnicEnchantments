@@ -1,41 +1,55 @@
-Update &l0.6.4
+Update &l0.6.5
 
 &lFabric Loader:
-- Updated to 0.15.0
+- Updated to 0.15.7
 
 &lMods Added:
-- M.R.U
+- Controlify | Optional
+- Controlify Wynn | Optional
+- FabriZoom
+- Fadeless
+- Indium
 
 &lUpdated Mods:
-- Better F3
+- 3D Skin Layer
+- C2ME
 - Chat Patches
 - Cloth Config
+- Collective
+- Controlling
+- Dynamic FPS
 - Entity Model Features
+- Entity Culling
 - Entity Texture Features
 - Fabric API
 - Fabric Language Kotlin
+- Fabrishot
+- Fancy Menu
 - First Person Model
-- Flow
 - Forge Config API Port
-- Halo HUD
+- Iceberg
 - Immediately Fast
 - Iris
-- LibJF
-- ModernFix
-- Nimble
+- Item Highlighter
+- Krypton
+- Legendary Tooltips
+- Modern Fix
+- Mod Menu
+- More Culling
+- Not Enough Animations
+- OptiGUI
 - Physics Mod
-- Respackopts
+- Presence Footsteps
+- Searchables
 - Sodium
-- Sonace
+- Sounds (Formerly: Sonace)
 - Wavey Capes
 - Wynntils
 
 &lMods Removed:
-- FabriZoom
-- Indium
-
-&lShaderpacks Updated:
-- Complementary Reimagined
+- Flow
+- Midnight Controls
 
 &lChanges:
-- Further Main Menu Fixes
+- Moved Function Stock Button
+- First Person Model is now optional

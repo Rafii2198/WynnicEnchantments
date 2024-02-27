@@ -2,6 +2,6 @@
 	"mc": "1.20.2",
 	"major": 0,
 	"minor": 6,
-	"patch": 4,
-	"changelog": "Update &l0.6.4%n%%n%&lFabric Loader:%n%-Updated to 0.15.0%n%%n%&lMods Added:%n%-M.R.U%n%%n%&lUpdated Mods:%n%-Better F3%n%-Chat Patches%n%-Cloth Config%n%-Entity Model Features%n%-Entity Texture Features%n%-Fabric API%n%-Fabric Language Kotlin%n%-First Person Model%n%-Flow%n%-Forge Config API Port%n%-Halo HUD%n%-Immediately Fast%n%-Iris%n%-LibJF%n%-ModernFix%n%-Nimble%n%-Physics Mod%n%-Respackopts%n%-Sodium%n%-Sonace%n%-Wavey Capes%n%-Wynntils%n%%n%&lMods Removed:%n%-FabriZoom%n%-Indium%n%%n%&lShaderpacks Updated:%n%-Complementary Reimagined%n%%n%&lChanges:%n%-Further Main Menu Fixes"
+	"patch": 5,
+	"changelog": "Update &l0.6.5%n%%n%&lFabric Loader:%n%- Updated to 0.15.7%n%%n%&lMods Added:%n%- Controlify | Optional%n%- Controlify Wynn | Optional%n%- FabriZoom%n%- Fadeless%n%- Indium%n%%n%&lUpdated Mods:%n%- 3D Skin Layer%n%- C2ME%n%- Chat Patches%n%- Cloth Config%n%- Collective%n%- Controlling%n%- Dynamic FPS%n%- Entity Model Features%n%- Entity Culling%n%- Entity Texture Features%n%- Fabric API%n%- Fabric Language Kotlin%n%- Fabrishot%n%- Fancy Menu%n%- First Person Model%n%- Forge Config API Port%n%- Iceberg%n%- Immediately Fast%n%- Iris%n%- Item Highlighter%n%- Krypton%n%- Legendary Tooltips%n%- Modern Fix%n%- Mod Menu%n%- More Culling%n%- Not Enough Animations%n%- OptiGUI%n%- Physics Mod%n%- Presence Footsteps%n%- Searchables%n%- Sodium%n%- Sounds (Formerly: Sonace)%n%- Wavey Capes%n%- Wynntils%n%%n%&lMods Removed:%n%- Flow%n%- Midnight Controls%n%%n%&lChanges:%n%- Moved Function Stock Button%n%- First Person Model is now optional"
 }
