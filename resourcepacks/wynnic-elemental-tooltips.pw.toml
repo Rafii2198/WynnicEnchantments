@@ -1,0 +1,13 @@
+name = "Wynnic Elemental Tooltips"
+filename = "Wynnic Elemental Tooltips.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tZXyiYp2/versions/rrvDRO3C/Wynnic%20Elemental%20Tooltips.zip"
+hash-format = "sha1"
+hash = "cbce9263e3296994eab3eeab102302b29c170567"
+
+[update]
+[update.modrinth]
+mod-id = "tZXyiYp2"
+version = "rrvDRO3C"

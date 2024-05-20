@@ -1,55 +1,40 @@
-Update &l0.6.5
+Update &l0.7.0
 
 &lFabric Loader:
-- Updated to 0.15.7
+- Updated to 0.15.11
 
 &lMods Added:
-- Controlify | Optional
-- Controlify Wynn | Optional
-- FabriZoom
-- Fadeless
-- Indium
+- Animatica
+- Continuity
+- Figura
 
 &lUpdated Mods:
-- 3D Skin Layer
-- C2ME
+- 3D Skin Layers
+- Better F3
 - Chat Patches
-- Cloth Config
-- Collective
+- CIT Resewn
+- Controlify Wynn
 - Controlling
 - Dynamic FPS
 - Entity Model Features
-- Entity Culling
 - Entity Texture Features
-- Fabric API
 - Fabric Language Kotlin
-- Fabrishot
+- Falling Leaves
 - Fancy Menu
 - First Person Model
-- Forge Config API Port
-- Iceberg
 - Immediately Fast
-- Iris
-- Item Highlighter
-- Krypton
-- Legendary Tooltips
 - Modern Fix
-- Mod Menu
 - More Culling
 - Not Enough Animations
 - OptiGUI
-- Physics Mod
 - Presence Footsteps
-- Searchables
-- Sodium
-- Sounds (Formerly: Sonace)
+- Sounds
 - Wavey Capes
 - Wynntils
 
-&lMods Removed:
-- Flow
-- Midnight Controls
+&lResource Packs:
+- Added Wynnic Elemental Tooltips
 
 &lChanges:
-- Moved Function Stock Button
-- First Person Model is now optional
+- Finally Fixed Halo HUD config
+- Disabled Chat message sounds

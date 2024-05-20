@@ -1,7 +1,7 @@
 {
 	"mc": "1.20.2",
 	"major": 0,
-	"minor": 6,
-	"patch": 5,
-	"changelog": "Update &l0.6.5%n%%n%&lFabric Loader:%n%- Updated to 0.15.7%n%%n%&lMods Added:%n%- Controlify | Optional%n%- Controlify Wynn | Optional%n%- FabriZoom%n%- Fadeless%n%- Indium%n%%n%&lUpdated Mods:%n%- 3D Skin Layer%n%- C2ME%n%- Chat Patches%n%- Cloth Config%n%- Collective%n%- Controlling%n%- Dynamic FPS%n%- Entity Model Features%n%- Entity Culling%n%- Entity Texture Features%n%- Fabric API%n%- Fabric Language Kotlin%n%- Fabrishot%n%- Fancy Menu%n%- First Person Model%n%- Forge Config API Port%n%- Iceberg%n%- Immediately Fast%n%- Iris%n%- Item Highlighter%n%- Krypton%n%- Legendary Tooltips%n%- Modern Fix%n%- Mod Menu%n%- More Culling%n%- Not Enough Animations%n%- OptiGUI%n%- Physics Mod%n%- Presence Footsteps%n%- Searchables%n%- Sodium%n%- Sounds (Formerly: Sonace)%n%- Wavey Capes%n%- Wynntils%n%%n%&lMods Removed:%n%- Flow%n%- Midnight Controls%n%%n%&lChanges:%n%- Moved Function Stock Button%n%- First Person Model is now optional"
+	"minor": 7,
+	"patch": 0,
+	"changelog": "Update &l0.7.0%n%%n%&lFabric Loader:%n%- Updated to 0.15.11%n%%n%&lMods Added:%n%- Animatica%n%- Continuity%n%- Figura%n%%n%&lUpdated Mods:%n%- 3D Skin Layers%n%- Better F3%n%- Chat Patches%n%- CIT Resewn%n%- Controlify Wynn%n%- Controlling%n%- Dynamic FPS%n%- Entity Model Features%n%- Entity Texture Features%n%- Fabric Language Kotlin%n%- Falling Leaves%n%- Fancy Menu%n%- First Person Model%n%- Immediately Fast%n%- Modern Fix%n%- More Culling%n%- Not Enough Animations%n%- OptiGUI%n%- Presence Footsteps%n%- Sounds%n%- Wavey Capes%n%- Wynntils%n%%n%&lResource Packs:%n%- Added Wynnic Elemental Tooltips%n%%n%&lChanges:%n%- Finally Fixed Halo HUD config%n%- Disabled Chat message sounds"
 }

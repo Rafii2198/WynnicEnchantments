@@ -18,11 +18,11 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = opencustomgui;wynnic_function_stock%btnaction_splitter_fm%
-  x = 0
+  x = 1
   width = 100
   action = addbutton
   actionid = e2b4bd27-11ad-43cd-b919-fed30204912a1681641098708
-  y = -20
+  y = -21
   description = View functions for Info Boxes and Custom Bars
   label = Function Stock
   height = 20

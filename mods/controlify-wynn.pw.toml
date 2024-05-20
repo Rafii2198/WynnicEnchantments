@@ -1,16 +1,10 @@
-name = "Controlify Wynn"
-filename = "controlifywynn-1.1.0.jar"
-side = "client"
+name = "controlify-wynn"
+filename = "controlifywynn-1.1.2.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/30a9CaQe/versions/aM0dosZN/controlifywynn-1.1.0.jar"
-hash-format = "sha1"
-hash = "a2b98ca4fa6f5143ec6cb3208a409f2e12ae445a"
-
-[update]
-[update.modrinth]
-mod-id = "30a9CaQe"
-version = "aM0dosZN"
+url = "https://github.com/JamieCallan117/ControlifyWynn/releases/download/1.1.2/controlifywynn-1.1.2.jar"
+hash-format = "sha256"
+hash = "445b72f5a1ac37e670eadb2ce419dc83f37f23ede92c33d836962b4e89380732"
 
 [option]
 optional = true

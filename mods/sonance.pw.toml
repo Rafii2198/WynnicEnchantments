@@ -1,13 +1,13 @@
 name = "Sonance"
-filename = "Sounds-0.5.0+1.20.2.jar"
+filename = "Sounds-0.7.0+1.20.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZouiUX7t/versions/On67J9gx/Sounds-0.5.0%2B1.20.2.jar"
+url = "https://cdn.modrinth.com/data/ZouiUX7t/versions/fsnwR91d/Sounds-0.7.0%2B1.20.2.jar"
 hash-format = "sha1"
-hash = "2799c73adaefa409d64c155b81bd85ad9a4a2a4d"
+hash = "0d8aa81a25966042b459ca59ef327375bcf4c1bb"
 
 [update]
 [update.modrinth]
 mod-id = "ZouiUX7t"
-version = "On67J9gx"
+version = "fsnwR91d"
