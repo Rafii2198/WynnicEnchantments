@@ -1,0 +1,13 @@
+name = "ToastBegone"
+filename = "toastbegone-fabric-1.21-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/g8reZf3x/versions/L5Qw4XNs/toastbegone-fabric-1.21-1.1.0.jar"
+hash-format = "sha1"
+hash = "f284b43c00c8fdf7771f354e1523636ab62d3e12"
+
+[update]
+[update.modrinth]
+mod-id = "g8reZf3x"
+version = "L5Qw4XNs"

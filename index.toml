@@ -822,6 +822,11 @@ hash = "58066e08d15a1906de42322c64089a709e01e625296baae0e872cc0f997d062c"
 metafile = true
 
 [[files]]
+file = "mods/toastbegone.pw.toml"
+hash = "7de5cb1749d12e9023b44b25b8aefbe92a508c22aa38f661b5cfad0a19b3072c"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "d36cc3d8270464688578580cdb91193c87c0bd54794995a8b66fb0c0e7386312"
 metafile = true
