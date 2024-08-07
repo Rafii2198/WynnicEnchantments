@@ -1,13 +1,13 @@
 name = "FabriZoom"
-filename = "fabrizoom-2.0.1+1.20.2-fabric.jar"
+filename = "fabrizoom-2.1.1+1.21-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/pNFKDyna/versions/nXXL21Sa/fabrizoom-2.0.1%2B1.20.2-fabric.jar"
+url = "https://cdn.modrinth.com/data/pNFKDyna/versions/iLYJM0m4/fabrizoom-2.1.1%2B1.21-fabric.jar"
 hash-format = "sha1"
-hash = "a61043ed00394c557b00639b272b0eaaee5a4c95"
+hash = "50e5ba63f4c84a643850681fb15a62d612b8e9fb"
 
 [update]
 [update.modrinth]
 mod-id = "pNFKDyna"
-version = "nXXL21Sa"
+version = "iLYJM0m4"

@@ -1,0 +1,15 @@
+{
+	"schemaVersion": 7,
+	"currentVersion": "1.0.0",
+	"modpackName": "Wynnic Enchantments",
+	"modpackAuthor": "Rafii2198",
+	"modpackReleaseType": "stable",
+	"updateCheckerId": "https://raw.githubusercontent.com/Rafii2198/updatecheckertest/main/",
+	"advanced": {
+		"bccEnabled": false,
+		"expandButton": false,
+		"updateCheckerType": 2,
+		"retroWarning": false,
+		"modpackMods": []
+	}
+}

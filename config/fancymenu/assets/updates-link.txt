@@ -1,0 +1,1 @@
+https://wynn.palette.wtf/api/v1/news.php?wynnic={"placeholder":"getvariable","values":{"name":"wynnic_version"}}&wynntils={"placeholder":"modversion","values":{"modid":"wynntils"}}

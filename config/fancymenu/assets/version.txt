@@ -1,0 +1,4 @@
+{
+	"version": "0.3.0",
+	"changelog": "%n%Update &l0.3.0&r%n%&lMinecraft&r:%n%- Updated to &l1.19.4&r%n%&lMods Removed:&l%n%-Iceberg%n%-Legendary Tooltips%n%&lKnown Issues:&r%n%-Wynn button placement"
+}

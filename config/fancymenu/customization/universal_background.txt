@@ -1,0 +1,36 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = %fancymenu:universal_layout%
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1721000630476
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:e6455dcc-d4b6-4806-8c03-f53cd4a07774-1722984841351] = [groups:][instances:6cb06d0b-7347-4c62-9fb9-7f3ac07ad638-1721000572644;]
+  [loading_requirement:is_menu_title][requirement_mode:if_not][req_id:6cb06d0b-7347-4c62-9fb9-7f3ac07ad638-1721000572644] = menu.paused
+}
+
+menu_background {
+  slideshow_name = wynnic_main
+  background_type = slideshow
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = true
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
+}
+

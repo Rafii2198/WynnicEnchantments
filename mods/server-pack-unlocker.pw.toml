@@ -1,13 +1,13 @@
 name = "Server Pack Unlocker"
-filename = "spu-1.7.jar"
+filename = "spu-1.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/PiuygVWJ/versions/lRVqr2EB/spu-1.7.jar"
+url = "https://cdn.modrinth.com/data/PiuygVWJ/versions/qnj9ffJd/spu-1.8.jar"
 hash-format = "sha1"
-hash = "ebc12ba18e7bd96a9c5c9023ef7d160047d5ebc0"
+hash = "04d0b27392a9117f0e10a0fb0b36a7e5bd56a57e"
 
 [update]
 [update.modrinth]
 mod-id = "PiuygVWJ"
-version = "lRVqr2EB"
+version = "qnj9ffJd"

@@ -1,11 +1,14 @@
 type = customizablemenus
 
-net.minecraft.class_442 {
-}
-
 de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 }
 
-com.wynntils.screens.wynntilsmenu.WynntilsMenuScreen {
+net.minecraft.class_500 {
+}
+
+com.jab125.mpuc.client.gui.screen.changelog.NewChangelogScreen {
+}
+
+net.minecraft.class_442 {
 }
 
