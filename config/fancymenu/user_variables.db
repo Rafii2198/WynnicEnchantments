@@ -8,7 +8,13 @@ variable {
 
 variable {
   name = wynnic2_version_patch_git
-  value = 
+  value = 0
+  reset_on_launch = false
+}
+
+variable {
+  name = wynnic_server_ip
+  value = play.wynncraft.com
   reset_on_launch = false
 }
 
@@ -21,6 +27,12 @@ variable {
 variable {
   name = wynnic2_version_full_git
   value = 0.7.0
+  reset_on_launch = false
+}
+
+variable {
+  name = wynnic_server_uuid
+  value = 000d80ed-5565-411a-a770-db9f84b0325b-1723070749726
   reset_on_launch = false
 }
 
@@ -50,6 +62,12 @@ variable {
 
 variable {
   name = wynnic2_version_major_git
+  value = 0
+  reset_on_launch = false
+}
+
+variable {
+  name = wynnic_legacy
   value = 0
   reset_on_launch = false
 }
