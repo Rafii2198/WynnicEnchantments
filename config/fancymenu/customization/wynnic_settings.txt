@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = wynnic_settings
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1723076833483
+  last_edited_time = 1723082055784
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:12bfad7c-9de8-4576-bd65-0410e9a76f35-1723076808659] = [groups:][instances:]
+  [loading_requirement_container_meta:f826d164-3744-4c45-8617-ac2cdc86a779-1723081990475] = [groups:][instances:]
 }
 
 customization {
@@ -351,34 +351,52 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/spectra.png
-  repeat_texture = false
-  nine_slice_texture = false
-  nine_slice_texture_border_x = 5
-  nine_slice_texture_border_y = 5
-  element_type = image
-  instance_identifier = 6fffcb30-a926-4a86-a48d-0a2394e656ad-1723071258105
+  interactable = true
+  source = ->
+  source_mode = direct
+  shadow = true
+  scale = 2.0
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = false
+  auto_line_wrapping = true
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = 75f85f1d-50f2-4bf0-bfb4-ca01eff378f1-1723081595703
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = mid-centered
-  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposx","values":{"id":"{"placeholder":"getvariable","values":{"name":"wynnic_server_uuid"}}"}}-20","decimal":"true"}}
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposx","values":{"id":"{"placeholder":"getvariable","values":{"name":"wynnic_server_uuid"}}"}}-27","decimal":"true"}}
   advanced_posy = {"placeholder":"elementposy","values":{"id":"{"placeholder":"getvariable","values":{"name":"wynnic_server_uuid"}}"}}
-  x = -70
-  y = -112
-  width = 20
+  x = 206
+  y = -40
+  width = 25
   height = 20
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
-  element_loading_requirement_container_identifier = f6202b55-c5c5-445a-8dfa-51b7ab4edf03-1723071258105
-  [loading_requirement_container_meta:f6202b55-c5c5-445a-8dfa-51b7ab4edf03-1723071258105] = [groups:][instances:]
+  element_loading_requirement_container_identifier = 0df993be-b8ff-44a2-83af-a2e9e4ec382b-1723081595703
+  [loading_requirement_container_meta:0df993be-b8ff-44a2-83af-a2e9e4ec382b-1723081595703] = [groups:][instances:]
 }
 
 element {
   interactable = true
-  source = ^^^%n%Server Selector%n%^^^
+  source = ^^^%n%**Server Selector**%n%^^^
   source_mode = direct
   shadow = true
   scale = 1.0
@@ -407,9 +425,9 @@ element {
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = mid-centered
-  x = -50
+  x = -55
   y = -150
-  width = 100
+  width = 110
   height = 15
   stretch_x = false
   stretch_y = false

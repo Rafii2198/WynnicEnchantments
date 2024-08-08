@@ -90,15 +90,11 @@ hash = "2ca793cbed97629cef4b50a11f465b57e22dccee1fe5d65cdf1bdad4315a242f"
 
 [[files]]
 file = "config/fancymenu/assets/main_menu/multiplayer_hover.fma"
-hash = "49019de236e975bb71366269a736c4183a4d3ed22c613817aa6018ca60cf91bd"
+hash = "23d9112843cc5daff02b4a24bd0bc9ad56f950c9f545a71e2549ca49ddc6d1a6"
 
 [[files]]
 file = "config/fancymenu/assets/main_menu/options_text.png"
 hash = "0c7d24d12645a762d3871ae3884b72a9546f055071c3cd41343555864c641ff0"
-
-[[files]]
-file = "config/fancymenu/assets/main_menu/player.fma"
-hash = "2df3f388afa829f2ed5a623090f0fc527c96edd8f3204d899783cba96496d14d"
 
 [[files]]
 file = "config/fancymenu/assets/main_menu/player.png"
@@ -106,7 +102,7 @@ hash = "2c06f4e762928242997f0bf94631bed4e581f9b672ce48c77366478bb37d22e5"
 
 [[files]]
 file = "config/fancymenu/assets/main_menu/player_hover.fma"
-hash = "950e06ceb3a5134e33a3ae472e5c726c4a107d191c515379bba23887b7ae7d54"
+hash = "ff4cece2fa0a5ab4092836540eb9f035205c43777e1a077056a47c2abf651268"
 
 [[files]]
 file = "config/fancymenu/assets/main_menu/quit_text.png"
@@ -122,7 +118,7 @@ hash = "442d42e53f37aede3526fc93144aa32bb7a087e0f2e471052b70d412d56e2fe8"
 
 [[files]]
 file = "config/fancymenu/assets/main_menu/smallbutton_hover.fma"
-hash = "dd53e057e84c530322a2d0205a273f3d8df9a60dd0118432ed7de4964bcd9870"
+hash = "a048dbab96f772e637adb29f30581ba86cfbd541041530df4b0197de811b69f2"
 
 [[files]]
 file = "config/fancymenu/assets/main_menu/wynncraft.png"
@@ -130,7 +126,7 @@ hash = "f463ebe6a8540b0589401579f9fd61d0ca8ff447d50d8b2f07df023e9bf6e166"
 
 [[files]]
 file = "config/fancymenu/assets/main_menu/wynncraft_hover.fma"
-hash = "ade62bcfdb89123eb8985ce91588523b6c137c334d12b6e9d2bebbde410e0961"
+hash = "e80a6deb230fd1183f051d7ba86db703fb76608d9eee6cf0b548578ca18a6b61"
 
 [[files]]
 file = "config/fancymenu/assets/main_menu/wynnicsettings_text.png"
@@ -282,75 +278,75 @@ hash = "17e419377517944c7a61c76bbc6e1594e411082672a7c60ec2de87c5933bc4fd"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "4dc76e5940c04d95cf80dd059373920c9baf716a6f8939a816535f91833006ae"
+hash = "f0f3b1b2f5eb4b987aea9a2915c2c457cb299cab896c25802ceada08c2e5b9f0"
 
 [[files]]
 file = "config/fancymenu/slideshows/wynnic_main/images/Corkus.png"
-hash = "22d2cee6aca03db23225f6635bb148a928ec1d8d50db33bff0f6146ae168d7ad"
+hash = "25c95d2b2371bf67fcbbf952f238bdb8732928d30ef17e214589f44ef97a9734"
 
 [[files]]
 file = "config/fancymenu/slideshows/wynnic_main/images/Detlas North Entrance.png"
-hash = "93159715fafe6c057ce59186ae26040b59300645a4e182dc6b8447723b7d9e8b"
+hash = "22f30b3d88b35f1e1abd9542bf8ee72db6ca567761dfaff4f4197ecd75456a46"
 
 [[files]]
 file = "config/fancymenu/slideshows/wynnic_main/images/East Entrance to Detlas.png"
-hash = "96db0a76df334e20a25a94e105c32792094a3b59ee15def3040b2dc2025d76ab"
+hash = "2eb8ae35410a19ad426cec92e98944f185df78a5349894e1ae6549c7ea782845"
 
 [[files]]
 file = "config/fancymenu/slideshows/wynnic_main/images/Entrance to Nivla Woods.png"
-hash = "5e44f82a99b6ac1a1f359ccbb413d6839bf49d11d5c17d6e90e5968ed755eb55"
+hash = "799ad305bda826382000e49c36729b7cbe57df52053bb8d901b41b6a0f75d91e"
 
 [[files]]
 file = "config/fancymenu/slideshows/wynnic_main/images/Guild Hall Entrance.png"
-hash = "459f5d0cb5392b1e31c5c91e064ab862c876482a4defcad92369fd5dcf892118"
+hash = "0073d4c0f1352854fa2060be9a416ef253cd5f2e28c04c50984fffb06bd5a050"
 
 [[files]]
 file = "config/fancymenu/slideshows/wynnic_main/images/Llevigar.png"
-hash = "4b2d6c0faeb9167e6e32ba65251b4a8a95379ad04ee1851d427bf06639ca5695"
+hash = "e76b66f4e9fd3fe91fe09144b25e670bc5733624db9be82a1ce498a3d391a61a"
 
 [[files]]
 file = "config/fancymenu/slideshows/wynnic_main/images/Nest of the Grootslangs external.png"
-hash = "d75c7b5d5ed25610bed6b2b15f61dfa316f0f077207980156df793d56c154b02"
+hash = "e440180956685e5db80ef21885b852601b4c22969646d911e31a7dadabd35fdf"
 
 [[files]]
 file = "config/fancymenu/slideshows/wynnic_main/images/Nether Portal.png"
-hash = "6d86a7d6db3a5d055c0b339f9d1bacff8aa035169d14b4388ab5eb50ee3352b7"
+hash = "8344a998a78a57dd77f45f063de20265ddffc359cdb36e34b52381e5b80e2734"
 
 [[files]]
 file = "config/fancymenu/slideshows/wynnic_main/images/Realm of light exterior.png"
-hash = "8659457950a2890d15e188d8f936e50d9ec088865237fa454b3cc266a000595f"
+hash = "504080c070480ee0ef4d4ad704bf7b6e7c39f429ecb4470e8281f0598dae74ef"
 
 [[files]]
 file = "config/fancymenu/slideshows/wynnic_main/images/Sand Swept Tomb Entrance.png"
-hash = "f19075129ddae3f292f81937068705edbf1cff976c93e321acf60a69ed48f91c"
+hash = "429406677679562ac321f33f128eb5c6872427472f77c76d472ec007e7b29363"
 
 [[files]]
 file = "config/fancymenu/slideshows/wynnic_main/images/Selchar Port.png"
-hash = "83ec5f05372f53148b73cf0e0e27f22a33205a2b4ad9f0db4605e84db4691e78"
+hash = "780965b1859d6e9e848d743a47217ad92ac312415f097e28ba03df3dd0f7405a"
 
 [[files]]
 file = "config/fancymenu/slideshows/wynnic_main/images/Sky islands.png"
-hash = "ac66b1f12b70c85e254ecc985e916b464a87ddbbe7623528323bcc7f921b8388"
+hash = "f65a1fb46575ebcd240db7e418fa1deddff506a8a57a72435938acf1df97857e"
 
 [[files]]
 file = "config/fancymenu/slideshows/wynnic_main/images/The Hive.png"
-hash = "3e4eb0a3fec1ba320c6ab4714bb933e6de632fd0bc5ef948d203d6bde87cc0fd"
+hash = "3bd4143d470d367dd7dab613da679b52e7349ebc734371f2980133925f38cb5f"
 
 [[files]]
 file = "config/fancymenu/slideshows/wynnic_main/images/The Tree.png"
-hash = "f30e2ad79f36837917757dee10eab8a8b675c742be6943787cfda9b71065a9be"
+hash = "c8c09ad677a1d3f5c6c4358f05bbfc6bf3367b7ba50ead5ae7cd6375fe8f8943"
 
 [[files]]
 file = "config/fancymenu/slideshows/wynnic_main/images/View of Nessak Wilderness - Ice Barrows Dungeon.png"
-hash = "01d8c606adedb017ac31253be757326a8e91585b37bb03b32908cbd24b456d8b"
+hash = "21bb73b5b1fd68c3fc3d095e7b34ab5d388ac5346054d0b30781ecdf78c46397"
 
 [[files]]
 file = "config/fancymenu/slideshows/wynnic_main/images/Wynn Excavation Site.png"
-hash = "ba5b977fcc50fb0cabcc5ae0c11496e5c3a16de4320c7095c5e99cea7b3f9c79"
+hash = "f1a2237e48d4b3c94713f4b5ae66d6686d75d508ad796b1ff19f65897eae9c78"
 
 [[files]]
 file = "config/fancymenu/slideshows/wynnic_main/images/small lake at the entrance to the Rymek Region.png"
-hash = "4de4161841eeaca39faf8c42db55265b110be5a762564a39513e2f701576ae2f"
+hash = "0ba6e50bae24b591f4b90aa0e4b154dd691d3564679c656f673afd5b75aa2276"
 
 [[files]]
 file = "config/fancymenu/slideshows/wynnic_main/properties.txt"
