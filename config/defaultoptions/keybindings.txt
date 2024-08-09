@@ -1,0 +1,98 @@
+key_key.attack:key.mouse.left:
+key_key.use:key.mouse.right:
+key_key.forward:key.keyboard.w:
+key_key.left:key.keyboard.a:
+key_key.back:key.keyboard.s:
+key_key.right:key.keyboard.d:
+key_key.jump:key.keyboard.space:
+key_key.sneak:key.keyboard.left.shift:
+key_key.sprint:key.keyboard.left.control:
+key_key.drop:key.keyboard.q:
+key_key.inventory:key.keyboard.e:
+key_key.chat:key.keyboard.t:
+key_key.playerlist:key.keyboard.tab:
+key_key.pickItem:key.mouse.middle:
+key_key.command:key.keyboard.slash:
+key_key.socialInteractions:key.keyboard.l:
+key_key.screenshot:key.keyboard.f2:
+key_key.togglePerspective:key.keyboard.f5:
+key_key.smoothCamera:key.keyboard.unknown:
+key_key.fullscreen:key.keyboard.f11:
+key_key.spectatorOutlines:key.keyboard.unknown:
+key_key.swapOffhand:key.keyboard.f:
+key_key.saveToolbarActivator:key.keyboard.unknown:
+key_key.loadToolbarActivator:key.keyboard.unknown:
+key_key.advancements:key.keyboard.unknown:
+key_key.hotbar.1:key.keyboard.1:
+key_key.hotbar.2:key.keyboard.2:
+key_key.hotbar.3:key.keyboard.3:
+key_key.hotbar.4:key.keyboard.4:
+key_key.hotbar.5:key.keyboard.5:
+key_key.hotbar.6:key.keyboard.6:
+key_key.hotbar.7:key.keyboard.7:
+key_key.hotbar.8:key.keyboard.8:
+key_key.hotbar.9:key.keyboard.9:
+key_key.dynamic_fps.toggle_forced:key.keyboard.unknown:
+key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown:
+key_Relay Bomb to Party:key.keyboard.unknown:
+key_Relay Bomb to Guild:key.keyboard.unknown:
+key_Share Item:key.keyboard.f3:
+key_Save Item to Item Record:key.keyboard.f6:
+key_Open Item Record:key.keyboard.unknown:
+key_Mount Horse:key.keyboard.r:
+key_Cast 1st Spell:key.keyboard.z:
+key_Cast 2nd Spell:key.keyboard.x:
+key_Cast 3rd Spell:key.keyboard.c:
+key_Cast 4th Spell:key.keyboard.v:
+key_Execute 1st Custom Command Keybind:key.keyboard.unknown:
+key_Execute 2nd Custom Command Keybind:key.keyboard.unknown:
+key_Execute 3rd Custom Command Keybind:key.keyboard.unknown:
+key_Execute 4th Custom Command Keybind:key.keyboard.unknown:
+key_Execute 5th Custom Command Keybind:key.keyboard.unknown:
+key_Execute 6th Custom Command Keybind:key.keyboard.unknown:
+key_Open Emerald Pouch:key.keyboard.unknown:
+key_Open Guild Bank:key.keyboard.p:
+key_Open Ingredient Pouch:key.keyboard.unknown:
+key_Lock Slot:key.keyboard.h:
+key_Screenshot Item:key.keyboard.f4:
+key_Open Guild Map:key.keyboard.j:
+key_Open Main Map:key.keyboard.m:
+key_New Waypoint:key.keyboard.b:
+key_Increase Minimap Zoom:key.keyboard.equal:
+key_Decrease Minimap Zoom:key.keyboard.minus:
+key_Cancel Dialog Auto Progress:key.keyboard.y:
+key_Toggle Stopwatch:key.keyboard.keypad.0:
+key_Reset Stopwatch:key.keyboard.keypad.decimal:
+key_View player's gear:key.mouse.middle:
+key_Open Party Management Screen:key.keyboard.o:
+key_Compare mode:key.keyboard.keypad.equal:
+key_Select for comparing:key.keyboard.c:
+key_Open Territory Menu:key.keyboard.u:
+key_Open Quest Book:key.keyboard.k:
+key_Open Wynntils Menu:key.keyboard.i:
+key_Open Powder Guide:key.keyboard.unknown:
+key_Open Item Guide:key.keyboard.unknown:
+key_Open Ingredient Guide:key.keyboard.unknown:
+key_Open Emerald Pouch Guide:key.keyboard.unknown:
+key_Open Guides List:key.keyboard.unknown:
+key_Gammabright:key.keyboard.g:
+key_Toggle Silencer:key.keyboard.unknown:
+key_key.dynamic_fps.toggle_forced:key.keyboard.unknown:
+key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown:
+key_key.fabrishot.screenshot:key.keyboard.f9:
+key_key.customfov.profile.desc:key.keyboard.unknown:
+key_key.entityculling.toggle:key.keyboard.unknown:
+key_key.fabrizoom.zoom:key.keyboard.left.alt:
+key_key.fabrizoom.increase:key.keyboard.unknown:
+key_key.fabrizoom.decrease:key.keyboard.unknown:
+key_key.fabrizoom.reset:key.keyboard.unknown:
+key_key.halohud.toggle-hud:key.keyboard.h:
+key_key.modmenu.open_menu:key.keyboard.unknown:
+key_key.openNotes:key.keyboard.n:
+key_key.optigui.inspect:key.keyboard.f12:
+key_key.presencefootsteps.settings:key.keyboard.f10:
+key_key.presencefootsteps.toggle:key.keyboard.unknown:
+key_iris.keybind.reload:key.keyboard.unknown:
+key_iris.keybind.toggleShaders:key.keyboard.unknown:
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown:
+key_iris.keybind.wireframe:key.keyboard.unknown:

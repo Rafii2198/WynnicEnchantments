@@ -8,19 +8,25 @@ variable {
 
 variable {
   name = wynnic_server_ip
-  value = beta.wynncraft.com
+  value = play.wynncraft.com
   reset_on_launch = false
 }
 
 variable {
   name = wynnic_server_uuid
-  value = ef04179d-00f1-4175-830a-646f3eb8e237-1723072101638
+  value = 000d80ed-5565-411a-a770-db9f84b0325b-1723070749726
   reset_on_launch = false
 }
 
 variable {
   name = wynnic_version
   value = 0.7.0
+  reset_on_launch = false
+}
+
+variable {
+  name = wynnic_legacy
+  value = 0
   reset_on_launch = false
 }
 

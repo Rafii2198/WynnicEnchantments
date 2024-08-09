@@ -522,7 +522,7 @@ vanilla_button {
   nine_slice_border_y = 5
   navigatable = true
   element_type = vanilla_button
-  instance_identifier = mc_titlescreen_options_button
+  instance_identifier = 376394
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
   fade_in = false
@@ -728,7 +728,7 @@ vanilla_button {
   nine_slice_border_y = 5
   navigatable = true
   element_type = vanilla_button
-  instance_identifier = mc_titlescreen_quit_button
+  instance_identifier = 604394
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
   fade_in = false
