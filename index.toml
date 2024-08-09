@@ -186,7 +186,7 @@ hash = "c5260b768cddcdb21df57deb868d57096f0c66350e4ba9701e2f5447116fb3f7"
 
 [[files]]
 file = "config/fancymenu/customization/WynnicMenu-LEGACY.txt"
-hash = "2fc5d63bb893d9855d810c29a7ccf7224cb0c9bf60ffed45aa182fbd329f250a"
+hash = "d68597477cea813eb6e564da0b95a007a1299b0f62a1ee607e3cb0e3e3904e42"
 
 [[files]]
 file = "config/fancymenu/customization/custom_bar.txt"
@@ -206,7 +206,7 @@ hash = "0edb9ba97fd71d1a5c3afdeaa0a7fbd1e6261cb1a0b5e8dc227ccece0bc5fefb"
 
 [[files]]
 file = "config/fancymenu/customization/wynn_load.txt"
-hash = "61e22e7bdb6898ec0f551ecf3732c9665ea5a542a068f0fb5ce39517f4acdd41"
+hash = "03f80dd63bf4c7d1d1ce0039ed0184b5204885bf23158d245dd800841bc4b5bd"
 
 [[files]]
 file = "config/fancymenu/customization/wynnic_book.txt"
@@ -222,7 +222,7 @@ hash = "4a43e443b69a681926c7ff2b5d3989d2ec81a8d9ced5cfdb311ad78a8f006519"
 
 [[files]]
 file = "config/fancymenu/customization/wynnic_main.txt"
-hash = "ae3dbd5316e2559c18d96330329d108d650528bbd1747d26f197a238b8d28cad"
+hash = "ee4c11dfa15bf011a3da0b59e97abe50cf4cab1ca50bd00a5b862701f9bff5ca"
 
 [[files]]
 file = "config/fancymenu/customization/wynnic_main_background.txt"
@@ -282,7 +282,7 @@ hash = "17e419377517944c7a61c76bbc6e1594e411082672a7c60ec2de87c5933bc4fd"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "f0f3b1b2f5eb4b987aea9a2915c2c457cb299cab896c25802ceada08c2e5b9f0"
+hash = "81521b7556e08ec0ecf33ca20eb6c5751a9355163be291239ce7a7b8429e9b10"
 
 [[files]]
 file = "config/fancymenu/slideshows/wynnic_main/images/Corkus.png"
@@ -366,7 +366,7 @@ hash = "9485218ff92634e63e1cb6cf0739b9177ddfeef0f5b8e2cc4863b398c0948dcb"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "00c93b0bafe8176d76cd217ca8a2cb3c8693f1071c4774aa2001e23cfd3dc4da"
+hash = "ea475b205c659bcde33cc08eb9fe887b8f5fbfbe7ba1fb52131ece3774263965"
 
 [[files]]
 file = "config/flow.config.json"
@@ -899,7 +899,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/wynnedits-dark-theme.pw.toml"
-hash = "13818e05bc5318b49cbfc53425f448ac786ce71584d3ba324857cc3bfcac6c9b"
+hash = "79edd57015b0bcb8d1ea34a63e0f438e12289285f79c5fb15a44afc914b82c65"
 metafile = true
 
 [[files]]
