@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = wynnic_settings
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1723082055784
+  last_edited_time = 1723121740269
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:f826d164-3744-4c45-8617-ac2cdc86a779-1723081990475] = [groups:][instances:]
+  [loading_requirement_container_meta:f4a66042-90cc-4898-a8a4-b40ddf95f939-1723115361256] = [groups:][instances:]
 }
 
 customization {
@@ -133,7 +133,7 @@ element {
   fade_in_speed = 1.0
   anchor_point = mid-centered
   x = 35
-  y = 30
+  y = 2
   width = 30
   height = 20
   stretch_x = false
@@ -175,7 +175,7 @@ element {
   fade_in_speed = 1.0
   anchor_point = mid-centered
   x = -75
-  y = 33
+  y = 5
   width = 108
   height = 14
   stretch_x = false
@@ -198,7 +198,7 @@ element {
   nine_slice_border_x = 5
   nine_slice_border_y = 5
   description = lobby.wynncraft.com
-  label = Lobby
+  label = &aLobby
   navigatable = true
   element_type = custom_button
   instance_identifier = 1b78bbae-d122-4530-9ae2-22c7bdc9fa8f-1723072467978
@@ -208,7 +208,7 @@ element {
   fade_in_speed = 1.0
   anchor_point = mid-centered
   x = -50
-  y = -15
+  y = -43
   width = 100
   height = 20
   stretch_x = false
@@ -231,7 +231,7 @@ element {
   nine_slice_border_x = 5
   nine_slice_border_y = 5
   description = media.wynncraft.com%n%NOTE: requires media access
-  label = Media
+  label = &cMedia
   navigatable = true
   element_type = custom_button
   instance_identifier = 28511d28-ea72-4448-ba3f-8e280999ac0a-1723072454760
@@ -241,7 +241,7 @@ element {
   fade_in_speed = 1.0
   anchor_point = mid-centered
   x = -50
-  y = -43
+  y = -71
   width = 100
   height = 20
   stretch_x = false
@@ -264,43 +264,10 @@ element {
   nine_slice_border_x = 5
   nine_slice_border_y = 5
   description = beta.wynncraft.com%n%NOTE: requires beta access
-  label = Beta
+  label = &4Beta
   navigatable = true
   element_type = custom_button
   instance_identifier = ef04179d-00f1-4175-830a-646f3eb8e237-1723072101638
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in = false
-  fade_in_speed = 1.0
-  anchor_point = mid-centered
-  x = -50
-  y = -71
-  width = 100
-  height = 20
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = 55a57034-521e-4229-bc20-ffa27ffb047e-1723070749726
-  [loading_requirement_container_meta:55a57034-521e-4229-bc20-ffa27ffb047e-1723070749726] = [groups:][instances:]
-}
-
-element {
-  button_element_executable_block_identifier = 66ef3bf9-aecf-4378-93b6-89e6d46b4d32-1723070749726
-  [executable_action_instance:7aed5e90-c801-4afa-8462-c65591d2b366-1723071807918][action_type:set_variable] = wynnic_server_ip:eu.wynncraft.com
-  [executable_action_instance:6bab088f-e9fb-46e3-a9de-2cdba6a563c7-1723071859904][action_type:set_variable] = wynnic_server_uuid:d865af5b-cd43-4e6b-bd12-15c926b366b8-1723072082623
-  [executable_block:66ef3bf9-aecf-4378-93b6-89e6d46b4d32-1723070749726][type:generic] = [executables:7aed5e90-c801-4afa-8462-c65591d2b366-1723071807918;6bab088f-e9fb-46e3-a9de-2cdba6a563c7-1723071859904;]
-  backgroundnormal = [source:local]/config/fancymenu/assets/main_menu/single.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/main_menu/smallbutton_hover.fma
-  restartbackgroundanimations = true
-  loopbackgroundanimations = true
-  nine_slice_custom_background = false
-  nine_slice_border_x = 5
-  nine_slice_border_y = 5
-  description = eu.wynncraft.com
-  label = Europe
-  navigatable = true
-  element_type = custom_button
-  instance_identifier = d865af5b-cd43-4e6b-bd12-15c926b366b8-1723072082623
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
   fade_in = false
@@ -330,7 +297,7 @@ element {
   nine_slice_border_x = 5
   nine_slice_border_y = 5
   description = play.wynncraft.com
-  label = North America
+  label = &2Wynncraft
   navigatable = true
   element_type = custom_button
   instance_identifier = 000d80ed-5565-411a-a770-db9f84b0325b-1723070749726

@@ -13,6 +13,10 @@ file = "config/chatpatches.json"
 hash = "cbe9e9dd352a697ecc8fe17f7c593c1cb8710f27973fc10a450ffcb431a86127"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "2e621b306e33a230aca4e1c2e1e2101fe000e2ad620de4005d9231c38e8d845c"
+
+[[files]]
 file = "config/dynamicfps.toml"
 hash = "cd21d3f612a4b704d314a848840567ede751ded584bcc07bb1e186eeb7e76cc2"
 
@@ -194,11 +198,11 @@ hash = "d94b4cce775db7d99ae376072f99565620db2901fd1051c50c013264673627be"
 
 [[files]]
 file = "config/fancymenu/customization/pause_screen_layout.txt"
-hash = "48fe82ef2f84731c287ad80836e2d3dbc6f7baae3cd53f0258f57125d486b0da"
+hash = "c0e8b8e897bcc4ccc64280659be9b089af331299939786b8c79887916b8a98d3"
 
 [[files]]
 file = "config/fancymenu/customization/universal_background.txt"
-hash = "14e92a1be78418db90d103df0aad381f12380c51e2bf51c127e7441ceaaff8f4"
+hash = "0edb9ba97fd71d1a5c3afdeaa0a7fbd1e6261cb1a0b5e8dc227ccece0bc5fefb"
 
 [[files]]
 file = "config/fancymenu/customization/wynn_load.txt"
@@ -218,7 +222,7 @@ hash = "4a43e443b69a681926c7ff2b5d3989d2ec81a8d9ced5cfdb311ad78a8f006519"
 
 [[files]]
 file = "config/fancymenu/customization/wynnic_main.txt"
-hash = "fd27d63252a6ad97013d347878ed4ad1d1894f410a4e0d3ad12b28c37d1f3407"
+hash = "ae3dbd5316e2559c18d96330329d108d650528bbd1747d26f197a238b8d28cad"
 
 [[files]]
 file = "config/fancymenu/customization/wynnic_main_background.txt"
@@ -226,7 +230,7 @@ hash = "6d24cfde4506522e6d7152280ef0c646b18a34e79824953f4d652d77754bb6c6"
 
 [[files]]
 file = "config/fancymenu/customization/wynnic_settings.txt"
-hash = "fc3cb7f71314f70647c65310986983ea0dc48bbd642db584d6f0404e75254f0e"
+hash = "a9a420607ee4ff7af3d6c586df5bb6d2968186aa973c44a47ac55b7ba0cf4155"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -509,6 +513,11 @@ hash = "01ed4dbd0499929408778820a6d386429c2d3b9a9f8bfa2f5459224a248015e6"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "5b22c7bb3ecd93b5ed027aee1961da93c3ea2e723e4a9369944ca1c1a633647b"
+metafile = true
+
+[[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "f530a62c508f706e4632c895562018919d327076a4df18a3327ddbac0a581c50"
 metafile = true
@@ -586,6 +595,11 @@ metafile = true
 [[files]]
 file = "mods/custom-fov-illusive.pw.toml"
 hash = "59f0f573268d61df48860f7afa4aeba1d62f4cea05e20e934710332e78cb2523"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "ac0ca6f5e4b0e8e5b242113c98626da09b3a30ad79e86154afd2222afe58b69c"
 metafile = true
 
 [[files]]
@@ -696,6 +710,11 @@ metafile = true
 [[files]]
 file = "mods/item-highlighter.pw.toml"
 hash = "49ca37bba504df06828553090a125f93852d13fcab3c1be78bf6e6cf59f9131f"
+metafile = true
+
+[[files]]
+file = "mods/keybind-fix-plus.pw.toml"
+hash = "faf0d94299b6f7182e8a4d16b533c54e381f14a107834e024f7f9119c9e8626f"
 metafile = true
 
 [[files]]
