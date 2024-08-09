@@ -898,6 +898,11 @@ hash = "cfe99033f8c6220d174e7a075530a9d7102acad07af54181da49c008550410f0"
 metafile = true
 
 [[files]]
+file = "resourcepacks/wynnedits-dark-theme.pw.toml"
+hash = "13818e05bc5318b49cbfc53425f448ac786ce71584d3ba324857cc3bfcac6c9b"
+metafile = true
+
+[[files]]
 file = "resourcepacks/wynnic-elemental-tooltips.pw.toml"
 hash = "d27f6bba8b82cf12ae9e125dd6a1d1e62ef93596cb13fc490233e4a6de1c4d33"
 metafile = true

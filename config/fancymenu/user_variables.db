@@ -1,32 +1,14 @@
 type = user_variables
 
 variable {
-  name = wynnic2_version_full_local
-  value = 0.7.0
-  reset_on_launch = false
-}
-
-variable {
-  name = wynnic2_version_patch_git
-  value = 0
-  reset_on_launch = false
+  name = wynnic_loaded_once
+  value = 1
+  reset_on_launch = true
 }
 
 variable {
   name = wynnic_server_ip
   value = play.wynncraft.com
-  reset_on_launch = false
-}
-
-variable {
-  name = wynnic2_version_minor_local
-  value = 7
-  reset_on_launch = false
-}
-
-variable {
-  name = wynnic2_version_full_git
-  value = 0.7.0
   reset_on_launch = false
 }
 
@@ -37,31 +19,13 @@ variable {
 }
 
 variable {
-  name = wynnic2_version_patch_local
-  value = 0
-  reset_on_launch = false
-}
-
-variable {
   name = wynnic_version
   value = 0.7.0
   reset_on_launch = false
 }
 
 variable {
-  name = wynnic2_version_minor_git
-  value = 7
-  reset_on_launch = false
-}
-
-variable {
-  name = wynnic2_version_major_local
-  value = 0
-  reset_on_launch = false
-}
-
-variable {
-  name = wynnic2_version_major_git
+  name = wynnic_legacy
   value = 0
   reset_on_launch = false
 }
