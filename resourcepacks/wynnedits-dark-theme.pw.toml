@@ -1,0 +1,13 @@
+name = "WynnEdits - Dark Theme"
+filename = "WynnEdits - Dark Theme 1.6.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8uCVDeXH/versions/Avl8NiBL/WynnEdits%20-%20Dark%20Theme%201.6.zip"
+hash-format = "sha1"
+hash = "d55cdd62771c632ba1eaa288087a71b3c438d66f"
+
+[update]
+[update.modrinth]
+mod-id = "8uCVDeXH"
+version = "Avl8NiBL"
