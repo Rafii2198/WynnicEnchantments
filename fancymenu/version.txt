@@ -1,4 +1,4 @@
 {
-	"version": "0.3.0",
-	"changelog": "%n%Update &l0.3.0&r%n%&lMinecraft&r:%n%- Updated to &l1.19.4&r%n%&lMods Removed:&l%n%-Iceberg%n%-Legendary Tooltips%n%&lKnown Issues:&r%n%-Wynn button placement"
+	"version": "0.8.0",
+	"changelog": "&lUpdate 0.8.0%n%%n%&lMinecraft%n%- Updated to 1.21%n%%n%&lFabric Loader%n%- Updated to 0.16.0%n%%n%&lMods%n%- Many mods were updated, replaced or deleted. Detailed information soon%n%%n%&lResource Packs%n%- Added WynnEdits: Dark Theme%n%%n%&lChanges%n%- Overhauled Main Menu%n%- Added dedicated Settings screen for modpack options%n%- Old Main Menu can be toggled in those options"
 }

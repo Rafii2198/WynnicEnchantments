@@ -1,0 +1,1 @@
+https://wynn.palette.wtf/api/v1/news.php?wynnic={"placeholder":"mpuc:current-modpack-version"}&wynntils={"placeholder":"modversion","values":{"modid":"wynntils"}}

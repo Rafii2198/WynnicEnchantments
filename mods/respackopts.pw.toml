@@ -1,13 +1,13 @@
 name = "Respackopts"
-filename = "respackopts-4.7.1.jar"
+filename = "respackopts-4.10.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/TiF5QWZY/versions/ugj8PKJw/respackopts-4.7.1.jar"
+url = "https://cdn.modrinth.com/data/TiF5QWZY/versions/6StGGQrZ/respackopts-4.10.0.jar"
 hash-format = "sha1"
-hash = "064040045a1d9e24f637593d9391f64ea77bbf7d"
+hash = "9ec965e718f1862b6bc0558e4d5869bd11b2d237"
 
 [update]
 [update.modrinth]
 mod-id = "TiF5QWZY"
-version = "ugj8PKJw"
+version = "6StGGQrZ"

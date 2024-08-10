@@ -1,0 +1,33 @@
+![Banner](https://cdn-raw.modrinth.com/data/WMjBYFp1/images/b63972272f5dc7f3b12f10427acce7d4e45623f4.png)
+
+# About
+Wynnic Enchantments is a modpack for the MMORPG server Wynncraft. This handpicked collection of mods adds new features, enhances graphics and optimizes your game for the best Wynncraft experience!
+
+# Features
+- ## Wynntils
+  Artemis, the new generation of [Wynntils](https://modrinth.com/mod/wynntils), is the main powerhouse of new features: A mod tailored specifically for Wynncraft that makes the game feel like a proper MMORPG game.<br>From adding custom overlays (e.g. mini-map or improved HP & MP bars), adding keybinds (e.g. casting spells, mounting your horse, or custom actions), to custom sounds and visual features.
+    - ### Work in progress Function Stock
+      Wynnic Enchantments contains a Function stock which contains useful functions that you can import into your wynntils settings 
+- ## Graphic Enhancements
+    Behold the beautiful Wynncraft landscape with enhanced graphics! Add beautiful shaders with [Iris](https://modrinth.com/mod/iris), improve ambience with [Falling Leaves](https://modrinth.com/mod/fallingleaves) & [Nicer Skies](https://modrinth.com/mod/nicer-skies), and enjoy epic item previews with [Legendary Tooltips](https://modrinth.com/mod/legendary-tooltips)!<br>Wynnic Enchantments includes the simple [VanillAA](https://modrinth.com/shader/vanillaa) shader for antialiasing on vanilla graphics and the heavier (yet greatly optimized) [Complementary Reimagined](https://modrinth.com/shader/complementary-reimagined), which was used for the images below.
+- ## Optimization
+  While [Sodium](https://modrinth.com/mod/sodium) probably is the best known one, this pack includes several mods to improve overall performance and stability. With compatibility in mind, enjoy increased FPS without losing graphical fidelity!
+- ## Express Yourself
+  [Figura](https://modrinth.com/mod/figura) is a mod that lets you customize your player model - the only limit is your imagination! Maybe you just want cute ears, or become a tall glorious knight with epic animations - everything is possible!<br>[3D Skin Layers](https://modrinth.com/mod/3dskinlayers) enhances the default model and [Not Enough Animations](https://modrinth.com/mod/not-enough-animations) lets you hug your homies after successful raids!. You can also see your body in first person.
+
+# Additional Mod mentions
+
+_Check out [Versions list](https://modrinth.com/modpack/wynnicenchantments/versions) for the current mod list in each version._\
+This list contains useful mods that are not on Modrinth and thus cannot be included:
+
+- [Voices of Wynn](https://voicesofwynn.com) - This huge project adds voices to quest NPCs with more than 500 voice actors!
+
+# Other links
+
+- [Mastodon](https://101010.pl/@Rafii2198) - This is my Mastodon account, where I will be posting updates about this mod-pack and <sub>_maybe_</sub> some sneak peeks 👀
+- [Ko-Fi](https://ko-fi.com/rafii2198) - You can buy me a coffee, definitely helps after hours of finding mods and making sure everything is compatible. Any donation help! ₍ᐢ•ﻌ•ᐢ₎
+- Do you have issues or questions? Find me on the [Wynntils Discord](https://discord.gg/SZuNem8) server.
+
+### Disclaimer
+
+This modpack is not affiliated with Wynntils or any other mod included. While I am a Wynntils Discord moderator, **don't** report any modpack related bugs or issues to them. Post them directly to me instead. 

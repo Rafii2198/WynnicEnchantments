@@ -1,31 +1,46 @@
-type = menu
+type = fancymenu_layout
 
-customization-meta {
+layout-meta {
   identifier = wynnic_function_stock
-  randomgroup = 1
-  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:625668a7-c00f-470d-909f-eb2504cc03b01682884191443] = function_type:box
-  renderorder = foreground
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1722984433179
+  is_enabled = true
   randommode = false
+  randomgroup = 1
   randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:407c1e87-2878-4ad3-994c-3759be5290fd-1722984433179] = [groups:][instances:625668a7-c00f-470d-909f-eb2504cc03b01682884191443;]
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:625668a7-c00f-470d-909f-eb2504cc03b01682884191443] = function_type:box
 }
 
 customization {
   action = setscale
-  scale = 3
+  scale = 3.0
 }
 
 customization {
-  baseheight = 1080
   action = autoscale
   basewidth = 1920
+  baseheight = 1080
 }
 
 customization {
-  keepaspectratio = false
   action = backgroundoptions
+  keepaspectratio = false
 }
 
-customization {
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
+}
+
+element {
   orientation = top-left
   enable_scrolling = true
   shadow = true
@@ -42,31 +57,60 @@ customization {
   y = 145
   alignment = centered
   height = 43
+  element_type = fancymenu_customization_item_text
 }
 
-customization {
-  orientation = element
-  loopbackgroundanimations = true
+element {
+  button_element_executable_block_identifier = c31387d3-9add-4c59-9aea-4b48a0dfe73f-1722984433188
+  [executable_action_instance:101f298a-a952-45a5-a4d8-710816435768-1722984433188][action_type:copytoclipboard] = {"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicFunctionStock/main/{"placeholder":"getvariable","values":{"name":"function_source"}}/data.json","json_path":"$.value"}}
+  [executable_block:c31387d3-9add-4c59-9aea-4b48a0dfe73f-1722984433188][type:generic] = [executables:101f298a-a952-45a5-a4d8-710816435768-1722984433188;]
   restartbackgroundanimations = true
-  orientation_element = 8c1ad73d-c2b2-4833-9f90-749082c071ef1682857773270
-  buttonaction = copytoclipboard;{"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/Rafii2198/WynnicFunctionStock/main/{"placeholder":"getvariable","values":{"name":"function_source"}}/data.json","json_path":"$.value"}}%btnaction_splitter_fm%
-  x = 0
-  width = 300
-  action = addbutton
-  actionid = 33f23cda-700c-4985-a6cb-50a65794fbb21682883677782
-  y = 46
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
   label = Copy Content
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 33f23cda-700c-4985-a6cb-50a65794fbb21682883677782
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = element
+  anchor_point_element = 8c1ad73d-c2b2-4833-9f90-749082c071ef1682857773270
+  x = 0
+  y = 46
+  width = 300
   height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 77866012-e47e-4d3c-b314-09bcb74e06af-1722984433188
+  [loading_requirement_container_meta:77866012-e47e-4d3c-b314-09bcb74e06af-1722984433188] = [groups:][instances:]
 }
 
-customization {
-  orientation = top-left
+element {
+  source = [source:web]https://raw.githubusercontent.com/Rafii2198/WynnicFunctionStock/main/{"placeholder":"getvariable","values":{"name":"function_source"}}/image.png
+  repeat_texture = false
+  nine_slice_texture = false
+  nine_slice_texture_border_x = 5
+  nine_slice_texture_border_y = 5
+  element_type = image
+  instance_identifier = acc9278a-9cb1-4ba5-b89d-39fec55f6f0a1682886540489
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = top-left
   x = 15
-  width = 300
-  action = addwebtexture
-  actionid = acc9278a-9cb1-4ba5-b89d-39fec55f6f0a1682886540489
   y = 42
-  url = https://raw.githubusercontent.com/Rafii2198/WynnicFunctionStock/main/{"placeholder":"getvariable","values":{"name":"function_source"}}/image.png
+  width = 300
   height = 100
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 3afb7943-18bb-4541-bc6d-8a0b7bb58649-1722984433189
+  [loading_requirement_container_meta:3afb7943-18bb-4541-bc6d-8a0b7bb58649-1722984433189] = [groups:][instances:]
 }
 

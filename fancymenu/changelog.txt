@@ -1,40 +1,18 @@
-Update &l0.7.0
+&lUpdate 0.8.0
 
-&lFabric Loader:
-- Updated to 0.15.11
+&lMinecraft
+- Updated to 1.21
 
-&lMods Added:
-- Animatica
-- Continuity
-- Figura
+&lFabric Loader
+- Updated to 0.16.0
 
-&lUpdated Mods:
-- 3D Skin Layers
-- Better F3
-- Chat Patches
-- CIT Resewn
-- Controlify Wynn
-- Controlling
-- Dynamic FPS
-- Entity Model Features
-- Entity Texture Features
-- Fabric Language Kotlin
-- Falling Leaves
-- Fancy Menu
-- First Person Model
-- Immediately Fast
-- Modern Fix
-- More Culling
-- Not Enough Animations
-- OptiGUI
-- Presence Footsteps
-- Sounds
-- Wavey Capes
-- Wynntils
+&lMods
+- Many mods were updated, replaced or deleted. Detailed information soon
 
-&lResource Packs:
-- Added Wynnic Elemental Tooltips
+&lResource Packs
+- Added WynnEdits: Dark Theme
 
-&lChanges:
-- Finally Fixed Halo HUD config
-- Disabled Chat message sounds
+&lChanges
+- Overhauled Main Menu
+- Added dedicated Settings screen for modpack options
+- Old Main Menu can be toggled in those options

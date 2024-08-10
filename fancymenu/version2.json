@@ -1,7 +1,7 @@
 {
-	"mc": "1.20.2",
+	"mc": "1.21",
 	"major": 0,
-	"minor": 7,
+	"minor": 8,
 	"patch": 0,
-	"changelog": "Update &l0.7.0%n%%n%&lFabric Loader:%n%- Updated to 0.15.11%n%%n%&lMods Added:%n%- Animatica%n%- Continuity%n%- Figura%n%%n%&lUpdated Mods:%n%- 3D Skin Layers%n%- Better F3%n%- Chat Patches%n%- CIT Resewn%n%- Controlify Wynn%n%- Controlling%n%- Dynamic FPS%n%- Entity Model Features%n%- Entity Texture Features%n%- Fabric Language Kotlin%n%- Falling Leaves%n%- Fancy Menu%n%- First Person Model%n%- Immediately Fast%n%- Modern Fix%n%- More Culling%n%- Not Enough Animations%n%- OptiGUI%n%- Presence Footsteps%n%- Sounds%n%- Wavey Capes%n%- Wynntils%n%%n%&lResource Packs:%n%- Added Wynnic Elemental Tooltips%n%%n%&lChanges:%n%- Finally Fixed Halo HUD config%n%- Disabled Chat message sounds"
+	"changelog": "&lUpdate 0.8.0%n%%n%&lMinecraft%n%- Updated to 1.21%n%%n%&lFabric Loader%n%- Updated to 0.16.0%n%%n%&lMods%n%- Many mods were updated, replaced or deleted. Detailed information soon%n%%n%&lResource Packs%n%- Added WynnEdits: Dark Theme%n%%n%&lChanges%n%- Overhauled Main Menu%n%- Added dedicated Settings screen for modpack options%n%- Old Main Menu can be toggled in those options"
 }

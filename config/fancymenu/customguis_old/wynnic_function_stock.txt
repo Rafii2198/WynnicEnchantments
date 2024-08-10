@@ -1,0 +1,2 @@
+identifier = wynnic_function_stock
+allowesc = true

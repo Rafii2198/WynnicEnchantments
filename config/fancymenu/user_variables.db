@@ -1,13 +1,32 @@
-type = cached_variables
+type = user_variables
 
-variables {
-  wynnic2_version_full_local = 0.6.3
-  wynnic2_version_patch_git = 3
-  wynnic2_version_minor_local = 6
-  wynnic2_version_full_git = 0.6.3
-  wynnic2_version_patch_local = 3
-  wynnic2_version_minor_git = 6
-  wynnic2_version_major_local = 0
-  wynnic2_version_major_git = 0
+variable {
+  name = wynnic_loaded_once
+  value = 1
+  reset_on_launch = true
+}
+
+variable {
+  name = wynnic_server_ip
+  value = play.wynncraft.com
+  reset_on_launch = false
+}
+
+variable {
+  name = wynnic_server_uuid
+  value = 000d80ed-5565-411a-a770-db9f84b0325b-1723070749726
+  reset_on_launch = false
+}
+
+variable {
+  name = wynnic_version
+  value = 0.7.0
+  reset_on_launch = false
+}
+
+variable {
+  name = wynnic_legacy
+  value = 0
+  reset_on_launch = false
 }
 

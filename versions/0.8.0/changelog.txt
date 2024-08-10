@@ -1,0 +1,20 @@
+# Minecraft
+- Updated to 1.21
+
+# Fabric Loader
+- Updated to 0.16.0
+
+# Mods
+- Many mods were updated, replaced or deleted. Detailed information soon
+
+# Resource Packs
+- Added WynnEdits: Dark Theme
+
+# Changes
+- Overhauled Main Menu
+- Added dedicated Settings screen for modpack options
+- Old Main Menu can be toggled in those options
+- Improved changelog, now shows Modpacks and Wynntils updates as well as Wynncraft news
+
+# Big thanks to Palette
+One day Palette [https://modrinth.com/user/PaletteDev](https://modrinth.com/user/PaletteDev) reached out to me with desire to help making the modpack, it is thanks to him many current changes exists, like improved changelog or optimized graphics. Without his help I would not finish the update on time
