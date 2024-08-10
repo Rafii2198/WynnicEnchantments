@@ -1,18 +1,16 @@
-&lUpdate 0.8.0
-
-&lMinecraft
+# Minecraft
 - Updated to 1.21
 
-&lFabric Loader
+# Fabric Loader
 - Updated to 0.16.0
 
-&lMods
+# Mods
 - Many mods were updated, replaced or deleted. Detailed information soon
 
-&lResource Packs
+# Resource Packs
 - Added WynnEdits: Dark Theme
 
-&lChanges
+# Changes
 - Overhauled Main Menu
 - Added dedicated Settings screen for modpack options
 - Old Main Menu can be toggled in those options

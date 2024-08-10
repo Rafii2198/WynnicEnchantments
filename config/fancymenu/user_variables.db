@@ -30,9 +30,3 @@ variable {
   reset_on_launch = false
 }
 
-variable {
-  name = wynnic_legacy
-  value = 0
-  reset_on_launch = false
-}
-

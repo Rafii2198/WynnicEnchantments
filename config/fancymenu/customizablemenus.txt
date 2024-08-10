@@ -3,12 +3,12 @@ type = customizablemenus
 de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 }
 
-net.minecraft.class_500 {
-}
-
 com.jab125.mpuc.client.gui.screen.changelog.NewChangelogScreen {
 }
 
 net.minecraft.class_442 {
+}
+
+net.minecraft.class_500 {
 }
 

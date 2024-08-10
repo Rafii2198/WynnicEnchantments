@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = title_screen
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1723225684096
+  last_edited_time = 1723292405053
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:788f59d7-b9b2-47a0-8521-f69abd6a9de1-1723225543829] = [groups:][instances:7bcfdb38-1f4a-4619-b0ad-ce9558a457a5-1723224085031;]
+  [loading_requirement_container_meta:9d1419d4-a775-4a6d-b102-0b47d0ac45c4-1723289550470] = [groups:][instances:7bcfdb38-1f4a-4619-b0ad-ce9558a457a5-1723224085031;]
   [loading_requirement:fancymenu_visibility_requirement_is_number][requirement_mode:if][req_id:7bcfdb38-1f4a-4619-b0ad-ce9558a457a5-1723224085031] = ["mode":"equals","number":"1","compare_with":"{"placeholder":"getvariable","values":{"name":"wynnic_legacy"}}"]$
 }
 
@@ -522,7 +522,7 @@ vanilla_button {
   nine_slice_border_y = 5
   navigatable = true
   element_type = vanilla_button
-  instance_identifier = 376394
+  instance_identifier = mc_titlescreen_options_button
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
   fade_in = false
@@ -728,7 +728,7 @@ vanilla_button {
   nine_slice_border_y = 5
   navigatable = true
   element_type = vanilla_button
-  instance_identifier = 604394
+  instance_identifier = mc_titlescreen_quit_button
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
   fade_in = false
