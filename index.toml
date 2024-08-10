@@ -17,6 +17,10 @@ file = "config/defaultoptions/keybindings.txt"
 hash = "2e621b306e33a230aca4e1c2e1e2101fe000e2ad620de4005d9231c38e8d845c"
 
 [[files]]
+file = "config/drippyloadingscreen/options.txt"
+hash = "e0e8c50f3d6fe28a59f79d8977e300c1ac7aaa7ded151b80532009779f3cd6dc"
+
+[[files]]
 file = "config/dynamicfps.toml"
 hash = "cd21d3f612a4b704d314a848840567ede751ded584bcc07bb1e186eeb7e76cc2"
 
@@ -282,7 +286,7 @@ hash = "17e419377517944c7a61c76bbc6e1594e411082672a7c60ec2de87c5933bc4fd"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "04e6647d2c3a60287863a42fccd48e2afd115358b62f7fd366fcf5191a4b8cd1"
+hash = "d987789d3f3d3d183dab680b79ccd0dc13059979c27ba926d0379dd2e075c2fd"
 
 [[files]]
 file = "config/fancymenu/slideshows/wynnic_main/images/Corkus.png"
@@ -454,15 +458,15 @@ hash = "7674f91a618d1dca348a8685c6ff4fce64500ed0058dea5b6cb56b8603eff611"
 
 [[files]]
 file = "fancymenu/changelog.txt"
-hash = "a4613ad14ac99fb016039943a43904fd64aaec9627b23ba296c56ea25b897d70"
+hash = "4557b02b2f73be80ab18e50ed430dbd7eaed580d72001669fac5f71c3066ee7e"
 
 [[files]]
 file = "fancymenu/version.txt"
-hash = "78041001f249f9eaa2aec2bd63e5db741b4c96958cecdf068cc346fe4f2d6ae5"
+hash = "1ee90eb785ed2b2a30e9d892d25eb26713b1a9bd8259c6bb7175aa467e723818"
 
 [[files]]
 file = "fancymenu/version2.json"
-hash = "50fd991178be46ec4ab6de2293075fb1aa35e268d3fadac7dfdc1117c4c51660"
+hash = "e611c5d1adbc2dd98976394af4ac9eff1147cba46c82af73b0d512439f298215"
 
 [[files]]
 file = "meta.json"
@@ -894,4 +898,4 @@ hash = "958325170825eb42ac1b4845f6ec322475f449e4e766edeaa414e41747335485"
 
 [[files]]
 file = "versions/0.8.0/changelog.txt"
-hash = "2f4d919b5d9507d23c21ba0c87abf412655615b00c57dcf0d0ffc10e3f502e92"
+hash = "8a3ebea63fc21561826cc56d0440adaf88d93d971484e5bd916fad1a78a419b2"
