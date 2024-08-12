@@ -1,0 +1,26 @@
+# Changes
+
+- Disabled Auto Scaling of the main menu to fix issues related to Wynntils overlays. The menu will not look perfect at all resolutions, playing maximized window or fullscreen is adviced for best visuals.
+- Removed mods that caused Wynntils to not show the gear icon on unidentified boxes
+- Changelogs will now begin with changes section, mod related changes will be the last.
+
+# Mods Removed
+
+- Default Options (caused keybind to reset)
+- Iceberg (causes issues with Wynntils)
+- Item Highlighter
+- Legendary Tooltips
+- Prism
+
+# Mods Updated
+
+- C2ME
+- Fabric API (downgraded actually)
+- Immediately Fast
+- Lithium
+- Modern Fix
+- Modpack Update Checker
+- M.R.U
+- Sounds
+- Spark
+- Wynntils

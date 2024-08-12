@@ -9,7 +9,7 @@ layout-meta {
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:9d1419d4-a775-4a6d-b102-0b47d0ac45c4-1723289550470] = [groups:][instances:7bcfdb38-1f4a-4619-b0ad-ce9558a457a5-1723224085031;]
+  [loading_requirement_container_meta:bc54635f-2df1-497f-a73f-46eb75adf290-1723484586765] = [groups:][instances:7bcfdb38-1f4a-4619-b0ad-ce9558a457a5-1723224085031;]
   [loading_requirement:fancymenu_visibility_requirement_is_number][requirement_mode:if][req_id:7bcfdb38-1f4a-4619-b0ad-ce9558a457a5-1723224085031] = ["mode":"equals","number":"1","compare_with":"{"placeholder":"getvariable","values":{"name":"wynnic_legacy"}}"]$
 }
 
