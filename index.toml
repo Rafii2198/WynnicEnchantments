@@ -663,11 +663,6 @@ hash = "44f305d1d8072d6cf4fd474b98ab21e9fd41b3fcc5fd50061a40a3b40537fc36"
 metafile = true
 
 [[files]]
-file = "mods/iceberg.pw.toml"
-hash = "4bfe78f29b033e43cf3172344c2d8c8f140c4fb12d7059f9b0f8a528b2e89b0f"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "5158ad2f74f9aa8843552e9630c245dfe9adb3421f00fcc80a2fdc06a032b4ce"
 metafile = true
@@ -683,11 +678,6 @@ hash = "315648c1b6910b274d4a16bda8eba7ddf380d928edb20c0c36f3ff9776e30fe5"
 metafile = true
 
 [[files]]
-file = "mods/item-highlighter.pw.toml"
-hash = "da34bd17c800da836fd18748ab780668278d4ecf90fb45a2f6b41c78d7d55641"
-metafile = true
-
-[[files]]
 file = "mods/keybind-fix-plus.pw.toml"
 hash = "317f7c207ba328de9318266ca96a16865f8db7ac734ba0c317e866c79a3b2aeb"
 metafile = true
@@ -700,11 +690,6 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
-metafile = true
-
-[[files]]
-file = "mods/legendary-tooltips.pw.toml"
-hash = "12949e5cebf7512c379d2318d662d84b044c835fa21e8150c3298503e73b69da"
 metafile = true
 
 [[files]]
@@ -795,11 +780,6 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "5bef9a443c12a13d5eeefa60bbb0a40ef99ab8a0675cd335a6cc2520dc5ba33b"
-metafile = true
-
-[[files]]
-file = "mods/prism-lib.pw.toml"
-hash = "161e03ba62f72fd63ad24397d7e0cafcb7c8a96a7a928cd139fe4b47fe0e2ffb"
 metafile = true
 
 [[files]]
