@@ -1,20 +1,119 @@
 # Minecraft
+
 - Updated to 1.21
 
 # Fabric Loader
+
 - Updated to 0.16.0
 
-# Mods
-- Many mods were updated, replaced or deleted. Detailed information soon
+# Mods Added
+
+- Balm
+- Cubes Without Borders
+- Default Options
+- kennytvs-epic-force-close-loading-screen-mod-for-fabric
+- Keybind Fix
+- Melody
+- Modpack Update Checker
+- ToastBegone
+
+# Mods Removed
+
+- Borderless Mining (replaced with Cubes Without Borders)
+- CIT Resewn
+- Controlify Wynn
+- F3 Keybind
+- Figura (waiting for release version)
+- LazyDFU
+- Nimble
+- Starlight
+
+# Mods Updated
+
+- 3D Skin Layers
+- Ambient Sounds
+- Animatica
+- Auth Me
+- Better Third Person
+- Bobby
+- C2ME
+- Camera Overhaul
+- Capes
+- Chat Patches
+- Cloth Config
+- Collective
+- Continuity
+- Controlify
+- Controlling
+- Creative Core
+- Custom FOV
+- Drippy Loading Screen
+- Dynamic FPS
+- Entity Model Features
+- Entity Texture Features
+- Entity Culling
+- Fabric API
+- Fabric Language Kotlin
+- Fabrishot
+- Fabrizoom
+- Fadeless
+- Falling Leaves
+- Fancy Menu
+- Ferrite Core
+- Forge Config API Port
+- Halo Hud
+- Iceberg
+- Immediately Fast
+- Indium
+- Iris
+- Item Highlighter
+- Konkrete
+- Krypton
+- Legendary Tooltips
+- LibJF
+- Lithium
+- Model Fix
+- Mod Menu
+- Mods Command
+- More Culling
+- MRU
+- Nicer Skies
+- Not Enough Animations
+- Notes
+- OptiGUI
+- Physics Mod
+- Presence Footstep
+- Prism
+- Reese's Sodium Options
+- Respackopts
+- Screenshot to Clipboard
+- Searchables
+- Searchables
+- Serverpack Unlocker
+- Sodium
+- Sodium Extra
+- Sounds
+- Spark
+- Visuality
+- Wavey Capes
+- Wynntils
+- Yet Another Config Lib
 
 # Resource Packs
+
 - Added WynnEdits: Dark Theme
 
+# Shaderpacks
+
+- Updated Complementary Reimagined
+
 # Changes
+
 - Overhauled Main Menu
 - Added dedicated Settings screen for modpack options
 - Old Main Menu can be toggled in those options
 - Improved changelog, now shows Modpacks and Wynntils updates as well as Wynncraft news
 
 # Big thanks to Palette
+
 One day Palette [https://modrinth.com/user/PaletteDev](https://modrinth.com/user/PaletteDev) reached out to me with desire to help making the modpack, it is thanks to him many current changes exists, like improved changelog or optimized graphics. Without his help I would not finish the update on time
