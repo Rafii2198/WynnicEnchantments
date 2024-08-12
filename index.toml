@@ -33,346 +33,6 @@ file = "config/fallingleaves.json"
 hash = "0173cf1b8ba7a3fceeb73982f194d36f2bc89f6191cca8cb8d9c3223d463dde2"
 
 [[files]]
-file = "config/fancymenu/assets/changelog.txt"
-hash = "6d9b5ada5cc8b54b1f92002497f383fd3748d0956b1f0246844940acd99e4e3a"
-
-[[files]]
-file = "config/fancymenu/assets/empty.png"
-hash = "f331ce534820665fe6434aef3588f6ab119d871709e9126191b34303b9c47d0c"
-
-[[files]]
-file = "config/fancymenu/assets/grabber.png"
-hash = "8ae608b9ed9efe546915736b6fc340bafd742a23bf65d890607445fa4cc7f613"
-
-[[files]]
-file = "config/fancymenu/assets/grabber_hover.png"
-hash = "63168912e233400018149afdb35294c89a8e5051e4231da7d0adbdb96bea4240"
-
-[[files]]
-file = "config/fancymenu/assets/icons/icon16x16.png"
-hash = "8df663b65090e05a4043643aaf4c9969f0466eba6343eadb3369c1e983bcb5c7"
-
-[[files]]
-file = "config/fancymenu/assets/icons/icon32x32.icns"
-hash = "508c829ddacc194c2aad0f5eff8de828f628025d31c12e9e6d3081b76905f06c"
-
-[[files]]
-file = "config/fancymenu/assets/icons/icon32x32.png"
-hash = "17e419377517944c7a61c76bbc6e1594e411082672a7c60ec2de87c5933bc4fd"
-
-[[files]]
-file = "config/fancymenu/assets/kofi.png"
-hash = "37c9c9a1fb8f8d4cb7da948c4ba8943552ec7a7a458d8dbc39719881597aa950"
-
-[[files]]
-file = "config/fancymenu/assets/logomain-old.png"
-hash = "94923767882db991e115bf74fef88107e94f0bbd469eaf1c385607922829419d"
-
-[[files]]
-file = "config/fancymenu/assets/logomain-oldnew.png"
-hash = "f2f87bd1a67142bfe5666a38087fd56f906301e34eafe5b0cea0c9709fcfe2f7"
-
-[[files]]
-file = "config/fancymenu/assets/logomain.png"
-hash = "f7ad6769125dd28800c99e0f4926a8e98b0d4281ae275b26a73ee49fdbdf05f5"
-
-[[files]]
-file = "config/fancymenu/assets/main_menu/changelog.png"
-hash = "d743833a88ab838634280cf7b44989c2afc5b8dbbfb92c8302612dbbe28472a9"
-
-[[files]]
-file = "config/fancymenu/assets/main_menu/changelog_hover.fma"
-hash = "13bca494f780b3bcc234a160240cad87140d13925338366f2a9c866afd47c7cf"
-
-[[files]]
-file = "config/fancymenu/assets/main_menu/join_wynncraft.png"
-hash = "3d8206ff460ed51cc6b3c4a9c177ee97526a99b1e3bc84b39c86eca172935a5e"
-
-[[files]]
-file = "config/fancymenu/assets/main_menu/mods_text.png"
-hash = "be0e9a24dc14dd57e4c4249a8d2abbaaa1a0c348b370e139bda3c9d3018c2f73"
-
-[[files]]
-file = "config/fancymenu/assets/main_menu/multiplayer.png"
-hash = "2ca793cbed97629cef4b50a11f465b57e22dccee1fe5d65cdf1bdad4315a242f"
-
-[[files]]
-file = "config/fancymenu/assets/main_menu/multiplayer_hover.fma"
-hash = "23d9112843cc5daff02b4a24bd0bc9ad56f950c9f545a71e2549ca49ddc6d1a6"
-
-[[files]]
-file = "config/fancymenu/assets/main_menu/options_text.png"
-hash = "0c7d24d12645a762d3871ae3884b72a9546f055071c3cd41343555864c641ff0"
-
-[[files]]
-file = "config/fancymenu/assets/main_menu/player.png"
-hash = "2c06f4e762928242997f0bf94631bed4e581f9b672ce48c77366478bb37d22e5"
-
-[[files]]
-file = "config/fancymenu/assets/main_menu/player_hover.fma"
-hash = "ff4cece2fa0a5ab4092836540eb9f035205c43777e1a077056a47c2abf651268"
-
-[[files]]
-file = "config/fancymenu/assets/main_menu/quit_text.png"
-hash = "70b99c064d6da1d1d118928781f997d6dae6305c8304a45125af01f163c3a8a2"
-
-[[files]]
-file = "config/fancymenu/assets/main_menu/single.png"
-hash = "c9e8965fa33db20ef552c5289bbe8fe4569a50ed6648aaba1389e0dff6dba2df"
-
-[[files]]
-file = "config/fancymenu/assets/main_menu/singleplayer_text.png"
-hash = "442d42e53f37aede3526fc93144aa32bb7a087e0f2e471052b70d412d56e2fe8"
-
-[[files]]
-file = "config/fancymenu/assets/main_menu/smallbutton_hover.fma"
-hash = "a048dbab96f772e637adb29f30581ba86cfbd541041530df4b0197de811b69f2"
-
-[[files]]
-file = "config/fancymenu/assets/main_menu/wynncraft.png"
-hash = "f463ebe6a8540b0589401579f9fd61d0ca8ff447d50d8b2f07df023e9bf6e166"
-
-[[files]]
-file = "config/fancymenu/assets/main_menu/wynncraft_hover.fma"
-hash = "e80a6deb230fd1183f051d7ba86db703fb76608d9eee6cf0b548578ca18a6b61"
-
-[[files]]
-file = "config/fancymenu/assets/main_menu/wynnicsettings_text.png"
-hash = "5cdcec440e53f8562ff405c7fffab759390b76aad641d2c2c0b140480b807861"
-
-[[files]]
-file = "config/fancymenu/assets/mastodon.png"
-hash = "fe3a919327fc4f574e151818c5f7ef0162df82871db962227533a42f2456587b"
-
-[[files]]
-file = "config/fancymenu/assets/modrinth.png"
-hash = "c3f0424d244d1bd136c3087e3234b9ed9a0cd0e74e1f20bf890a394a0c67af72"
-
-[[files]]
-file = "config/fancymenu/assets/spectra.png"
-hash = "507195c3a756d8edc88592f8fb7427cadaf6f4056bc74f90ffb44b8f85cfd9a2"
-
-[[files]]
-file = "config/fancymenu/assets/testtt.md"
-hash = "a85c1e1e2dafa502b75a8d1af1623c4fcd2cc5ec45230718d5ae62160c9ce13c"
-
-[[files]]
-file = "config/fancymenu/assets/updates-link.txt"
-hash = "5bc0d57743fba1da693cbdaef010f102346aacc1a0c0274369dc423319e1ed3b"
-
-[[files]]
-file = "config/fancymenu/assets/version.txt"
-hash = "78041001f249f9eaa2aec2bd63e5db741b4c96958cecdf068cc346fe4f2d6ae5"
-
-[[files]]
-file = "config/fancymenu/assets/version2.json"
-hash = "4914519276082885d9e20ffaa3c7cbc9c14741041a8024a119a772f6eafeb9d3"
-
-[[files]]
-file = "config/fancymenu/config.txt"
-hash = "973c474a34323b463e0b4597e885b825e59f4bc14ea0aa19b26c0a5ea57fe733"
-
-[[files]]
-file = "config/fancymenu/custom_gui_screens.txt"
-hash = "12b0bf784f9e68b3235664de406a7f8148ac220b954cb53d6d14c9fc65c88997"
-
-[[files]]
-file = "config/fancymenu/customguis/wynnic_function_stock.txt"
-hash = "35c3a1a47aea751c30a0aadf6a31ca4ae67a3ad181757d82402e6a2c2c7457f2"
-
-[[files]]
-file = "config/fancymenu/customguis_old/wynnic_function_stock.txt"
-hash = "35c3a1a47aea751c30a0aadf6a31ca4ae67a3ad181757d82402e6a2c2c7457f2"
-
-[[files]]
-file = "config/fancymenu/customizablemenus.txt"
-hash = "a368f27e580ff4ead542d5dbadf2eb8be7b28a07a93a60e614cad53cbe7becd5"
-
-[[files]]
-file = "config/fancymenu/customization/WynnicMenu-LEGACY.txt"
-hash = "c404301952bb0ad868bc9097eed9a1b15c7e5cec045c336dd16e360ebb923eab"
-
-[[files]]
-file = "config/fancymenu/customization/custom_bar.txt"
-hash = "b74da9c68ae077bf33dbc76706ae645e5953c723e97bba38854102d5ad14a199"
-
-[[files]]
-file = "config/fancymenu/customization/info_box.txt"
-hash = "90a845703dc515794ef696d031853f42dcb2842dc4ac82a78533348ee34723ff"
-
-[[files]]
-file = "config/fancymenu/customization/pause_screen_layout.txt"
-hash = "b8a3209cf217d4cba5ee7a02dceb4a806fe0666feceb5f735ce6ec89a03dc1a1"
-
-[[files]]
-file = "config/fancymenu/customization/universal_background.txt"
-hash = "8df449ded2f90a8b0082d07beade88d83abbf07df6bfea5ceae8480e7470cbf3"
-
-[[files]]
-file = "config/fancymenu/customization/wynn_load.txt"
-hash = "6b2a301336238c680f3822c87f6d18a90db0ff5447e70e4691a2968ef5b9bbe9"
-
-[[files]]
-file = "config/fancymenu/customization/wynnic_book.txt"
-hash = "4af8c0d20e0e4933e30784d6e323721c895c5c68cf5b8dfda187759857647f72"
-
-[[files]]
-file = "config/fancymenu/customization/wynnic_changelog_screen.txt"
-hash = "95c73606e18430a1b05a1c4f459a82255b50a3d661bec50de7b9e7f908350e51"
-
-[[files]]
-file = "config/fancymenu/customization/wynnic_functions.txt"
-hash = "e7e99fea449fbd4e5d6c9e0645383a5c4344c1f59a36773a740d1711682852c0"
-
-[[files]]
-file = "config/fancymenu/customization/wynnic_main.txt"
-hash = "50c0aa901c8f56fe4efeb70f24252be497bd72097d36e38db140156c8e9c2530"
-
-[[files]]
-file = "config/fancymenu/customization/wynnic_main_background.txt"
-hash = "7b7befee2f70a0a6a9d18f526837704a2013993be2e64df7b9cbe96c5c6f9575"
-
-[[files]]
-file = "config/fancymenu/customization/wynnic_settings.txt"
-hash = "462ab6925e71b9ceda992eaf26aac00c8417a60bafebf1bd0651e9cc44f775dc"
-
-[[files]]
-file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "cc20fb2f61837738c0eb504d3b333f495b03881110a9827a78d5311fdb826137"
-
-[[files]]
-file = "config/fancymenu/legacy_checklist.txt"
-hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
-
-[[files]]
-file = "config/fancymenu/locals/de_de.local"
-hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
-
-[[files]]
-file = "config/fancymenu/locals/en_us.local"
-hash = "cef0b6b4ed124cb2e5f0f19de2bd86cc59e6f7426a58d6d74bbd3554727553d4"
-
-[[files]]
-file = "config/fancymenu/locals/pl_pl.local"
-hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
-
-[[files]]
-file = "config/fancymenu/locals/pt_br.local"
-hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
-
-[[files]]
-file = "config/fancymenu/locals/ru_ru.local"
-hash = "2120cd2e1de7d8ec9ee8d18f24db70645e92042ba55ffbbc68403ecdc8a50fce"
-
-[[files]]
-file = "config/fancymenu/locals/uk_ua.local"
-hash = "c9a592ff8445f3d8d6a87a59df27e72a67b71afcf0fc03dad27a5ded2f94a780"
-
-[[files]]
-file = "config/fancymenu/locals/zh_cn.local"
-hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
-
-[[files]]
-file = "config/fancymenu/menu_identifiers.db"
-hash = "9dfa943b1306339bcea776147394c19db55f7cfc41ed3f3fb639f41a360baffe"
-
-[[files]]
-file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
-hash = "8df663b65090e05a4043643aaf4c9969f0466eba6343eadb3369c1e983bcb5c7"
-
-[[files]]
-file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
-hash = "17e419377517944c7a61c76bbc6e1594e411082672a7c60ec2de87c5933bc4fd"
-
-[[files]]
-file = "config/fancymenu/options.txt"
-hash = "d987789d3f3d3d183dab680b79ccd0dc13059979c27ba926d0379dd2e075c2fd"
-
-[[files]]
-file = "config/fancymenu/slideshows/wynnic_main/images/Corkus.png"
-hash = "25c95d2b2371bf67fcbbf952f238bdb8732928d30ef17e214589f44ef97a9734"
-
-[[files]]
-file = "config/fancymenu/slideshows/wynnic_main/images/Detlas North Entrance.png"
-hash = "22f30b3d88b35f1e1abd9542bf8ee72db6ca567761dfaff4f4197ecd75456a46"
-
-[[files]]
-file = "config/fancymenu/slideshows/wynnic_main/images/East Entrance to Detlas.png"
-hash = "2eb8ae35410a19ad426cec92e98944f185df78a5349894e1ae6549c7ea782845"
-
-[[files]]
-file = "config/fancymenu/slideshows/wynnic_main/images/Entrance to Nivla Woods.png"
-hash = "799ad305bda826382000e49c36729b7cbe57df52053bb8d901b41b6a0f75d91e"
-
-[[files]]
-file = "config/fancymenu/slideshows/wynnic_main/images/Guild Hall Entrance.png"
-hash = "0073d4c0f1352854fa2060be9a416ef253cd5f2e28c04c50984fffb06bd5a050"
-
-[[files]]
-file = "config/fancymenu/slideshows/wynnic_main/images/Llevigar.png"
-hash = "e76b66f4e9fd3fe91fe09144b25e670bc5733624db9be82a1ce498a3d391a61a"
-
-[[files]]
-file = "config/fancymenu/slideshows/wynnic_main/images/Nest of the Grootslangs external.png"
-hash = "e440180956685e5db80ef21885b852601b4c22969646d911e31a7dadabd35fdf"
-
-[[files]]
-file = "config/fancymenu/slideshows/wynnic_main/images/Nether Portal.png"
-hash = "8344a998a78a57dd77f45f063de20265ddffc359cdb36e34b52381e5b80e2734"
-
-[[files]]
-file = "config/fancymenu/slideshows/wynnic_main/images/Realm of light exterior.png"
-hash = "504080c070480ee0ef4d4ad704bf7b6e7c39f429ecb4470e8281f0598dae74ef"
-
-[[files]]
-file = "config/fancymenu/slideshows/wynnic_main/images/Sand Swept Tomb Entrance.png"
-hash = "429406677679562ac321f33f128eb5c6872427472f77c76d472ec007e7b29363"
-
-[[files]]
-file = "config/fancymenu/slideshows/wynnic_main/images/Selchar Port.png"
-hash = "780965b1859d6e9e848d743a47217ad92ac312415f097e28ba03df3dd0f7405a"
-
-[[files]]
-file = "config/fancymenu/slideshows/wynnic_main/images/Sky islands.png"
-hash = "f65a1fb46575ebcd240db7e418fa1deddff506a8a57a72435938acf1df97857e"
-
-[[files]]
-file = "config/fancymenu/slideshows/wynnic_main/images/The Hive.png"
-hash = "3bd4143d470d367dd7dab613da679b52e7349ebc734371f2980133925f38cb5f"
-
-[[files]]
-file = "config/fancymenu/slideshows/wynnic_main/images/The Tree.png"
-hash = "c8c09ad677a1d3f5c6c4358f05bbfc6bf3367b7ba50ead5ae7cd6375fe8f8943"
-
-[[files]]
-file = "config/fancymenu/slideshows/wynnic_main/images/View of Nessak Wilderness - Ice Barrows Dungeon.png"
-hash = "21bb73b5b1fd68c3fc3d095e7b34ab5d388ac5346054d0b30781ecdf78c46397"
-
-[[files]]
-file = "config/fancymenu/slideshows/wynnic_main/images/Wynn Excavation Site.png"
-hash = "f1a2237e48d4b3c94713f4b5ae66d6686d75d508ad796b1ff19f65897eae9c78"
-
-[[files]]
-file = "config/fancymenu/slideshows/wynnic_main/images/small lake at the entrance to the Rymek Region.png"
-hash = "0ba6e50bae24b591f4b90aa0e4b154dd691d3564679c656f673afd5b75aa2276"
-
-[[files]]
-file = "config/fancymenu/slideshows/wynnic_main/properties.txt"
-hash = "1d281f153a0f9eb52352113dfdcc26f8812b067704a4bd195a0878f1761d0143"
-
-[[files]]
-file = "config/fancymenu/ui_themes/dark.json"
-hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
-
-[[files]]
-file = "config/fancymenu/ui_themes/light.json"
-hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
-
-[[files]]
-file = "config/fancymenu/user_variables.db"
-hash = "b32d75faab72de6104cbedfc6c6aa7533bfbeb9af53f312f9da7931b04514c5a"
-
-[[files]]
 file = "config/flow.config.json"
 hash = "e23707eeb315182111f4df3719f119a434dcb5cf04a46a9f819d596994c24b67"
 
@@ -385,12 +45,12 @@ file = "config/legendarytooltips-common.toml"
 hash = "b7f925c32449b2582338808f88845e511151d2cd19ae34e75efdeff6796bcb17"
 
 [[files]]
-file = "config/modpack-update-checker/config.json"
-hash = "3822a4f39f1e8fff04cf5ac4ed0e09c13a0ad5624850010c9eb4988a1d4768bb"
+file = "config/modpack-update-checker-info.txt"
+hash = "e34f089454e2b27550bfdecc38a2f4f99980853a8564d578dcb2f3b1ee11bd51"
 
 [[files]]
-file = "config/modpack-update-checker/modpack-info.txt"
-hash = "e34f089454e2b27550bfdecc38a2f4f99980853a8564d578dcb2f3b1ee11bd51"
+file = "config/modpack-update-checker/config.json"
+hash = "f3652a492dd244a01854d916f50e73178c8cd14102bd8bd2e77d0d865b0d59cf"
 
 [[files]]
 file = "config/nimble-client.toml"
@@ -429,10 +89,6 @@ file = "config/physicsmod/physics_vines_client_config.json"
 hash = "f0f5d28f52effe8ab66fb6c1b33863befa1f77887dc479db50cb49bad69a9772"
 
 [[files]]
-file = "config/smoothswapping.json"
-hash = "8e552f11575f5d0fef350b323fd7c0c55e652e313fc0da0e82e21b0659744541"
-
-[[files]]
 file = "config/sounds.ui.config.json"
 hash = "b6b3cec60afe46528106f0c52a66f6fe365b0b83c3db9f2afca4f5e28a9bba4a"
 
@@ -455,22 +111,6 @@ hash = "b823c547a0013865bcb814b0a00e7b2914a2f90ca5a3f674974977a434ef6006"
 [[files]]
 file = "config/waveycapes.json"
 hash = "7674f91a618d1dca348a8685c6ff4fce64500ed0058dea5b6cb56b8603eff611"
-
-[[files]]
-file = "fancymenu/changelog.txt"
-hash = "4557b02b2f73be80ab18e50ed430dbd7eaed580d72001669fac5f71c3066ee7e"
-
-[[files]]
-file = "fancymenu/version.txt"
-hash = "1ee90eb785ed2b2a30e9d892d25eb26713b1a9bd8259c6bb7175aa467e723818"
-
-[[files]]
-file = "fancymenu/version2.json"
-hash = "e611c5d1adbc2dd98976394af4ac9eff1147cba46c82af73b0d512439f298215"
-
-[[files]]
-file = "meta.json"
-hash = "d8303696331613f3581e3f7ff13942b2fdf4a442b627b4be51d028c2b1237683"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -570,11 +210,6 @@ metafile = true
 [[files]]
 file = "mods/custom-fov-illusive.pw.toml"
 hash = "3bf1f6cb3220828fdc936ce844921906a467c04856c7c9980969a5c2bae478c7"
-metafile = true
-
-[[files]]
-file = "mods/default-options.pw.toml"
-hash = "33b41ca0a086129013dbbc192addf449ae71462f0bc52a1271a1f24c84ccbabb"
 metafile = true
 
 [[files]]
@@ -871,11 +506,3 @@ metafile = true
 file = "shaderpacks/vanillaa.pw.toml"
 hash = "b062f3d3717d82a0359fbf09472339e7080026fce69fc4a6d136ac8266b9e6ec"
 metafile = true
-
-[[files]]
-file = "versions/0.7.0/changelog.txt"
-hash = "958325170825eb42ac1b4845f6ec322475f449e4e766edeaa414e41747335485"
-
-[[files]]
-file = "versions/0.8.0/changelog.txt"
-hash = "8a3ebea63fc21561826cc56d0440adaf88d93d971484e5bd916fad1a78a419b2"
