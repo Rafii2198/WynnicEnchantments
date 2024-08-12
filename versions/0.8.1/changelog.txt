@@ -16,7 +16,7 @@
 
 - C2ME
 - Fabric API (downgraded actually)
-- Immediatly Fast
+- Immediately Fast
 - Lithium
 - Modern Fix
 - Modpack Update Checker
