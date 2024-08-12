@@ -154,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "1af76f25bad7ee8dad72015483d1263170707f2f17bb029557b8051b6136ff05"
+hash = "a4fd2e20e1a2444c6892e9f14d94b1b8802a8a4954f9e3e49045aac9b9074f23"
 metafile = true
 
 [[files]]
@@ -239,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "794af4880bb4602e2de66936180944fee416f8b3c9de02e9bff248e62fb1814f"
+hash = "c8215a5e6f35175c0c3d764284026b94a8159207319299081459f6aeb05b4191"
 metafile = true
 
 [[files]]
@@ -299,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "5158ad2f74f9aa8843552e9630c245dfe9adb3421f00fcc80a2fdc06a032b4ce"
+hash = "3f8f7b594419ea4fefa330c82fee1be6d904390b3a6bb40e52aeb8e7b9009c82"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "019e6f258127d947cf0b43227c198365b107e35d4e16e29ee8388986aaf62d77"
+hash = "f004eac1859218b35a865698a68000b21806709f02b54b2a2ef55ff04a793328"
 metafile = true
 
 [[files]]
@@ -359,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ca5ec031a590d0ad2e4feaf61853ce2ed0f0a78f8b7a8627cf183250f0e63d88"
+hash = "ebbaf07d4e04f172081d5f4bec47837ae1008c5a6dbedc32f7ba471dd3d004cd"
 metafile = true
 
 [[files]]
@@ -369,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/modpack-update-checker.pw.toml"
-hash = "e6da0891754348cfa43a85dd6d50475658e59de73f099c2c49624812840e0e26"
+hash = "78c7aac73d61c1df5a5e8c859457099aa8604048a881172427f827ca8bb5a2b8"
 metafile = true
 
 [[files]]
@@ -384,12 +384,12 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "09a2cb241231f2ff1d2e22620cd430a002b97a14704b83163cd89f36fcb72815"
+hash = "966aafb5b4d6c70474dc6178aae033dd068579f3d5063f9e1b37f4cf813f44dd"
 metafile = true
 
 [[files]]
 file = "mods/nicer-skies.pw.toml"
-hash = "d8145a940964ef2e6cd7be4bee5a6653bccd907bd51e6afb05f8f519b32ab669"
+hash = "9c6baa56a71ce342c6c621c634e7a2573bef8bfecde08d40387e382f227a9c90"
 metafile = true
 
 [[files]]
@@ -454,12 +454,12 @@ metafile = true
 
 [[files]]
 file = "mods/sonance.pw.toml"
-hash = "3112ac47527718066d4a7ce68e18082046ab172b2d413eff479c322f1d6ce917"
+hash = "70c9c72ef2ea3e2c168faf2808659a51a45664627e73a407fe4080bdf0db0f6e"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "bea01f76d30359b4013aee8df6863fda0be45e03cbc2e0a4c80f4bc88db3b27a"
+hash = "24ca44f204ce1904fa79e0fab79c101831716b3197a726f71abf6e5d3e621f80"
 metafile = true
 
 [[files]]
@@ -479,7 +479,7 @@ metafile = true
 
 [[files]]
 file = "mods/wynntils.pw.toml"
-hash = "09a8811f96abfcf3c4e1baa2ab747e43a4719a149692d8d696e1d46fb90d29ad"
+hash = "05ffbefd79ebb43a0f1be26f0250125279cafe8b77cd4139411afa829812ed33"
 metafile = true
 
 [[files]]
