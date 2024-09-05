@@ -1,0 +1,13 @@
+name = "WynnVentory"
+filename = "Wynnventory-v0.6.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CORVJbiT/versions/LuPi9WeJ/Wynnventory-v0.6.2.jar"
+hash-format = "sha1"
+hash = "0c9cfa7e5e6d69b3200c06d385d140933580c87e"
+
+[update]
+[update.modrinth]
+mod-id = "CORVJbiT"
+version = "LuPi9WeJ"

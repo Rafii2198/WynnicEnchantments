@@ -1,0 +1,61 @@
+# Changes
+
+- Custom background appears in many more menus
+- Mod Menu button is now set to Icon in pause menu so that it doesn't overlap with the Wynncraft texture
+
+# Fabric Loader
+
+- Updated to 0.16.2
+
+# Mods Added
+
+- Barriers Don't Block Rain 
+- Don't Surf Through Cutscenes
+- Particle Rain
+- Remove HUD
+- Variants CIT
+- Wynncraft Dynamic Weather
+- Wynnventory
+
+# Resourcepacks
+
+- Added Wynncraft Hud Font More Readable
+- Added Wynncraft Legacy Spell Cast Indicator
+- Updated WynnEdits - Dark Theme
+
+# Shaders
+
+- Added Nwoof's Wynn Shader
+
+# Mods Removed
+
+- Immediately Fast (Causes rendering issues)
+- Indium (No longer needed)
+- Controlify (Temporary, causes crashes in settings menu)
+
+# Mods Updated
+
+- 3D Skin Layers
+- Ambient Sounds
+- Balm
+- Bobby
+- Cloth Config
+- Collective
+- Entity Model Features
+- Entity Culling
+- Entity Texture Features
+- Fabric Language Kotlin
+- Fabrishot
+- Iris
+- Mica
+- Mods Menu
+- M.R.U
+- Not Enough Animations
+- Physics Mod
+- Reese's Sodium Options
+- Sodium 
+- Sodium Extra
+- Sounds
+- Toasts Begone
+- Wavey Capes
+- Wynntils
