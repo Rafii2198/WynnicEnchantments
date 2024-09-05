@@ -9,7 +9,7 @@
 
 # Mods Added
 
-- Barries Don't Block Rain 
+- Barriers Don't Block Rain 
 - Don't Surf Through Cutscenes
 - Particle Rain
 - Remove HUD
@@ -31,7 +31,7 @@
 
 - Immediately Fast (Causes rendering issues)
 - Indium (No longer needed)
-- Controlift (Temporary, causes crashes in settings menu)
+- Controlify (Temporary, causes crashes in settings menu)
 
 # Mods Updated
 
@@ -43,7 +43,7 @@
 - Collective
 - Entity Model Features
 - Entity Culling
-- Entity Texture Featuers
+- Entity Texture Features
 - Fabric Language Kotlin
 - Fabrishot
 - Iris
