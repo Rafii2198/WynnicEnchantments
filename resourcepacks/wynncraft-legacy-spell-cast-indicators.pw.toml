@@ -1,0 +1,13 @@
+name = "Wynncraft: Legacy Spell Cast Indicators"
+filename = "Legacy Spell Cast Indicators.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5PklJcCW/versions/VbWpiWAs/Legacy%20Spell%20Cast%20Indicators.zip"
+hash-format = "sha1"
+hash = "85356d3d83e95a4326c7ba3cb4dd3d0f340114b4"
+
+[update]
+[update.modrinth]
+mod-id = "5PklJcCW"
+version = "VbWpiWAs"
