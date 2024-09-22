@@ -1,1 +1,1 @@
-https://wynn.palette.wtf/api/v1/news.php?wynnic={"placeholder":"mpuc:current-modpack-version"}&wynntils={"placeholder":"modversion","values":{"modid":"wynntils"}}
+https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/refs/heads/main/versions/0.9.0/changelog.txt
