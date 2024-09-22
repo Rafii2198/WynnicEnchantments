@@ -1,0 +1,13 @@
+name = "MYTHOS"
+filename = "MYTHOS 1.02 [1.21].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YPGRTmFO/versions/fH3BnFwm/MYTHOS%201.02%20%5B1.21%5D.zip"
+hash-format = "sha1"
+hash = "5ad840a8f46dd2a1b5ac692d59658c92a8e97c76"
+
+[update]
+[update.modrinth]
+mod-id = "YPGRTmFO"
+version = "fH3BnFwm"

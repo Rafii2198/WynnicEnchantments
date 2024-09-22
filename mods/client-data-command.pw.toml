@@ -1,0 +1,13 @@
+name = "Client Data Command"
+filename = "ClientDataCommand-fabric-1.0+mc1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/51bNp2fA/versions/r7rXnZhZ/ClientDataCommand-fabric-1.0%2Bmc1.21.jar"
+hash-format = "sha1"
+hash = "7391215154ca9104ab90575a4a2d064ebf6edead"
+
+[update]
+[update.modrinth]
+mod-id = "51bNp2fA"
+version = "r7rXnZhZ"

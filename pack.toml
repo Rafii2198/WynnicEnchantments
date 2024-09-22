@@ -1,13 +1,16 @@
 name = "Wynnic Enchantments"
 author = "Rafii2198"
-version = "0.8.2"
+version = "0.9.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f2ed7006467ab4ceb0c7cc42fa34515fc1e9edd66fef85314d9d913eb29b0254"
+hash = "4c7c52366aa108206209ae7560c089b7939a17842a892b9b0a69c9c3fc0a21b5"
 
 [versions]
-fabric = "0.16.2"
+fabric = "0.16.5"
 minecraft = "1.21"
+
+[options]
+acceptable-game-versions = ["1.21.1"]

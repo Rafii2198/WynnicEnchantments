@@ -1,0 +1,13 @@
+name = "Satin Free Wakes"
+filename = "wakes-0.2.2-1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7y4lnTPk/versions/fEOpac97/wakes-0.2.2-1.21.jar"
+hash-format = "sha1"
+hash = "e420013b75b83b5e573ebc5be090c569693097f8"
+
+[update]
+[update.modrinth]
+mod-id = "7y4lnTPk"
+version = "fEOpac97"

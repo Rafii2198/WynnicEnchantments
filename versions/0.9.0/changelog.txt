@@ -1,0 +1,57 @@
+# Announcement
+
+- Not version depended, but for now you will only see the changelog of the latest version of the modpack until the situation with servers gets fixed
+
+# Changes
+
+- Updated config to Mod Menu to make it more compatible with Wynncraft pause menu
+
+# Fabric Loader
+
+- Updated to 0.16.5
+
+# Mods Added
+
+- CIT Resewn
+- Client Data Command
+- GpuTape
+- Resourcify
+- Satin Free Wakes
+- Sodium Dynamic Lights
+- Sodium Leaf Culling
+- Wynnbuild
+- WynnLantern
+- Wynn Weapon Bigger
+
+# Resourcepacks
+
+- Added Annihilation Armory 
+- Added Cork and Balls
+- Added MYTHOS
+
+# Shaders
+
+- Updated Nwoof's Wynn Shader
+
+# Mods Updated
+
+- Chat Patches
+- Cloth Config
+- Dynamic FPS
+- Entity Model Features
+- Entity Texture Features
+- Fabric API
+- Fabric Language Kotlin
+- First Person Model
+- Iris
+- Lithium
+- Not Enough Animations
+- OptiGUI
+- Physics Mod
+- Reese's Sodium Options
+- Sodium
+- Sodium Extra
+- Sounds
+- Variants CIT
+- Wynntils
+- Wynnventory
