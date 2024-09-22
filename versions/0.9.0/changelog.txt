@@ -8,7 +8,7 @@
 
 # Fabric Loader
 
-- Updated to 0.16.2
+- Updated to 0.16.5
 
 # Mods Added
 
@@ -51,7 +51,7 @@
 - Reese's Sodium Options
 - Sodium
 - Sodium Extra
-- Sonace
+- Sounds
 - Variants CIT
 - Wynntils
 - Wynnventory
