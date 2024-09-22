@@ -158,7 +158,7 @@ hash = "a85c1e1e2dafa502b75a8d1af1623c4fcd2cc5ec45230718d5ae62160c9ce13c"
 
 [[files]]
 file = "config/fancymenu/assets/updates-link.txt"
-hash = "5bc0d57743fba1da693cbdaef010f102346aacc1a0c0274369dc423319e1ed3b"
+hash = "b43d6a29046670bd83250fe7d5a9e7a74217d3a059c0ab34e11deb8b337a66dc"
 
 [[files]]
 file = "config/fancymenu/assets/version.txt"
@@ -386,7 +386,7 @@ hash = "b7f925c32449b2582338808f88845e511151d2cd19ae34e75efdeff6796bcb17"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "da2e741c655017aa1cfffc8e6cf71a39c02f1ba5d578aff65092b3ee84882604"
+hash = "d07412077ae616ec463742e90ebb971f24561df6e3ae508b05625d6bfb432cd4"
 
 [[files]]
 file = "config/modpack-update-checker-info.txt"
@@ -394,7 +394,7 @@ hash = "e34f089454e2b27550bfdecc38a2f4f99980853a8564d578dcb2f3b1ee11bd51"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "6f9d13f6d3b3245f27b0cde3b2bebd1ec27bc7695100889771c7b74c6784989c"
+hash = "39154c758e35fa13566ca3a0d998680f2735586942952107d3e0a56346d2b867"
 
 [[files]]
 file = "config/nimble-client.toml"
