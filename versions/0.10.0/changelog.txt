@@ -6,7 +6,7 @@
 - Updated links in main menu
 - Complementary Shaders now will again have their original name, this means you will need to redo your settings but only one time as long as you use Complementary shader with Euphoria Patches which are now included
 - Legendary Tooltips and all mods that previously were removed due to Iceberg/Prism incompatibility are added back
-- Removed some uneeded files
+- Removed some unneeded files
 
 # Minecraft
 
