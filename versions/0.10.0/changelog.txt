@@ -24,7 +24,7 @@
 
 - Class Keybind Profiles
 - Euphoria Patcher
-- Icebreg
+- Iceberg
 - Item Highlighter
 - Legendary Tooltips
 - oωo (owo-lib)
