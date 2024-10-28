@@ -1,1 +1,1 @@
-{"placeholder":"mpuc:latest-modpack-version"}
+https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/refs/heads/main/versions/0.10.0/changelog.txt
