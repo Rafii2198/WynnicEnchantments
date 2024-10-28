@@ -1,0 +1,13 @@
+name = "Class Keybind Profiles"
+filename = "ClassKeybindProfiles-0.4.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aJG0aKmi/versions/aHrlxV7C/ClassKeybindProfiles-0.4.4.jar"
+hash-format = "sha1"
+hash = "d9f7ea37c267e532f6663f23e3efa4c95304a71c"
+
+[update]
+[update.modrinth]
+mod-id = "aJG0aKmi"
+version = "aHrlxV7C"

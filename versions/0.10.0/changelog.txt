@@ -1,0 +1,82 @@
+# Changes
+
+- The modpack now features preconfigured Quick Menu with many common actions, like nearest item identifier, blacksmith, Wynntils menu and so on 
+- Changed default keybinds. This change will only affect new installs. By default, drop key will be unbound and in its place Quick Menu will be activated. Further keybind changes will happen in later updates
+- Fixed an issue where the background in settings menu was covering the game
+- Updated links in main menu
+- Complementary Shaders now will again have their original name, this means you will need to redo your settings but only one time as long as you use Complementary shader with Euphoria Patches which are now included
+- Legendary Tooltips and all mods that previously were removed due to Iceberg/Prism incompatibility are added back
+- Removed some unneeded files
+
+# Minecraft
+
+- Updated to 1.21.1
+
+# Fabric Loader
+
+- Updated to 0.16.7
+
+# Mods Removed
+
+- Halo HUD - No longer works properly after Wynncraft 2.1 update
+
+# Mods Added
+
+- Class Keybind Profiles
+- Euphoria Patcher
+- Iceberg
+- Item Highlighter
+- Legendary Tooltips
+- oωo (owo-lib)
+- Prism
+- Quick Menu
+- Wynncraft Spell Caster
+- Your Options Shall Be Respected
+
+# Shaders
+
+- Updated Complementary Reimagined
+- Updated Nwoof's Wynn Shader
+
+# Mods Updated
+
+- Ambient Sounds
+- Balm
+- Better F3
+- C2ME
+- Chat Patches
+- Cit Resewn
+- Collective
+- Controlling
+- Creative Core
+- Drippy Loading Screen
+- Dynamic FPS
+- Fabric API
+- Fadless
+- Fancy Menu
+- Ferrite Core
+- Forge Config API Port
+- GPU Tape
+- Lithium
+- ModernFix
+- Mod Menu
+- More Culling
+- M.R.U
+- OptiGUI
+- Resourcify
+- Respackopts
+- Searchables
+- Sodium
+- Sodium Dynamic Lights
+- Sodium Options API
+- Sounds
+- Spark
+- Variants CIT
+- Wavey Capes
+- Wynnbuild
+- Wynncraft Dynamic Weather
+- WynnLantern
+- Wynntils
+- Wynnventory
+- Wynn Weapon Bigger
+- Yet Another Config Lib
