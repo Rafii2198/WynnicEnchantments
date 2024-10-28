@@ -1,0 +1,3 @@
+version:3955
+key_key.drop:key.keyboard.unknown
+key_key.quickmenu.open:key.keyboard.q

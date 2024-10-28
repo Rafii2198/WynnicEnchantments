@@ -1,13 +1,13 @@
 name = "WynnVentory"
-filename = "Wynnventory-v0.8.1.jar"
+filename = "Wynnventory-v0.8.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/CORVJbiT/versions/pPSZ4q12/Wynnventory-v0.8.1.jar"
+url = "https://cdn.modrinth.com/data/CORVJbiT/versions/on2PG2Zj/Wynnventory-v0.8.8.jar"
 hash-format = "sha1"
-hash = "7e9666d4320928e64910e244f9ad07784e67b985"
+hash = "1ff53db76ff622cf977bb398c7ce32b4fa6dbe3a"
 
 [update]
 [update.modrinth]
 mod-id = "CORVJbiT"
-version = "pPSZ4q12"
+version = "on2PG2Zj"
