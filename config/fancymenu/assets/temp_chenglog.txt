@@ -1,0 +1,93 @@
+^^^
+Your version: {"placeholder":"mpuc:current-modpack-version"} | Latest Version: {"placeholder":"mpuc:latest-modpack-version"}
+^^^
+
+# Changes
+
+- Bobby has been replaced with Distant Horizons, Bobby can still be installed as optional mod, bear in mind that both of these mods generate cache files which can take a lot of space
+- Due to the change above, you may want to clear Bobby cache files so they don't take space on your computer if you don't plan on using both
+- You will get prompt in game to download the latest version of the cache for Distant Horizons thanks to new WynnLODGrabber mod
+- Predefined settings for Complementary Shaders + Euphoria Patches are now included
+- More keybind changes
+- Some Resourcepacks are now enabled by default
+- Updated Wynntils to support 2.1.1
+
+# Fabric Loader
+
+- Updated to 0.16.9
+
+# Mods Added
+
+- Distant Horizons
+- Wynn Bubbles
+- WynnLimbo
+- WynnLODGrabber
+- WynnVista
+
+# Shaders
+
+- Updated Nwoof's Wynn Shader
+
+# Resourcepacks
+
+- Updated MYTHOS
+- Updated Wynncraft Hud Font More Readable 
+- Updated Wynncraft: Legacy Spell Cast Indicators
+- Updated Wynnic Elemental Tooltips
+
+# Mods Updated
+
+- 3D Skin Layer
+- Ambient Sound
+- Balm
+- BetterF3
+- Bobby
+- C2ME
+- Class Keybind Profiles
+- Cloth Config
+- Collective
+- Controlling
+- CreativeCore
+- Cubes Without Borders
+- Drippy Loading Screen
+- Dynamic FPS
+- Entity Culling
+- Entity Model Features
+- Entity Texture Features
+- Euphoria Patches
+- Fabric API
+- Fancy Menu
+- Ferrite Core
+- First Person Model
+- Forge Config API Port
+- Iris
+- LibJF
+- Lithium
+- Mica
+- ModernFix
+- Mod Menu
+- Modpack Update Checker
+- More Culling
+- M.R.U
+- Not Enough Animations
+- OptiGUI
+- oωo (owo-lib)
+- Physics Mod
+- Presence Footsteps
+- Reeses Sodium Options
+- Resourcify
+- Respackopts
+- Searchables
+- Sodium
+- Sodium Extra
+- Sodium Options API
+- Sounds
+- Spark
+- Variants CIT
+- Wavey Capes
+- WynnBuild
+- WynnLantern
+- Wynntils
+- Wynnventory
+- Wynn Weapon Bigger
+- Yet Another Config Lib
