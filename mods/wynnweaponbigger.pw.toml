@@ -1,13 +1,13 @@
 name = "Wynn Weapon Bigger"
-filename = "wynn-weapon-bigger-0.5.3.jar"
+filename = "wynn-weapon-bigger-0.5.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/utYpQkTr/versions/c8pl67lL/wynn-weapon-bigger-0.5.3.jar"
+url = "https://cdn.modrinth.com/data/utYpQkTr/versions/LiXUk0SE/wynn-weapon-bigger-0.5.4.jar"
 hash-format = "sha1"
-hash = "9af6a5de5a68652ac2b3b85d73b9b4b5d240b2e3"
+hash = "215268643eb2293e21af1ce8285f3e2627c5c203"
 
 [update]
 [update.modrinth]
 mod-id = "utYpQkTr"
-version = "c8pl67lL"
+version = "LiXUk0SE"

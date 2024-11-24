@@ -1,3 +1,26 @@
 version:3955
-key_key.drop:key.keyboard.unknown
-key_key.quickmenu.open:key.keyboard.q
+resourcePacks:["vanilla","fabric","wynntils_preloaded/8af7b714b0fa664124213e2cce9ae062125d6278","file/Wynncraft Hud Font Fix§8.zip","file/MYTHOS 1.1 [1.21].zip","file/Annihilating_Armory_1.1.0.zip","file/Cork and Balls 1.1.2.zip","file/§6Wynnic Elemental Tooltips.zip"]
+tutorialStep:none
+key_key.pickItem:key.keyboard.unknown
+key_key.socialInteractions:key.keyboard.unknown
+key_key.swapOffhand:key.keyboard.unknown
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_key.loadToolbarActivator:key.keyboard.unknown
+key_key.advancements:key.keyboard.unknown
+key_Cast 1st Spell:key.keyboard.unknown
+key_Cast 2nd Spell:key.keyboard.unknown
+key_Cast 3rd Spell:key.keyboard.unknown
+key_Cast 4th Spell:key.keyboard.unknown
+key_key.fabrizoom.zoom:key.keyboard.grave.accent
+key_key.optigui.inspect:key.keyboard.unknown
+key_physicsmod.keybinding.guiphysics:key.keyboard.unknown
+key_physicsmod.keybinding.physicsmenu:key.keyboard.unknown
+key_key.wynncraft-spell-caster.spell.first:key.keyboard.z
+key_key.wynncraft-spell-caster.spell.second:key.keyboard.x
+key_key.wynncraft-spell-caster.spell.third:key.keyboard.c
+key_key.wynncraft-spell-caster.spell.fourth:key.keyboard.v
+key_Torch:key.keyboard.comma
+key_key.wynnventory.open_config:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.unknown
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown

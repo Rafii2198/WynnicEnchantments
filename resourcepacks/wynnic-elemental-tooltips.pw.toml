@@ -1,13 +1,13 @@
 name = "Wynnic Elemental Tooltips"
-filename = "Wynnic Elemental Tooltips.zip"
+filename = "§6Wynnic Elemental Tooltips.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/tZXyiYp2/versions/rrvDRO3C/Wynnic%20Elemental%20Tooltips.zip"
+url = "https://cdn.modrinth.com/data/tZXyiYp2/versions/BglhDVKu/%C2%A76Wynnic%20Elemental%20Tooltips.zip"
 hash-format = "sha1"
-hash = "cbce9263e3296994eab3eeab102302b29c170567"
+hash = "fdbf630afddbc87b7f45918359d34a02f1132d2b"
 
 [update]
 [update.modrinth]
 mod-id = "tZXyiYp2"
-version = "rrvDRO3C"
+version = "BglhDVKu"
