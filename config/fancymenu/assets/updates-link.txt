@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/refs/heads/main/versions/0.10.0/changelog.txt
+https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/refs/heads/main/config/fancymenu/assets/temp_changelog.txt
