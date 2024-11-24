@@ -3,11 +3,11 @@ filename = "Wynncraft Hud Font Fix§8.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/hPm5iH25/versions/6aC6MRvy/Wynncraft%20Hud%20Font%20Fix%C2%A78.zip"
+url = "https://cdn.modrinth.com/data/hPm5iH25/versions/i3OtaQib/Wynncraft%20Hud%20Font%20Fix%C2%A78.zip"
 hash-format = "sha1"
-hash = "8243a81dc87702ac864815f02b57b89bf90b16d4"
+hash = "c9fa7d9f7e08aef7d9b278cb8e19948975ab01fe"
 
 [update]
 [update.modrinth]
 mod-id = "hPm5iH25"
-version = "6aC6MRvy"
+version = "i3OtaQib"

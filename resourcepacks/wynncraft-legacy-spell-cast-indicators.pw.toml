@@ -3,11 +3,11 @@ filename = "Legacy Spell Cast Indicators.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/5PklJcCW/versions/VbWpiWAs/Legacy%20Spell%20Cast%20Indicators.zip"
+url = "https://cdn.modrinth.com/data/5PklJcCW/versions/MbqPDMAg/Legacy%20Spell%20Cast%20Indicators.zip"
 hash-format = "sha1"
-hash = "85356d3d83e95a4326c7ba3cb4dd3d0f340114b4"
+hash = "4c6a2f8d742d05ed22242f973eed227d77010b66"
 
 [update]
 [update.modrinth]
 mod-id = "5PklJcCW"
-version = "VbWpiWAs"
+version = "MbqPDMAg"
