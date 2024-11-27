@@ -1,5 +1,6 @@
 ^^^
-Your version: {"placeholder":"mpuc:current-modpack-version"} | Latest Version: {"placeholder":"mpuc:latest-modpack-version"}
+Your version: {"placeholder":"mpuc:current-modpack-version"} 
+Latest Version: {"placeholder":"mpuc:latest-modpack-version"}
 ^^^
 
 # Changes
