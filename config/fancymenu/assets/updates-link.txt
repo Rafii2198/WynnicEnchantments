@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/Rafii2198/WynnicEnchantments/refs/heads/main/config/fancymenu/assets/temp_changelog.txt
+https://wynn.palette.wtf/api/v1/news.php?wynnic={"placeholder":"mpuc:current-modpack-version"}&wynntils={"placeholder":"modversion","values":{"modid":"wynntils"}}
