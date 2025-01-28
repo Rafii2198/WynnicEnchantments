@@ -238,11 +238,15 @@ hash = "4a43e443b69a681926c7ff2b5d3989d2ec81a8d9ced5cfdb311ad78a8f006519"
 
 [[files]]
 file = "config/fancymenu/customization/wynnic_main.txt"
-hash = "6ec35c7bc09088bd4e89853814e8dfc5abfcc265c82bacfeb7baf92a68d26f2d"
+hash = "6b5e271b0cf4f84ae454ae5cc207d63fc907cafc72e7bf380c0c48458c84e54a"
 
 [[files]]
 file = "config/fancymenu/customization/wynnic_main_background.txt"
-hash = "dfbe8d734bddc44121194f861920dc93e5c54c281fa0671b5babec763564b750"
+hash = "c52d90dc8313ea037ad1cddc6706731aaacb6a4dd55663cc5f96e791e7b0edc9"
+
+[[files]]
+file = "config/fancymenu/customization/wynnic_servers.txt"
+hash = "7bea4c37e536f486e399bddde5149c95f9366454c9affd679fa05911a14c024c"
 
 [[files]]
 file = "config/fancymenu/customization/wynnic_settings.txt"
