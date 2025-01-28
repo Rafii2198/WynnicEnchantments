@@ -1,13 +1,13 @@
 name = "Collective"
-filename = "collective-1.21.1-7.87.jar"
+filename = "collective-1.21.4-7.89.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/nwmUrrgY/collective-1.21.1-7.87.jar"
-hash-format = "sha1"
-hash = "2a38c6b5d5d90c7c74bbf81497e17a722ee826a4"
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/F3ciVO4i/collective-1.21.4-7.89.jar"
+hash-format = "sha512"
+hash = "8659df746343e697388b878b52d8eb49027ca528a75f7549177539bf21af26c4f0053acf4552abb36c8d5e5010d6d07976ba64e2b256cda4145785a6acab795d"
 
 [update]
 [update.modrinth]
 mod-id = "e0M1UDsY"
-version = "nwmUrrgY"
+version = "F3ciVO4i"

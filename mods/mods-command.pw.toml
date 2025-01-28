@@ -1,13 +1,13 @@
 name = "Mods Command"
-filename = "mods-command-mc1.21-1.1.7.jar"
+filename = "mods-command-mc1.21.4-1.1.9.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/PExmWQV8/versions/CSPwc34g/mods-command-mc1.21-1.1.7.jar"
-hash-format = "sha1"
-hash = "d61796c75c00e5fb8b224ddc1de6b53c5e14bff3"
+url = "https://cdn.modrinth.com/data/PExmWQV8/versions/lhESUuqR/mods-command-mc1.21.4-1.1.9.jar"
+hash-format = "sha512"
+hash = "c049dbf9bb6449e2322ea7ccfcdf2d419a705c510e9cac3d437f6f33ff45d9eddbcdca1cc5b404b750349b13dd4deb84b4fd5173f5d1c366b576c9ab7ce0bf73"
 
 [update]
 [update.modrinth]
 mod-id = "PExmWQV8"
-version = "CSPwc34g"
+version = "lhESUuqR"
