@@ -787,6 +787,11 @@ hash = "302f26267d2e1f53ce9a241b8748b57e817da90a3e3de65f9e62a9d80ef07c81"
 metafile = true
 
 [[files]]
+file = "mods/satin-free-wakes.pw.toml"
+hash = "d056256f828304006d30d802fa440cf8069bb58a17c38075711728f7a82d0696"
+metafile = true
+
+[[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "9e8a2866ed79d6a3e578e03159eabd164980342e2a134e717f9402c3299a8330"
 metafile = true
