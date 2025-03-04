@@ -1,6 +1,7 @@
 name = "VanillAA"
 filename = "VanillAA.zip"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/W3QK7DQz/versions/CgdY86YT/VanillAA.zip"

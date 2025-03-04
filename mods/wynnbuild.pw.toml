@@ -1,13 +1,13 @@
 name = "WynnBuild"
-filename = "WynnBuild-v0.4.4.3.1+1.21.1.jar"
+filename = "WynnBuild-1.0.2+1.21.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/1RCjAAcr/versions/U4t37aCU/WynnBuild-v0.4.4.3.1%2B1.21.1.jar"
-hash-format = "sha1"
-hash = "7fb787e492bd675b6e322b462b58f1af9f00fb8c"
+url = "https://cdn.modrinth.com/data/1RCjAAcr/versions/izr9IlsG/WynnBuild-1.0.2%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "b769671d59932c91d040979db731f048da60c2596f3bdc627c59a931899927b6257b7fe9cf33e645a897108f00b6fefb41c9a2a230b831632864a04a10eba593"
 
 [update]
 [update.modrinth]
 mod-id = "1RCjAAcr"
-version = "U4t37aCU"
+version = "izr9IlsG"

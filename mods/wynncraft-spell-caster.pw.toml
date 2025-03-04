@@ -1,13 +1,13 @@
 name = "Wynncraft Spell Caster"
-filename = "wynncraft-spell-caster-2.2.4.jar"
+filename = "wynncraft-spell-caster-2.2.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/FqLdaV5a/versions/n98sdG61/wynncraft-spell-caster-2.2.4.jar"
-hash-format = "sha1"
-hash = "e41955fadeac7e74fc40ec782642f3bf4d8943f5"
+url = "https://cdn.modrinth.com/data/FqLdaV5a/versions/8xSBMNvn/wynncraft-spell-caster-2.2.6.jar"
+hash-format = "sha512"
+hash = "3ea2f49568df6d7811b8303210c80adbe649a7460512fb6c5584ec41f4ccf126daef95a3979d154c1cb32f3dbdc575491cd34607bd179df28fec106ce9c7aad2"
 
 [update]
 [update.modrinth]
 mod-id = "FqLdaV5a"
-version = "n98sdG61"
+version = "8xSBMNvn"

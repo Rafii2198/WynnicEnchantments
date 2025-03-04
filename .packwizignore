@@ -3,3 +3,4 @@ versions
 meta.json
 ./fancymenu/
 .imgbotconfig
+.gitignore
