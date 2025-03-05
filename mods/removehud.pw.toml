@@ -1,0 +1,13 @@
+name = "RemoveHUD"
+filename = "removehud-1.3b6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MiPOIx6b/versions/HVUqRJLG/removehud-1.3b6.jar"
+hash-format = "sha1"
+hash = "1f021445fb4f42c909a3a8ab986403a8cfa9ca85"
+
+[update]
+[update.modrinth]
+mod-id = "MiPOIx6b"
+version = "HVUqRJLG"
