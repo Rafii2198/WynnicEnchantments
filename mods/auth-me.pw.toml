@@ -1,13 +1,13 @@
 name = "Auth Me"
-filename = "authme-8.0.0+1.21.4.jar"
+filename = "authme-fabric-9.0.1+1.21.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yjgIrBjZ/versions/TaEUeoLe/authme-8.0.0%2B1.21.4.jar"
-hash-format = "sha512"
-hash = "7105993ebfbe15f8698635d5d8637ff18b795554d15e83b02509ade81be7c1331477255b835716789998316854917f15feea470bdc77613beb3b997484c15a41"
+url = "https://cdn.modrinth.com/data/yjgIrBjZ/versions/DfEuMvQ6/authme-fabric-9.0.1%2B1.21.4.jar"
+hash-format = "sha1"
+hash = "d2c0f9e710307dc784194bdbbda1d194142c9c76"
 
 [update]
 [update.modrinth]
 mod-id = "yjgIrBjZ"
-version = "TaEUeoLe"
+version = "DfEuMvQ6"
