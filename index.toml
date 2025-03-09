@@ -238,7 +238,7 @@ hash = "e7e99fea449fbd4e5d6c9e0645383a5c4344c1f59a36773a740d1711682852c0"
 
 [[files]]
 file = "config/fancymenu/customization/wynnic_main.txt"
-hash = "75fe8dafd8c8c8c8fc68d1d019cf0e5e24d4550747a37d98953157f2db5d88eb"
+hash = "427b1085da2de9513e1c3f9a395fdbbaa7d3fc72b7ff7ab8f4e9e501ea5ef5bf"
 
 [[files]]
 file = "config/fancymenu/customization/wynnic_main_background.txt"
@@ -250,7 +250,7 @@ hash = "7923139f310fb220a30b27855f0ef8a9a4c443a3a1f3a66e2861b622486e0775"
 
 [[files]]
 file = "config/fancymenu/customization/wynnic_settings.txt"
-hash = "462ab6925e71b9ceda992eaf26aac00c8417a60bafebf1bd0651e9cc44f775dc"
+hash = "dcbd0ab91132366ce7bfed5129b7a79693aa5e2ad3d93a9c754b5e8b3cf704b1"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
