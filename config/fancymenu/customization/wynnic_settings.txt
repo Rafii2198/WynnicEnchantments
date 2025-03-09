@@ -2,14 +2,14 @@ type = fancymenu_layout
 
 layout-meta {
   identifier = wynnic_settings
-  render_custom_elements_behind_vanilla = false
-  last_edited_time = 1723121740269
+  render_custom_elements_behind_vanilla = true
+  last_edited_time = 1741387632928
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:f4a66042-90cc-4898-a8a4-b40ddf95f939-1723115361256] = [groups:][instances:]
+  [loading_requirement_container_meta:f3f46ab1-ce2e-492d-9a2a-eded3abe700e-1741387607548] = [groups:][instances:]
 }
 
 customization {
@@ -28,6 +28,9 @@ scroll_list_customization {
   apply_vanilla_background_blur = false
 }
 
+layout_action_executable_blocks {
+}
+
 element {
   shape = rectangle
   color = #00000080
@@ -35,8 +38,15 @@ element {
   instance_identifier = 52c960fa-c458-499f-94db-55fdde469e01-1723073705858
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
   anchor_point = mid-centered
   x = -100
   y = 36
@@ -47,6 +57,13 @@ element {
   stay_on_screen = true
   element_loading_requirement_container_identifier = 3eeb91b9-d636-4680-800e-2c80d234c146-1723073705858
   [loading_requirement_container_meta:3eeb91b9-d636-4680-800e-2c80d234c146-1723073705858] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
 }
 
 element {
@@ -62,12 +79,21 @@ element {
   nine_slice_border_y = 5
   label = <- Back to Title
   navigatable = true
+  widget_active_state_requirement_container_identifier = 57c20c8c-0971-4ccb-92a9-edaaefa58819-1741387607549
+  [loading_requirement_container_meta:57c20c8c-0971-4ccb-92a9-edaaefa58819-1741387607549] = [groups:][instances:]
   element_type = custom_button
   instance_identifier = c75033e8-0206-43e8-878f-be76b94e83c0-1723073244862
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
   anchor_point = bottom-centered
   x = -50
   y = -30
@@ -78,6 +104,13 @@ element {
   stay_on_screen = true
   element_loading_requirement_container_identifier = 55a57034-521e-4229-bc20-ffa27ffb047e-1723070749726
   [loading_requirement_container_meta:55a57034-521e-4229-bc20-ffa27ffb047e-1723070749726] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
 }
 
 element {
@@ -87,12 +120,20 @@ element {
   progress_for_element_anchor = false
   progress_source = {"placeholder":"calc","values":{"expression":"85 - 70 * {"placeholder":"getvariable","values":{"name":"wynnic_legacy"}}","decimal":"true"}}
   value_mode = percentage
+  smooth_filling_animation = true
   element_type = progress_bar
   instance_identifier = 11c877d4-b00b-4a59-89ea-1a7ed979fd78-1723073815153
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
   anchor_point = element
   anchor_point_element = 933c2877-a5ab-49d5-bb1c-0983526d6dfe-1723073846456
   x = 0
@@ -104,6 +145,13 @@ element {
   stay_on_screen = true
   element_loading_requirement_container_identifier = 8fd3d735-b37e-45b7-83f9-3f81927c59aa-1723073815153
   [loading_requirement_container_meta:8fd3d735-b37e-45b7-83f9-3f81927c59aa-1723073815153] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
 }
 
 element {
@@ -125,12 +173,21 @@ element {
   nine_slice_border_y = 5
   label = {"placeholder":"getvariable","values":{"name":"wynnic_legacy"}}
   navigatable = true
+  widget_active_state_requirement_container_identifier = ce39da5d-68c0-4708-8a0e-f13a8913ce0a-1741387607549
+  [loading_requirement_container_meta:ce39da5d-68c0-4708-8a0e-f13a8913ce0a-1741387607549] = [groups:][instances:]
   element_type = custom_button
   instance_identifier = 933c2877-a5ab-49d5-bb1c-0983526d6dfe-1723073846456
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
   anchor_point = mid-centered
   x = 35
   y = 2
@@ -141,6 +198,13 @@ element {
   stay_on_screen = true
   element_loading_requirement_container_identifier = 04248340-c0e8-46fb-8cb7-e91577a739b5-1723073846456
   [loading_requirement_container_meta:04248340-c0e8-46fb-8cb7-e91577a739b5-1723073846456] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
 }
 
 element {
@@ -171,8 +235,15 @@ element {
   instance_identifier = 524bf4a0-feec-44c2-b08d-83eb72d8a8f4-1723074871938
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
   anchor_point = mid-centered
   x = -75
   y = 5
@@ -183,6 +254,13 @@ element {
   stay_on_screen = true
   element_loading_requirement_container_identifier = 68f6fb98-6f87-47f6-957e-9ed5a17a1b5e-1723074871938
   [loading_requirement_container_meta:68f6fb98-6f87-47f6-957e-9ed5a17a1b5e-1723074871938] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
 }
 
 element {
@@ -200,12 +278,21 @@ element {
   description = lobby.wynncraft.com
   label = &aLobby
   navigatable = true
+  widget_active_state_requirement_container_identifier = 405f8e9e-a7a7-4990-8221-53633d245762-1741387607549
+  [loading_requirement_container_meta:405f8e9e-a7a7-4990-8221-53633d245762-1741387607549] = [groups:][instances:]
   element_type = custom_button
   instance_identifier = 1b78bbae-d122-4530-9ae2-22c7bdc9fa8f-1723072467978
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
   anchor_point = mid-centered
   x = -50
   y = -43
@@ -216,6 +303,13 @@ element {
   stay_on_screen = true
   element_loading_requirement_container_identifier = 55a57034-521e-4229-bc20-ffa27ffb047e-1723070749726
   [loading_requirement_container_meta:55a57034-521e-4229-bc20-ffa27ffb047e-1723070749726] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
 }
 
 element {
@@ -233,12 +327,21 @@ element {
   description = media.wynncraft.com%n%NOTE: requires media access
   label = &cMedia
   navigatable = true
+  widget_active_state_requirement_container_identifier = 207bc552-0a4d-4627-be0e-3cae8052e27a-1741387607549
+  [loading_requirement_container_meta:207bc552-0a4d-4627-be0e-3cae8052e27a-1741387607549] = [groups:][instances:]
   element_type = custom_button
   instance_identifier = 28511d28-ea72-4448-ba3f-8e280999ac0a-1723072454760
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
   anchor_point = mid-centered
   x = -50
   y = -71
@@ -249,6 +352,13 @@ element {
   stay_on_screen = true
   element_loading_requirement_container_identifier = 55a57034-521e-4229-bc20-ffa27ffb047e-1723070749726
   [loading_requirement_container_meta:55a57034-521e-4229-bc20-ffa27ffb047e-1723070749726] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
 }
 
 element {
@@ -266,12 +376,21 @@ element {
   description = beta.wynncraft.com%n%NOTE: requires beta access
   label = &4Beta
   navigatable = true
+  widget_active_state_requirement_container_identifier = 58fd83f2-3c35-465d-b58b-1294d325e416-1741387607549
+  [loading_requirement_container_meta:58fd83f2-3c35-465d-b58b-1294d325e416-1741387607549] = [groups:][instances:]
   element_type = custom_button
   instance_identifier = ef04179d-00f1-4175-830a-646f3eb8e237-1723072101638
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
   anchor_point = mid-centered
   x = -50
   y = -99
@@ -282,6 +401,13 @@ element {
   stay_on_screen = true
   element_loading_requirement_container_identifier = 55a57034-521e-4229-bc20-ffa27ffb047e-1723070749726
   [loading_requirement_container_meta:55a57034-521e-4229-bc20-ffa27ffb047e-1723070749726] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
 }
 
 element {
@@ -299,12 +425,21 @@ element {
   description = play.wynncraft.com
   label = &2Wynncraft
   navigatable = true
+  widget_active_state_requirement_container_identifier = 3ce43e61-6dbd-4955-8705-3e3c9d23d4b4-1741387607549
+  [loading_requirement_container_meta:3ce43e61-6dbd-4955-8705-3e3c9d23d4b4-1741387607549] = [groups:][instances:]
   element_type = custom_button
   instance_identifier = 000d80ed-5565-411a-a770-db9f84b0325b-1723070749726
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
   anchor_point = mid-centered
   x = -50
   y = -127
@@ -315,6 +450,13 @@ element {
   stay_on_screen = true
   element_loading_requirement_container_identifier = 55a57034-521e-4229-bc20-ffa27ffb047e-1723070749726
   [loading_requirement_container_meta:55a57034-521e-4229-bc20-ffa27ffb047e-1723070749726] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
 }
 
 element {
@@ -345,8 +487,15 @@ element {
   instance_identifier = 75f85f1d-50f2-4bf0-bfb4-ca01eff378f1-1723081595703
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
   anchor_point = mid-centered
   advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposx","values":{"id":"{"placeholder":"getvariable","values":{"name":"wynnic_server_uuid"}}"}}-27","decimal":"true"}}
   advanced_posy = {"placeholder":"elementposy","values":{"id":"{"placeholder":"getvariable","values":{"name":"wynnic_server_uuid"}}"}}
@@ -359,6 +508,13 @@ element {
   stay_on_screen = true
   element_loading_requirement_container_identifier = 0df993be-b8ff-44a2-83af-a2e9e4ec382b-1723081595703
   [loading_requirement_container_meta:0df993be-b8ff-44a2-83af-a2e9e4ec382b-1723081595703] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
 }
 
 element {
@@ -389,8 +545,15 @@ element {
   instance_identifier = 4b9d2444-b300-46bc-bca5-643022207fec-1723071078278
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
   anchor_point = mid-centered
   x = -55
   y = -150
@@ -401,5 +564,12 @@ element {
   stay_on_screen = true
   element_loading_requirement_container_identifier = f98cd58c-e917-4efe-978f-f47b370da3d7-1723071078278
   [loading_requirement_container_meta:f98cd58c-e917-4efe-978f-f47b370da3d7-1723071078278] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
 }
 
