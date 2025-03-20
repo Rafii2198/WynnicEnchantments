@@ -1,6 +1,9 @@
-version:3955
-resourcePacks:["vanilla","fabric","wynntils_preloaded/8af7b714b0fa664124213e2cce9ae062125d6278","file/Wynncraft Hud Font Fix§8.zip","file/MYTHOS 1.1 [1.21].zip","file/Annihilating_Armory_1.1.0.zip","file/Cork and Balls 1.1.2.zip","file/§6Wynnic Elemental Tooltips.zip"]
+version:4189
+resourcePacks:["vanilla","fabric","file/WynnEdits - Dark Theme v2.3.zip","file/§8Wynnic Elemental Tooltips.zip","file/Wynncraft Hud Font Fix§8.zip","file/Wynn Aspects reskin.zip"]
+incompatibleResourcePacks:["authme","balm-fabric","controlling","drippyloadingscreen","fancymenu","konkrete","modernfix","mru","resourcify","searchables","sodiumdynamiclights","sodiumoptionsapi","spark","yet_another_config_lib_v3","file/WynnEdits - Dark Theme v2.3.zip","file/§8Wynnic Elemental Tooltips.zip","file/Wynncraft Hud Font Fix§8.zip","file/Wynn Aspects reskin.zip"]
 tutorialStep:none
+key_key.quickmenu.open:key.keyboard.q
+key_key.drop:key.keyboard.unknown
 key_key.pickItem:key.keyboard.unknown
 key_key.socialInteractions:key.keyboard.unknown
 key_key.swapOffhand:key.keyboard.unknown

@@ -1,13 +1,13 @@
 name = "Sonance"
-filename = "sounds-2.4.5+1.21.4+fabric.jar"
+filename = "sounds-2.4.8+1.21.4+fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZouiUX7t/versions/dpD9QFpb/sounds-2.4.5%2B1.21.4%2Bfabric.jar"
+url = "https://cdn.modrinth.com/data/ZouiUX7t/versions/KSORNIBf/sounds-2.4.8%2B1.21.4%2Bfabric.jar"
 hash-format = "sha1"
-hash = "a6322c300bcfa8072475562decb86a58afb326df"
+hash = "a0ee3b91b5486481e194f74c763308f02ac417d1"
 
 [update]
 [update.modrinth]
 mod-id = "ZouiUX7t"
-version = "dpD9QFpb"
+version = "KSORNIBf"

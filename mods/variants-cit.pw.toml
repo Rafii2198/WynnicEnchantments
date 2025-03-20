@@ -1,13 +1,13 @@
 name = "Variants-CIT (formerly Enchants-CIT)"
-filename = "variants-cit-3.4.1+1.21.4.jar"
+filename = "variants-cit-3.4.2+1.21.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/jURjbCaq/versions/MNkQVIQq/variants-cit-3.4.1%2B1.21.4.jar"
+url = "https://cdn.modrinth.com/data/jURjbCaq/versions/7jFVHrKI/variants-cit-3.4.2%2B1.21.4.jar"
 hash-format = "sha1"
-hash = "e66c4e721604530c3a086389b96155e784ea2d56"
+hash = "ba1624b21be88a4c248d2f7a65ac9ec9dba2865b"
 
 [update]
 [update.modrinth]
 mod-id = "jURjbCaq"
-version = "MNkQVIQq"
+version = "7jFVHrKI"
