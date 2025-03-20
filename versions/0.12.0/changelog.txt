@@ -1,0 +1,144 @@
+This is a really long overdue update. I apologize to everyone who kept waiting, as this should be done much sooner. This version updates the game to 1.21.4 which is the only currently supported version of Wynntils, meaning you have been not getting any important updates through this time, again, my apologies. Sadly, the transition came with a few issues that sadly meant some mods had to be hopefully temporary removed, Most notably the new incompatibility between Wynntils and Distant Horizons, thus DH had to be removed until the issue is resolved. Without further ado, let's get over to the changelog.
+
+## Big thanks to Palette for doing the majority of the work!
+
+# Changes
+
+- Main Menu:
+  - Due to changes in Fancy Menu, the player model was replaced with a static image.
+  - Leaving Wynncraft will put you in the main menu instead of server list when you used main menu button to join it
+  - Changelog now uses proper grabber texture
+  - Many more smaller changes here and there
+- Added missing Quick Menu keybind change. Only applies to new installations.
+- Better Third Person replaced with Genshin Third Person
+- Modpack Settings screen now has dimmed background
+- Added new resourcepack Wynn Aspects Reskin to make aspects more recognizable. Enabled by default on new installs
+- Updated everything that could be updated
+- Voices of Wynn are finally the part of the pack
+
+# Minecraft
+
+- Updated to 1.21.4
+- Updated Fabric Loader to 0.16.10
+
+# Mods Added
+
+- Genshin Third Person
+- Voices of Wynn
+- Zoomify
+
+# Mods Removed
+
+Most mods on this list are either yet to be ported to 1.21.4 or have some incompatibility, they will be added back when possible
+
+- Animatica
+- Better Third Person
+- Better F3
+- Cit Resewn
+- Custom FOV
+- Distant Horizons
+- Fabrizoom
+- Nicer Skies
+- Sodium Leaf Culling
+- Toast Begone
+- Wynn Bubbles
+- WynnBuild
+- Wynncraft Dynamic Weather
+- Wynn LOD Grabber
+- Wynnventory
+- Wynnvista
+
+# Shaders
+
+- Updated Complementary Reimagined
+- Updated Nwoof's Wynn Shader
+
+# Resourcepacks
+
+Some of the included packs require CIT which is not available as of this release, the pack will still contain them in case of a version for 1.21.4 being released, allowing players to install it manually and enjoy these packs immediately
+
+- Added Wynn Aspects Reskin
+- Updated MYTHOS
+- Updated Wynnedits Dark Theme
+- Updated Wynnic Elemental Tooltips
+
+# Mods Updated
+
+- 3D Skin Layers
+- Ambient Sounds
+- Auth Me
+- Balm
+- Bobby
+- C2ME
+- Camera Overhaul
+- Chat Patches
+- Class Keybind Profiles
+- Cloth Config
+- Collective
+- Continuity
+- Controlling
+- Creative Core
+- Cubes Without Borders
+- Drippy Loading Screen
+- Dynamic FPS
+- Entity Culling
+- Entity Model Features
+- Entity Texture Features
+- Euphoria Patches
+- Fabric API
+- Fabric Language Kotlin
+- Fadeless
+- Falling Leaves
+- Fancy Menu
+- Ferrite Core
+- First Person Model
+- kennytvs-epic-force-close-loading-screen-mod-for-fabric
+- Forge Config Api Port
+- GPU Tape
+- Iceberg
+- Iris
+- Item Highlighter
+- Keybind Fix
+- Konkrete
+- Legendary Tooltips
+- LibJF
+- Lithium
+- Mica
+- ModelFix
+- Modern Fix
+- Mod Menu
+- Modpack Update Checker
+- Mods Command
+- More Culling
+- M.R.U
+- Not Enough Animations
+- Notes
+- OptiGUI
+- Owo Lib
+- Particle Rain
+- Physics Mod
+- Presence Footsteps
+- Prism Lib
+- Quick Menu
+- Reeses Sodium Options
+- Remove HUD
+- Resourcify
+- Respackopts
+- Satin Free Wakes
+- Searchables
+- Sodium
+- Sodium Dynamic Lights
+- Sodium Extra
+- Sodium Options API
+- Sodium Leaf Culling
+- Sounds
+- Spark
+- Variants CIT
+- Visuality
+- Wavey Capes
+- Wynn Spell Caster
+- Wynn Lantern
+- Wynn Limbo
+- Wynntils
+- Wynn Weapon Bigger
+- Yet Another Config Lib

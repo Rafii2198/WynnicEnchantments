@@ -1,13 +1,13 @@
 name = "Quick Menu"
-filename = "quick-menu-1.2.4-1.21.jar"
+filename = "quick-menu-1.2.6-1.21.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/7KwIbW9F/versions/hjERXYRp/quick-menu-1.2.4-1.21.jar"
+url = "https://cdn.modrinth.com/data/7KwIbW9F/versions/dtJSDUhW/quick-menu-1.2.6-1.21.4.jar"
 hash-format = "sha1"
-hash = "e020a6ea109f5baaa5a37d0e7c1b9ab900f6ef84"
+hash = "065b34d3e765dc6ae44190512154ff823c809ea9"
 
 [update]
 [update.modrinth]
 mod-id = "7KwIbW9F"
-version = "hjERXYRp"
+version = "dtJSDUhW"

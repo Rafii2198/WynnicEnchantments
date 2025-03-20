@@ -1,0 +1,13 @@
+name = "Wynn Aspects reskin"
+filename = "Wynn Aspects reskin.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/W8DFoQMH/versions/paJy1QUm/Wynn%20Aspects%20reskin.zip"
+hash-format = "sha1"
+hash = "a04233b83db10a1761f4585bcd61c46ea65dc39b"
+
+[update]
+[update.modrinth]
+mod-id = "W8DFoQMH"
+version = "paJy1QUm"

@@ -1,13 +1,13 @@
 name = "Nwoof's Wynn Shader"
-filename = "§6§l§k~§r §9§lNwoof's §a§lWynn §9§lShader §4Alpha§7-§40§7.§42§7.§41 §6§l§k~.zip"
+filename = "§6§l§k~§r §9§lNwoof's §a§lWynn §9§lShader §4Alpha§7-§40§7.§42§7.§412 §6§l§k~.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/K8XDv70D/versions/7GddNjQm/%C2%A76%C2%A7l%C2%A7k~%C2%A7r%20%C2%A79%C2%A7lNwoof%27s%20%C2%A7a%C2%A7lWynn%20%C2%A79%C2%A7lShader%20%C2%A74Alpha%C2%A77-%C2%A740%C2%A77.%C2%A742%C2%A77.%C2%A741%20%C2%A76%C2%A7l%C2%A7k~.zip"
+url = "https://cdn.modrinth.com/data/K8XDv70D/versions/q9HhdAxo/%C2%A76%C2%A7l%C2%A7k~%C2%A7r%20%C2%A79%C2%A7lNwoof%27s%20%C2%A7a%C2%A7lWynn%20%C2%A79%C2%A7lShader%20%C2%A74Alpha%C2%A77-%C2%A740%C2%A77.%C2%A742%C2%A77.%C2%A7412%20%C2%A76%C2%A7l%C2%A7k~.zip"
 hash-format = "sha1"
-hash = "8bf500ac33927aac30e38a18aebfab2483e6834e"
+hash = "039f51ae4a3c24249bff9982d42d3c5cd3fdb8d3"
 
 [update]
 [update.modrinth]
 mod-id = "K8XDv70D"
-version = "7GddNjQm"
+version = "q9HhdAxo"
