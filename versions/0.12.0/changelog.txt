@@ -1,4 +1,4 @@
-This is a really long overdue update. I apologise to everyone who kept waiting as this should be donem much sooner. This version updates the game to 1.21.4 which is the only currently supported version of Wynntils, meaning you have been not getting any important updates through this time, again, my apologies. Sadly, the transition came with a few issues that sadly meant some mods had to be hopefully temporarely removed, Most notably the new incompatybility between Wynntils and Distant Horizons, thus DH had to be removed until the issue is resolved. Without further ado, lets get over to the changelog.
+This is a really long overdue update. I apologize to everyone who kept waiting, as this should be done much sooner. This version updates the game to 1.21.4 which is the only currently supported version of Wynntils, meaning you have been not getting any important updates through this time, again, my apologies. Sadly, the transition came with a few issues that sadly meant some mods had to be hopefully temporary removed, Most notably the new incompatibility between Wynntils and Distant Horizons, thus DH had to be removed until the issue is resolved. Without further ado, let's get over to the changelog.
 
 ## Big thanks to Palette for doing the majority of the work!
 
@@ -9,10 +9,10 @@ This is a really long overdue update. I apologise to everyone who kept waiting a
   - Leaving Wynncraft will put you in the main menu instead of server list when you used main menu button to join it
   - Changelog now uses proper grabber texture
   - Many more smaller changes here and there
-- Added missing Quick Menu keybind change. Only applies to new installs.
+- Added missing Quick Menu keybind change. Only applies to new installations.
 - Better Third Person replaced with Genshin Third Person
 - Modpack Settings screen now has dimmed background
-- Added new resourcepack Wynn Aspects Reskin to make aspects more recognisable. Enabled by default on new installs
+- Added new resourcepack Wynn Aspects Reskin to make aspects more recognizable. Enabled by default on new installs
 - Updated everything that could be updated
 - Voices of Wynn are finally the part of the pack
 
@@ -51,11 +51,11 @@ Most mods on this list are either yet to be ported to 1.21.4 or have some incomp
 # Shaders
 
 - Updated Complementary Reimagined
-- Updated Mwoof's Wynn Shader
+- Updated Nwoof's Wynn Shader
 
 # Resourcepacks
 
-Some of the included packs require CIT which is not avalaible as of this release, the pack will still contain them in case of a version for 1.21.4 being released, allowing players to install it manually and enjoy these packs immediatly
+Some of the included packs require CIT which is not available as of this release, the pack will still contain them in case of a version for 1.21.4 being released, allowing players to install it manually and enjoy these packs immediately
 
 - Added Wynn Aspects Reskin
 - Updated MYTHOS
@@ -73,7 +73,7 @@ Some of the included packs require CIT which is not avalaible as of this release
 - Camera Overhaul
 - Chat Patches
 - Class Keybind Profiles
-- Clorh Config
+- Cloth Config
 - Collective
 - Continuity
 - Controlling
@@ -97,7 +97,7 @@ Some of the included packs require CIT which is not avalaible as of this release
 - GPU Tape
 - Iceberg
 - Iris
-- Item Highliter
+- Item Highlighter
 - Keybind Fix
 - Konkrete
 - Legendary Tooltips
