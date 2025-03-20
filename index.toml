@@ -353,6 +353,10 @@ file = "config/flow.config.json"
 hash = "e23707eeb315182111f4df3719f119a434dcb5cf04a46a9f819d596994c24b67"
 
 [[files]]
+file = "config/genshinthirdperson.json5"
+hash = "184ee609871ca26972a2dfe8ec3fe5fed556aa8ea36f63d579a00b4298734130"
+
+[[files]]
 file = "config/legendarytooltips-common.toml"
 hash = "b7f925c32449b2582338808f88845e511151d2cd19ae34e75efdeff6796bcb17"
 
@@ -366,7 +370,7 @@ hash = "e34f089454e2b27550bfdecc38a2f4f99980853a8564d578dcb2f3b1ee11bd51"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "a9e240c65884778331fe7b9262be5101f98eff616cfde018bd4f50c8dc5d919f"
+hash = "ddd10082b6a002cb9a020b85a7a6e08e9b5207f9ac5503e8a2c6ddcddb93dcb8"
 
 [[files]]
 file = "config/nimble-client.toml"
@@ -438,7 +442,7 @@ hash = "7674f91a618d1dca348a8685c6ff4fce64500ed0058dea5b6cb56b8603eff611"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "33f903c36d08667f2d6840557a9001ce06f6ff340e12ddcdd609db6e2ebf75ab"
+hash = "99efbe106d801fedc6030391b92390bf38f995d731aaf0aa7f3b89fc17c63e4d"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryReimagined_r5.3 + EuphoriaPatches_1.4.3.txt"
@@ -864,11 +868,6 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "7934fb8e7d28a1dc88633f028344048eeb7e14c2499d368fc3011007866ed352"
-metafile = true
-
-[[files]]
-file = "mods/wynnbuild.pw.toml"
-hash = "d5288a12c82c9fc118de60cda8019ff8295861ebd0f43cba21f9ebaf97a9900b"
 metafile = true
 
 [[files]]

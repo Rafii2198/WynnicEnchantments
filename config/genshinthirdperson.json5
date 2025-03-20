@@ -1,0 +1,31 @@
+{
+	"alwaysShowCrosshair": {
+		"status": true
+	},
+	"autoCharacterFade": {
+		"status": false,
+		"disableArmorWhenFade": true,
+		"disableCapeWhenFade": true,
+		"disableItemWhenFade": true
+	},
+	"cameraAlignOnClick": {
+		"status": true,
+		"alignRecoveryDelay": 20
+	},
+	"cameraBasedMovement": {
+		"status": true,
+		"disableWhenElytra": true,
+		"disableWhenRiding": true
+	},
+	"disableThirdPersonFrontView": {
+		"status": false
+	},
+	"smoothCameraClip": {
+		"status": true,
+		"transitionMode": "GENSHIN_IMPACT_2",
+		"startDistance": 30,
+		"transitionTime": 15,
+		"rotationSpeed": 100,
+		"applyToMobs": true
+	}
+}
