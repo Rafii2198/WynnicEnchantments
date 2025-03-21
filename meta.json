@@ -4,7 +4,7 @@
   "versions": [
     {
       "id": "0.7.0",
-      "releasedAt": 1716222540000,
+      "releasedAt": 1716215384862,
       "promotions": {
         "downloads": {
           "modrinth": "https://modrinth.com/modpack/wynnicenchantments/version/0.7.0"
@@ -13,7 +13,7 @@
     },
     {
       "id": "0.8.0",
-      "releasedAt": 1723308540000,
+      "releasedAt": 1723308561922,
       "promotions": {
         "downloads": {
           "modrinth": "https://modrinth.com/modpack/wynnicenchantments/version/0.8.0"
@@ -22,7 +22,7 @@
     },
     {
       "id": "0.8.1",
-      "releasedAt": 1723308540000,
+      "releasedAt": 1723496728659,
       "promotions": {
         "downloads": {
           "modrinth": "https://modrinth.com/modpack/wynnicenchantments/version/0.8.1"
@@ -31,7 +31,7 @@
     },
     {
       "id": "0.8.2",
-      "releasedAt": 1725551100000,
+      "releasedAt": 1725551131785,
       "promotions": {
         "downloads": {
           "modrinth": "https://modrinth.com/modpack/wynnicenchantments/version/0.8.2"
@@ -40,7 +40,7 @@
     },
     {
       "id": "0.9.0",
-      "releasedAt": 1723308540000,
+      "releasedAt": 1727019416506,
       "promotions": {
         "downloads": {
           "modrinth": "https://modrinth.com/modpack/wynnicenchantments/version/0.9.0"
@@ -49,7 +49,7 @@
     },
     {
       "id": "0.10.0",
-      "releasedAt": 1723308540000,
+      "releasedAt": 1730132777207,
       "promotions": {
         "downloads": {
           "modrinth": "https://modrinth.com/modpack/wynnicenchantments/version/0.10.0"
@@ -58,10 +58,19 @@
     },
     {
       "id": "0.11.0",
-      "releasedAt": 1723308540000,
+      "releasedAt": 1732414543890,
       "promotions": {
         "downloads": {
           "modrinth": "https://modrinth.com/modpack/wynnicenchantments/version/0.11.0"
+        }
+      }
+    },
+    {
+      "id": "0.12.0",
+      "releasedAt": 1742501936111,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/wynnicenchantments/version/0.12.0"
         }
       }
     }
