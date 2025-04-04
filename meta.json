@@ -73,6 +73,15 @@
           "modrinth": "https://modrinth.com/modpack/wynnicenchantments/version/0.12.0"
         }
       }
+    },
+    {
+      "id": "0.12.1",
+      "releasedAt": 1742501936112,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/wynnicenchantments/version/0.12.1"
+        }
+      }
     }
   ]
 }

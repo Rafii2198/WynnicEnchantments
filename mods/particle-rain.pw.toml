@@ -1,13 +1,13 @@
 name = "Particle Rain"
-filename = "particle-rain-3.3.2.jar"
+filename = "particle-rain-3.3.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/nrikgvxm/versions/SAVeGzgZ/particle-rain-3.3.2.jar"
+url = "https://cdn.modrinth.com/data/nrikgvxm/versions/NUvMa5Xt/particle-rain-3.3.3.jar"
 hash-format = "sha1"
-hash = "7d358e6254f124dac7722ddc5e9702f4189a9fc2"
+hash = "6e38c4daf810cef358d56ab81bcbabc0fb0b9a7c"
 
 [update]
 [update.modrinth]
 mod-id = "nrikgvxm"
-version = "SAVeGzgZ"
+version = "NUvMa5Xt"

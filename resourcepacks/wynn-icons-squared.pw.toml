@@ -1,0 +1,13 @@
+name = "Wynn Icons Squared"
+filename = "squaredicons-v1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7EnGzPpg/versions/d37TC9qb/squaredicons-v1.0.zip"
+hash-format = "sha1"
+hash = "65379026c6a64217e05043e5b28c582c7d8457b9"
+
+[update]
+[update.modrinth]
+mod-id = "7EnGzPpg"
+version = "d37TC9qb"
