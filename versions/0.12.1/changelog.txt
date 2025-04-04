@@ -1,0 +1,53 @@
+# Changes
+
+- Brought back many mods
+- Distant Horizon config updated to disable distant beacons
+
+# Minecraft
+
+- Updated Fabric Loader to 0.16.12
+
+# Mods Added
+
+- Custom FOV
+- Distant Horizons
+- World Event Tracker
+- Wynn Bubbles
+- Wynn LOD Grabber
+- Wynnventory
+- Wynnvista
+
+# Shaders
+
+- Updated Nwoof's Wynn Shader
+
+# Resourcepacks
+
+- Added WynnCraft: Nexus of Dark
+- Added Wynn Icons Squared
+- Updated MYTHOS
+
+# Mods Updated
+
+- 3D Skin Layers
+- Balm
+- C2ME
+- Chat Patches
+- Collective
+- Controlling
+- Dynamic FPS
+- Entity Culling
+- Fabric Language Kotlin
+- Fadeless
+- First Person Model
+- Lithium
+- More Culling
+- M.R.U
+- Not Enough Animations
+- Particle Rain
+- Presence Footsteps
+- Sounds
+- Variants CIT
+- Wavey Capes
+- Wynntils
+- Yet Another Config Lib

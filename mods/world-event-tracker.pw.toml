@@ -1,0 +1,13 @@
+name = "Wynncraft World Event Tracker"
+filename = "World_Event_Tracker-1.2+1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Tnnr6gXD/versions/VcixyuLD/World_Event_Tracker-1.2%2B1.21.4.jar"
+hash-format = "sha1"
+hash = "d6bdf3371f051fc8010118dc63c67713f4ae2fab"
+
+[update]
+[update.modrinth]
+mod-id = "Tnnr6gXD"
+version = "VcixyuLD"
