@@ -1,6 +1,6 @@
 version:4189
-resourcePacks:["vanilla","fabric","file/WynnEdits - Dark Theme v2.3.zip","file/§8Wynnic Elemental Tooltips.zip","file/Wynncraft Hud Font Fix§8.zip","file/Wynn Aspects reskin.zip"]
-incompatibleResourcePacks:["authme","balm-fabric","controlling","drippyloadingscreen","fancymenu","konkrete","modernfix","mru","resourcify","searchables","sodiumdynamiclights","sodiumoptionsapi","spark","yet_another_config_lib_v3","file/WynnEdits - Dark Theme v2.3.zip","file/§8Wynnic Elemental Tooltips.zip","file/Wynncraft Hud Font Fix§8.zip","file/Wynn Aspects reskin.zip"]
+resourcePacks:["vanilla","fabric","file/§8Wynnic Elemental Tooltips.zip","file/Wynncraft Hud Font Fix§8.zip","file/Wynn Aspects reskin.zip","file/Annihilating_Armory_1.2.1.zip","file/[VCIT] MYTHOS 1.3.zip"]
+incompatibleResourcePacks:["authme","balm","controlling","customfov","drippyloadingscreen","fancymenu","konkrete","modernfix","mru","resourcify","searchables","sodiumdynamiclights","sodiumoptionsapi","spark","yet_another_config_lib_v3","file/§8Wynnic Elemental Tooltips.zip","file/Wynncraft Hud Font Fix§8.zip","file/Wynn Aspects reskin.zip","file/[VCIT] MYTHOS 1.3.zip"]
 tutorialStep:none
 key_key.quickmenu.open:key.keyboard.q
 key_key.drop:key.keyboard.unknown

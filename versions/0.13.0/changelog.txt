@@ -1,0 +1,54 @@
+# Changes
+
+- The modpack now includes a special and dedicated mod called Wynnic Enchantments Helper which will further enahnce the modpack. You can expect more feature in later updates.
+- MYTHOS and Annihilating Armory now support Variants CIT as such they are enabled by default. News are now unified in main menu and loading screen.
+- News section was remade and is now provided by the Wynnic Enchantments Helper.
+- Rank badge updated to use icons directly. Additionally the log no longer mention the image having wrong PNG signature.
+- Made some aligning adjustments to main menu to make it more consistant.
+- At the end of this changelog I included a message of what happened between this and last update for those who were wondring.
+
+# Minecraft
+
+- Updated Fabric Loader to 0.16.14
+
+# Mods Added
+
+- Wynnic Enchantments Helper
+
+# Shaders
+
+- Complementary Reimagined
+- Updated Nwoof's Wynn Shader
+
+# Resourcepacks
+
+- Updated Annihilating Armory
+- Updated MYTHOS
+- Updated WynnEdit: Dark Theme
+
+# Mods Updated
+
+- Balm
+- Camera Overhaul
+- Chat Patches
+- Collective
+- Distant Horizons
+- Drippy Loading Screen
+- Dynamic FPS
+- Euphoria Patches
+- Fabric Language Kotlin
+- Fabrishot
+- FancyMenu
+- GenshinThirdPerson
+- Lithium
+- M.R.U
+- Sodium
+- Sounds
+- Variants CIT
+- Voices of Wynn
+- WynnLantern
+- Wynntils
+- Wynnventroy
+
+## What happened
+After some time after the last update I lost access to my Modrinth account thus lost access to all my projects. Because of that I lost all motivation to work on the pack and other projects. Thankfully I tried to work it out with Modrinth Support, I tried to make it the best possible for you the user and the best thing has happened that I didn't know would, they actually recovered the access to the account allowing me to coninue to work on my projects here. I was so happy that I was even so motivated to try my hand at modding and as you can see, I made a new dedicated mod for the pack, it is my first mod and as such I must thank the Wynntils Team so much as they helped me get it to work, without them I would definetly give up.
