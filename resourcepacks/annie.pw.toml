@@ -1,13 +1,13 @@
 name = "Annihilating Armory"
-filename = "Annihilating_Armory_1.1.0.zip"
+filename = "Annihilating_Armory_1.2.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/xNVyC1oB/versions/afyrjT9t/Annihilating_Armory_1.1.0.zip"
+url = "https://cdn.modrinth.com/data/xNVyC1oB/versions/rlbaXTnL/Annihilating_Armory_1.2.1.zip"
 hash-format = "sha1"
-hash = "069f9a9cd09ccdda52080da81f8fe408ee2c725e"
+hash = "b10c3d4668fbcd1058b61e0afe5763ea32ccf4d0"
 
 [update]
 [update.modrinth]
 mod-id = "xNVyC1oB"
-version = "afyrjT9t"
+version = "rlbaXTnL"

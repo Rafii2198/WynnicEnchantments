@@ -1,13 +1,13 @@
 name = "GenshinThirdPerson"
-filename = "GenshinThirdPerson-b1.8+1.21.4.jar"
+filename = "GenshinThirdPerson-b1.9+1.21.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/xJmJalUZ/versions/gz8Uj9M9/GenshinThirdPerson-b1.8%2B1.21.4.jar"
+url = "https://cdn.modrinth.com/data/xJmJalUZ/versions/FWoMMrS5/GenshinThirdPerson-b1.9%2B1.21.4.jar"
 hash-format = "sha1"
-hash = "4181b4c6e941843d06b55e5c0f75dba910fa43e8"
+hash = "7ae63af637268ba495c735d9d97570bacd1710b1"
 
 [update]
 [update.modrinth]
 mod-id = "xJmJalUZ"
-version = "gz8Uj9M9"
+version = "FWoMMrS5"
