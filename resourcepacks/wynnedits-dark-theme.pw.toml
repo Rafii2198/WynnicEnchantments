@@ -1,13 +1,13 @@
 name = "WynnEdits - Dark Theme"
-filename = "WynnEdits - Dark Theme v2.4.zip"
+filename = "WynnEdits - Dark Theme v2.5.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/8uCVDeXH/versions/zHElmNYv/WynnEdits%20-%20Dark%20Theme%20v2.4.zip"
+url = "https://cdn.modrinth.com/data/8uCVDeXH/versions/lNHmPWYp/WynnEdits%20-%20Dark%20Theme%20v2.5.zip"
 hash-format = "sha1"
-hash = "ef32826a846073432c27821637d793cdddf4a6a0"
+hash = "23166d91edc80eb641ca64ea0717c4b7a2d650fe"
 
 [update]
 [update.modrinth]
 mod-id = "8uCVDeXH"
-version = "zHElmNYv"
+version = "lNHmPWYp"

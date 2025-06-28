@@ -1,0 +1,45 @@
+# Changes
+
+- This updated mainly updates projects to work with recent Wynncraft update, but also fix some crashes and mods to help with debuging
+- Added Crash Assistant mod to help people report crashes, it is preconfigured for the modpack
+- Updated Wynntils to the new 3.1 update fixing many bugs
+- Removed Particle Rain which caused crashes in specific cases
+- Updated Euphoria Patches, thanks to the author, the crash during world loading is fixed  
+
+
+# Shaders
+
+- Updated Nwoof's Wynn Shader
+
+# Resourcepacks
+
+- Updated WynnEdit: Dark Theme
+
+# Mods Added
+
+- Crash Assistant
+- Stack Deobfuscator
+
+# Mods Removed
+
+- Particle Rain
+
+# Mods Updated
+
+- 3D Skin Layers
+- Balm
+- Dynamic FPS
+- Entity Culling
+- Euphoria Patches
+- Fabric API
+- Fabric Language Kotlin
+- Modpack Update Checker
+- Not Enough Animations
+- Resourcify
+- Variants CIT
+- Voices of Wynn
+- Wavey Capes
+- World Event Tracker
+- Wynntils
+- Wynnventory
+- Yet Another Config Lib
