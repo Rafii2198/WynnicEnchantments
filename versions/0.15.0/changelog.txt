@@ -1,0 +1,40 @@
+# Notice
+This is the last version that uses Modpack Update Checker mod. As such this is the last changelog you will see on this version, make sure to update to see future changelogs.
+
+# Changes
+
+- New feature from Wynnic Enchantments Helper: Player Info Overlay - An overlay inspired by popular MMORPGs that shows your current health and mana with your character's portrait.
+- Updated changelog logic to not depend on Modpack Update Checker mod.
+- Hud Font Fix resourcepack is no longer included, as such in game hud is no longer bugged.
+
+
+# Shaders
+
+- Updated Nwoof's Wynn Shader
+
+# Resourcepacks
+
+- Updated WynnEdit: Dark Theme
+- Removed Wynncraft Hud Font Fix
+
+# Mods Removed
+
+- Modpack Update Checker
+
+# Mods Updated
+
+- 3D Skin Layers
+- C2ME
+- Class Keybind Profiles
+- Crash Assistant
+- Distant Horizons
+- Entity Culling
+- Fancy Menu
+- First Person Model
+- Not Enough Animations
+- Sounds
+- Voices of Wynn
+- Wavey Capes
+- Wynnic Enchantments Helper
+- Wynntils
+- Wynnvista
