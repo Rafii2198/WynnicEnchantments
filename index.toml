@@ -10,7 +10,7 @@ hash = "1352bf888c44de9e9ac9ab42b97c96e67b38dc4a102ad0be5b8b3987b1a5b208"
 
 [[files]]
 file = "config/bcc.json"
-hash = "925cc223c9817308492af55b74ce99d0519d80951dc0a145823b39e44deaf781"
+hash = "d895648af1c6701d12322910ad5ad3f9f57eda2c9e1e8941261374bb052d41d9"
 
 [[files]]
 file = "config/cameraoverhaul.json"
@@ -277,16 +277,12 @@ file = "config/fancymenu/customguis/wynnic_function_stock.txt"
 hash = "35c3a1a47aea751c30a0aadf6a31ca4ae67a3ad181757d82402e6a2c2c7457f2"
 
 [[files]]
-file = "config/fancymenu/customguis_old/wynnic_function_stock.txt"
-hash = "35c3a1a47aea751c30a0aadf6a31ca4ae67a3ad181757d82402e6a2c2c7457f2"
-
-[[files]]
 file = "config/fancymenu/customizablemenus.txt"
 hash = "20998baa336a78e372f2899964071fe39359cef36e60e7bc9207a0eeb3b6e0e8"
 
 [[files]]
 file = "config/fancymenu/customization/WynnicMenu-LEGACY.txt"
-hash = "dd222ec929248408ef2f656b1fce064a5dd7bb9416f0aa0f86fcf8a362e349a7"
+hash = "03317f76fce3c1ae5f706a7db82410558bade1783e21a733a3743184ee141c54"
 
 [[files]]
 file = "config/fancymenu/customization/custom_bar.txt"
@@ -322,7 +318,7 @@ hash = "e7e99fea449fbd4e5d6c9e0645383a5c4344c1f59a36773a740d1711682852c0"
 
 [[files]]
 file = "config/fancymenu/customization/wynnic_main.txt"
-hash = "9a87ccf95088ba48788729a1a907d2266e8bc12f11e015fe51fd3fb9b846b236"
+hash = "f8af69bf16f5aa8657b0c6595f48802a0819c1426d1018c7cb7c28ffb1939512"
 
 [[files]]
 file = "config/fancymenu/customization/wynnic_main_background.txt"
@@ -330,7 +326,7 @@ hash = "756b9a5f739cc9ecdcbddc52b723b94bc8e3619fe8ea92237e106361dffc5ea7"
 
 [[files]]
 file = "config/fancymenu/customization/wynnic_news_uni.txt"
-hash = "eabb3082ee8bec82a121fe8e389d4eee8fd15f666ad017f9b0c5ec0b4bc566bd"
+hash = "6fd2bfe834e8643905d8c075b4ee5881fe6d01af455f5b79ba1c546159bcfb43"
 
 [[files]]
 file = "config/fancymenu/customization/wynnic_servers.txt"
@@ -342,7 +338,7 @@ hash = "dcbd0ab91132366ce7bfed5129b7a79693aa5e2ad3d93a9c754b5e8b3cf704b1"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
-hash = "878c9368bec63cd86822b28ceca345704ebaa411f7b72dd0bb4e682235b790e1"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/menu_identifiers.db"
@@ -434,7 +430,7 @@ hash = "1d281f153a0f9eb52352113dfdcc26f8812b067704a4bd195a0878f1761d0143"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "c1e271cc90287c386a30403a73ae832e96bdf2e850a2fbf4584fd22e857f2d59"
+hash = "000d7fd0fb473a3155e123029a9953a852f9666ae221fd69f763b5fd7bb68839"
 
 [[files]]
 file = "config/flow.config.json"
@@ -455,10 +451,6 @@ hash = "3e60fb35988743eb25fa68d66fe0305e300eb37d4b58fa85cb6f2cd367e47a3c"
 [[files]]
 file = "config/modpack-update-checker-info.txt"
 hash = "e34f089454e2b27550bfdecc38a2f4f99980853a8564d578dcb2f3b1ee11bd51"
-
-[[files]]
-file = "config/modpack-update-checker/config.json"
-hash = "c65b27d39deea26f46eb0b99de475a81b71af294fe74d89a027f410f156ad16a"
 
 [[files]]
 file = "config/nimble-client.toml"
@@ -530,7 +522,7 @@ hash = "7674f91a618d1dca348a8685c6ff4fce64500ed0058dea5b6cb56b8603eff611"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "e5f8127ac5d90948100184b37754ff6ae1ff2c6f1d86dfe66ad183d2df8a8002"
+hash = "373fa5ed11049d90e4d43eb81e98d914fa55a7908cefaceab421e9b32a91acbe"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryReimagined_r5.3 + EuphoriaPatches_1.4.3.txt"
