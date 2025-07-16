@@ -1069,11 +1069,6 @@ hash = "5c642cc334daaf6d6ebdef378482a37e0b45a320c02802bbd7b3d9eb1644f22b"
 metafile = true
 
 [[files]]
-file = "resourcepacks/wynncraft-hud-font-fix.pw.toml"
-hash = "47cfc364100c53aa0bb0b9f6c59582cf9e23c78cbc9e862b02af9c81dba26600"
-metafile = true
-
-[[files]]
 file = "resourcepacks/wynncraft-legacy-spell-cast-indicators.pw.toml"
 hash = "9ddddbaef697f287350ca1597f7f63115d728b78e1b6be6cb4eb1d8cc4e2134a"
 metafile = true

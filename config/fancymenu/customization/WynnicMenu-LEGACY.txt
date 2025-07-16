@@ -85,7 +85,7 @@ element {
   stay_on_screen = false
   element_loading_requirement_container_identifier = 44ffc3b4-b30c-475e-b5fd-5bb42f99027b-1723220414872
   [loading_requirement_container_meta:44ffc3b4-b30c-475e-b5fd-5bb42f99027b-1723220414872] = [groups:][instances:a3924c89-bb60-491b-93bb-cf31bd401fca1696983361649;]
-  [loading_requirement:fancymenu_visibility_requirement_is_text][requirement_mode:if_not][req_id:a3924c89-bb60-491b-93bb-cf31bd401fca1696983361649] = ["mode":"equals","text":"{"placeholder":"mpuc:current-modpack-version"}","compare_with":"{"placeholder":"mpuc:latest-modpack-version"}"]$
+  [loading_requirement:fancymenu_visibility_requirement_is_text][requirement_mode:if_not][req_id:a3924c89-bb60-491b-93bb-cf31bd401fca1696983361649] = ["mode":"equals","text":"{"placeholder":"getvariable","values":{"name":"wynnic_enchantments_version"}}","compare_with":"{"placeholder":"we-version"}"]$
 }
 
 element {
@@ -279,7 +279,7 @@ element {
 
 element {
   interactable = false
-  source = ^^^%n%Version: {"placeholder":"mpuc:current-modpack-version"}%n%^^^
+  source = ^^^%n%Version: {"placeholder":"getvariable","values":{"name":"wynnic_enchantments_version"}}%n%^^^
   source_mode = direct
   shadow = true
   scale = 1.0
@@ -367,12 +367,12 @@ element {
   stay_on_screen = true
   element_loading_requirement_container_identifier = cb01007d-d146-4299-8e04-8b3838d77c47-1723223189397
   [loading_requirement_container_meta:cb01007d-d146-4299-8e04-8b3838d77c47-1723223189397] = [groups:][instances:99474bfd-a824-4460-a389-489b69bb1d03-1723224181987;]
-  [loading_requirement:fancymenu_visibility_requirement_is_text][requirement_mode:if][req_id:99474bfd-a824-4460-a389-489b69bb1d03-1723224181987] = ["mode":"equals","text":"{"placeholder":"mpuc:current-modpack-version"}","compare_with":"{"placeholder":"mpuc:latest-modpack-version"}"]$
+  [loading_requirement:fancymenu_visibility_requirement_is_text][requirement_mode:if][req_id:99474bfd-a824-4460-a389-489b69bb1d03-1723224181987] = ["mode":"equals","text":"{"placeholder":"getvariable","values":{"name":"wynnic_enchantments_version"}}","compare_with":"{"placeholder":"we-version"}"]$
 }
 
 element {
   interactable = false
-  source = ^^^%n%%#ff0000%Update {"placeholder":"mpuc:latest-modpack-version"} available!%#%%n%^^^
+  source = ^^^%n%%#ff0000%Update {"placeholder":"we-version"} available!%#%%n%^^^
   source_mode = direct
   shadow = true
   scale = 1.0
@@ -414,7 +414,7 @@ element {
   stay_on_screen = true
   element_loading_requirement_container_identifier = cb01007d-d146-4299-8e04-8b3838d77c47-1723223189397
   [loading_requirement_container_meta:cb01007d-d146-4299-8e04-8b3838d77c47-1723223189397] = [groups:][instances:5f5a295d-29b5-4d9c-a2ca-ce45ca851f2b-1723223731401;]
-  [loading_requirement:fancymenu_visibility_requirement_is_text][requirement_mode:if_not][req_id:5f5a295d-29b5-4d9c-a2ca-ce45ca851f2b-1723223731401] = ["mode":"equals","text":"{"placeholder":"mpuc:current-modpack-version"}","compare_with":"{"placeholder":"mpuc:latest-modpack-version"}"]$
+  [loading_requirement:fancymenu_visibility_requirement_is_text][requirement_mode:if_not][req_id:5f5a295d-29b5-4d9c-a2ca-ce45ca851f2b-1723223731401] = ["mode":"equals","text":"{"placeholder":"getvariable","values":{"name":"wynnic_enchantments_version"}}","compare_with":"{"placeholder":"we-version"}"]$
 }
 
 element {
