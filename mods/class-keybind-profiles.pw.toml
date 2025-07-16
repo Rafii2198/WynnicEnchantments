@@ -1,13 +1,13 @@
 name = "Class Keybind Profiles"
-filename = "ClassKeybindProfiles-0.5.0.jar"
+filename = "ClassKeybindProfiles-0.5.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/aJG0aKmi/versions/KNjmoeSs/ClassKeybindProfiles-0.5.0.jar"
+url = "https://cdn.modrinth.com/data/aJG0aKmi/versions/8VhMWd3A/ClassKeybindProfiles-0.5.1.jar"
 hash-format = "sha1"
-hash = "4f948c7b6c05e854560088bd73554d39a3d50b6e"
+hash = "5d269186fa2ab94ba7ae9f5f01421dc600cbeae8"
 
 [update]
 [update.modrinth]
 mod-id = "aJG0aKmi"
-version = "KNjmoeSs"
+version = "8VhMWd3A"

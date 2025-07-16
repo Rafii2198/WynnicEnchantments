@@ -1,13 +1,13 @@
 name = "WynnVista"
-filename = "WynnVista-0.7.0.jar"
+filename = "WynnVista-0.7.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/70ZxXDHX/versions/mQjMS66k/WynnVista-0.7.0.jar"
+url = "https://cdn.modrinth.com/data/70ZxXDHX/versions/YT8EvRgg/WynnVista-0.7.1.jar"
 hash-format = "sha1"
-hash = "bf5f5c27e02719d8683780fa5ee629a26d8053ff"
+hash = "e22ce0c1b421e268019931261034ae085dba792e"
 
 [update]
 [update.modrinth]
 mod-id = "70ZxXDHX"
-version = "mQjMS66k"
+version = "YT8EvRgg"
