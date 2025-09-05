@@ -8,7 +8,7 @@ variable {
 
 variable {
   name = wynnic_enchantments_version
-  value = 0.15.0
+  value = 0.16.0
   reset_on_launch = false
 }
 
