@@ -1,13 +1,13 @@
 name = "WynnLantern"
-filename = "WynnLantern-1.4-mc1.21.4-fabric.jar"
+filename = "WynnLantern-1.5-mc1.21.4-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/K9vp4EXE/versions/7tNoUQvn/WynnLantern-1.4-mc1.21.4-fabric.jar"
+url = "https://cdn.modrinth.com/data/K9vp4EXE/versions/1DAEYq5z/WynnLantern-1.5-mc1.21.4-fabric.jar"
 hash-format = "sha1"
-hash = "f10a38d8ac611ee699303a940dfd534622e31ffa"
+hash = "c0f84bcbdcb7390509ee02b42b2684aee359038b"
 
 [update]
 [update.modrinth]
 mod-id = "K9vp4EXE"
-version = "7tNoUQvn"
+version = "1DAEYq5z"
