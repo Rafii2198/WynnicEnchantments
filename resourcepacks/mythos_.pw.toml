@@ -1,13 +1,13 @@
 name = "MYTHOS"
-filename = "[VCIT] MYTHOS 1.31.zip"
+filename = "[VCIT] MYTHOS 1.4.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/YPGRTmFO/versions/SQssG6NO/%5BVCIT%5D%20MYTHOS%201.31.zip"
+url = "https://cdn.modrinth.com/data/YPGRTmFO/versions/ZEQq8ikO/%5BVCIT%5D%20MYTHOS%201.4.zip"
 hash-format = "sha1"
-hash = "ededefa0e26e8d7d33927e2f60b1337a8b25189f"
+hash = "7917122136099773c4c3c6ba4d8aee91cd42b644"
 
 [update]
 [update.modrinth]
 mod-id = "YPGRTmFO"
-version = "SQssG6NO"
+version = "ZEQq8ikO"
