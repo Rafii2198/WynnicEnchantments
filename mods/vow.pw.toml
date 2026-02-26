@@ -1,13 +1,13 @@
 name = "Voices Of Wynn"
-filename = "Voices-of-Wynn-fabric-1.12.0-fabric+MC-1.21.4.jar"
+filename = "Voices-of-Wynn-fabric-1.13.0-fabric+MC-1.21.11.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Hn8Ot3qH/versions/YxXlYQyB/Voices-of-Wynn-fabric-1.12.0-fabric%2BMC-1.21.4.jar"
+url = "https://cdn.modrinth.com/data/Hn8Ot3qH/versions/Wbts4J3I/Voices-of-Wynn-fabric-1.13.0-fabric%2BMC-1.21.11.jar"
 hash-format = "sha1"
-hash = "c89a1af271767d2df1e741290bfa9df19fc861d4"
+hash = "f8bc33162d45cfd20ffdc64d8f3c15768a63a40a"
 
 [update]
 [update.modrinth]
 mod-id = "Hn8Ot3qH"
-version = "YxXlYQyB"
+version = "Wbts4J3I"

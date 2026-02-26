@@ -1,0 +1,13 @@
+name = "Mine Menu"
+filename = "MineMenu-fabric-1.21.11-1.15.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6HtC1GYa/versions/l20Oq0JD/MineMenu-fabric-1.21.11-1.15.8.jar"
+hash-format = "sha512"
+hash = "36392fb84e1b33d0093ca630b562b4bd7b20a4f4e9326feb170794afb8e185dda8a66fc47ae44af1779de8df4797ad4fb3998ea192b14b1bd466128566ed91a9"
+
+[update]
+[update.modrinth]
+mod-id = "6HtC1GYa"
+version = "l20Oq0JD"
