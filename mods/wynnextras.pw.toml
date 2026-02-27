@@ -1,0 +1,13 @@
+name = "WynnExtras"
+filename = "wynnextras-0.14.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cjWpppr5/versions/PqZziDuR/wynnextras-0.14.3.jar"
+hash-format = "sha512"
+hash = "3f8edf3480993f0ad5b0a45655a7708e271651917a9ebfd5a74635e60b3d7acf5d57335ea9609be7757a5ad870724d73d4ebc902d974bcfea0856d70903fb5a1"
+
+[update]
+[update.modrinth]
+mod-id = "cjWpppr5"
+version = "PqZziDuR"

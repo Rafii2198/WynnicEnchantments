@@ -885,6 +885,11 @@ hash = "410c3f4a05f4ea0acd506c75029e93252cccf33f3bbad23c3a5c5f2647f5f73a"
 metafile = true
 
 [[files]]
+file = "mods/wynnextras.pw.toml"
+hash = "7b221c1805d4681cd258b4ac85a280e8dc05806b51b8d4a938919ad5b7778d4c"
+metafile = true
+
+[[files]]
 file = "mods/wynnlantern.pw.toml"
 hash = "08696484b79e5981ca3b2e3eb2a923ca628faabe25d4aaabe545e44cb9e7cd36"
 metafile = true
