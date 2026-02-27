@@ -1,0 +1,125 @@
+{
+  "Custom Sub Menu": {},
+  "main": {
+    "0": {
+      "title": "Party Finder",
+      "icon": {
+        "stack": "{count:1,id:\"minecraft:observer\"}"
+      },
+      "action": {
+        "command": {
+          "command": "/partyfinder",
+          "clipboard": false
+        }
+      }
+    },
+    "1": {
+      "title": "Nearest Emerald Merchant",
+      "icon": {
+        "stack": "{count:1,id:\"minecraft:emerald\"}"
+      },
+      "action": {
+        "command": {
+          "command": "/compass service Emerald Merchant",
+          "clipboard": false
+        }
+      }
+    },
+    "2": {
+      "title": "Nearest Trade Market",
+      "icon": {
+        "stack": "{count:1,id:\"minecraft:gold_ingot\"}"
+      },
+      "action": {
+        "command": {
+          "command": "/compass service Trade Market",
+          "clipboard": false
+        }
+      }
+    },
+    "3": {
+      "title": "Nearest Blacksmith",
+      "icon": {
+        "stack": "{count:1,id:\"minecraft:mace\"}"
+      },
+      "action": {
+        "command": {
+          "command": "/compass service Blacksmith",
+          "clipboard": false
+        }
+      }
+    },
+    "4": {
+      "title": "Nearest Item Identifier",
+      "icon": {
+        "stack": "{count:1,id:\"minecraft:ender_eye\"}"
+      },
+      "action": {
+        "command": {
+          "command": "/compass service Item Identifier",
+          "clipboard": false
+        }
+      }
+    },
+    "5": {
+      "title": "Mount Horse",
+      "icon": {
+        "stack": "{count:1,id:\"minecraft:saddle\"}"
+      },
+      "action": {
+        "key": {
+          "key": "Mount Horse",
+          "toggle": false
+        }
+      }
+    },
+    "6": {
+      "title": "Personal Notes",
+      "icon": {
+        "stack": "{count:1,id:\"minecraft:writable_book\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.openNotes",
+          "toggle": false
+        }
+      }
+    },
+    "7": {
+      "title": "Wynntils Menu",
+      "icon": {
+        "stack": "{count:1,id:\"minecraft:paper\"}"
+      },
+      "action": {
+        "command": {
+          "command": "/wynntils menu",
+          "clipboard": false
+        }
+      }
+    },
+    "8": {
+      "title": "Toggle Lantern",
+      "icon": {
+        "stack": "{count:1,id:\"minecraft:lantern\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.wynnlantern.lantern",
+          "toggle": false
+        }
+      }
+    },
+    "9": {
+      "title": "Reward Pools",
+      "icon": {
+        "stack": "{count:1,id:\"minecraft:trapped_chest\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.wynnventory.openRewardScreen",
+          "toggle": false
+        }
+      }
+    }
+  }
+}

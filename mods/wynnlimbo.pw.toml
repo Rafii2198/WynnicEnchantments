@@ -1,13 +1,13 @@
 name = "WynnLimbo"
-filename = "WynnLimbo-1.1.1.jar"
+filename = "WynnLimbo-1.2.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/PBS48o6D/versions/piqQhFMM/WynnLimbo-1.1.1.jar"
-hash-format = "sha1"
-hash = "a541a1fac8a1f521ecc6cbb752419846a4086ae9"
+url = "https://cdn.modrinth.com/data/PBS48o6D/versions/a1d1xzPm/WynnLimbo-1.2.1.jar"
+hash-format = "sha512"
+hash = "f1fce3ceeb665d1cfe97c90444c5055e5255cce2bc1dfa45a080a2ee2ecfccbbcfa5785644c0cf16f5fc115b2410e84e2e0272ea6014253f09fdbaf516f17fb6"
 
 [update]
 [update.modrinth]
 mod-id = "PBS48o6D"
-version = "piqQhFMM"
+version = "a1d1xzPm"

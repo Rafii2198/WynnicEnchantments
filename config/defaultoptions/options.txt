@@ -1,0 +1,3 @@
+version:4671
+resourcePacks:["variants-cit:assetgen","vanilla","file/[VCIT] MYTHOS 1.4.zip","file/Wynn Aspects reskin.zip","file/Annihilating_Armory_1.2.2.zip","file/Cork and Balls 1.1.2.zip","file/WynnLanternRP.zip"]
+incompatibleResourcePacks:["file/[VCIT] MYTHOS 1.4.zip","file/Wynn Aspects reskin.zip","file/Annihilating_Armory_1.2.2.zip","file/Cork and Balls 1.1.2.zip","file/WynnLanternRP.zip"]
