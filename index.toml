@@ -841,7 +841,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "b46674a582c6f5a9a4459606af593409a706ef4378d0c864318f08e20f4eaade"
+hash = "0b4c98b7b25cdfcbb7882c32155d597f0fcaa37aa301b14baf4ad8cab65fea85"
 metafile = true
 
 [[files]]
@@ -876,7 +876,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxy.pw.toml"
-hash = "840df7661c1bbb97312f39102d479d80b2b149da533c623f633d9715295ca91c"
+hash = "0daa4e02968a34979c5a13772883d2f3ae4c92943461ba069667d15f42bb6a94"
 metafile = true
 
 [[files]]
@@ -901,12 +901,12 @@ metafile = true
 
 [[files]]
 file = "mods/wynntils.pw.toml"
-hash = "e0dadb1baf11ccf24ff51d48614bf315b90ffb3fde86966ab90ebca22c3f0bcb"
+hash = "428a40cfca00910445954b333c5c0a4b9473f9376c6a3f060da0db8b4bc1370e"
 metafile = true
 
 [[files]]
 file = "mods/wynnventory.pw.toml"
-hash = "f447344d93bbc679fbc9f15eb098f8d2e9404258846e71a0358f4bde57f5ccb0"
+hash = "821c28332533bf99f0f53ef22552f2dd4af884ea7208db6dbfd354a3c423d9c6"
 metafile = true
 
 [[files]]
