@@ -3,11 +3,11 @@ filename = "WynnLanternRP.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/WwsDjdV7/versions/Tm1k3hHx/WynnLanternRP.zip"
+url = "https://cdn.modrinth.com/data/WwsDjdV7/versions/agBcsQhs/WynnLanternRP.zip"
 hash-format = "sha512"
-hash = "fbcd5100288c893e6ea0e7c698fb91865eead8604bbbb73436af09a60a273e6223cc0a65f161cc3b3c78ae90864d6c2ac16831b5a32609fe27abc08520fd78b9"
+hash = "537730a413d79651b6593be2ab97318c8a3dfdfa56c808e3f056ca3173bc5f8a6ef881335f4ed0ca11250f01f34f0ece8445cd69befbf4faef300f3591112191"
 
 [update]
 [update.modrinth]
 mod-id = "WwsDjdV7"
-version = "Tm1k3hHx"
+version = "agBcsQhs"

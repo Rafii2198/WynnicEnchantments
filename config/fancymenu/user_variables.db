@@ -2,13 +2,13 @@ type = user_variables
 
 variable {
   name = join_through_title
-  value = 0
+  value = 1
   reset_on_launch = false
 }
 
 variable {
   name = wynnic_enchantments_version
-  value = 0.17.0
+  value = 0.18.0
   reset_on_launch = false
 }
 

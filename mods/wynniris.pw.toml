@@ -1,0 +1,13 @@
+name = "WynnIris"
+filename = "WynnIris-1.0.4+1.21.11-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pa6h8e27/versions/hrLLwWtf/WynnIris-1.0.4%2B1.21.11-fabric.jar"
+hash-format = "sha512"
+hash = "1257b34c2cd2c4a417149b6f97c61e4d920136ee933f8f6b01706d49720cf6e9f41245f27be3d95a91e60e3070d3bb1562035e65feb013711157a87b4e1a9543"
+
+[update]
+[update.modrinth]
+mod-id = "pa6h8e27"
+version = "hrLLwWtf"
