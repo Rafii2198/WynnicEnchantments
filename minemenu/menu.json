@@ -62,13 +62,13 @@
       }
     },
     "5": {
-      "title": "Mount Horse",
+      "title": "Ride Mount",
       "icon": {
         "stack": "{count:1,id:\"minecraft:saddle\"}"
       },
       "action": {
         "key": {
-          "key": "Mount Horse",
+          "key": "wynntils.keybind.mountHorse",
           "toggle": false
         }
       }

@@ -1,13 +1,13 @@
 name = "Wynnic Enchantments Helper"
-filename = "we-helper-0.3.2.jar"
+filename = "we-helper-0.4.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/j4Oj7w7G/versions/U1yXr7L2/we-helper-0.3.2.jar"
+url = "https://cdn.modrinth.com/data/j4Oj7w7G/versions/6TypIHME/we-helper-0.4.1.jar"
 hash-format = "sha512"
-hash = "1f7c38c1792776cd10a7ff1532e4294d4a7cac0ccf3c4a2e177f267aa42dd9e6afd7a8aab02f920f678aaea4037da2f1bbaaef183e74bb674f452bb3e3820d5c"
+hash = "3ed8bed594fe9e4ba5c8a0c2205bc49bb6b0d9f12af5e6b73ccdce2b9ec2d34adecc4d6d63f561db16cc4874f104e64f51b1d459e0469765b511541521ca74f4"
 
 [update]
 [update.modrinth]
 mod-id = "j4Oj7w7G"
-version = "U1yXr7L2"
+version = "6TypIHME"
