@@ -1,0 +1,13 @@
+name = "Wynnilla"
+filename = "Wynnilla UI.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TV4AAiN5/versions/lnpmiY4S/Wynnilla%20UI%201.0.1.zip"
+hash-format = "sha512"
+hash = "c4db305d2c0aa7ba13909f5088c2a03a3a39457a452550161ab8094ab5967d0595a7ec484934386d23862b6591cc48f8a5bf55cbbc653c78b4fa8afc69ee2716"
+
+[update]
+[update.modrinth]
+mod-id = "TV4AAiN5"
+version = "lnpmiY4S"

@@ -1,0 +1,13 @@
+name = "WynnBuild"
+filename = "WynnBuild-3.1.2-hotfix.0+1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1RCjAAcr/versions/ur04zBMa/WynnBuild-3.1.2-hotfix.0%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "8b5f20044da7a526efc1be4241add5067b889a41bc4a67e31cbb763d31578dc80220872f1faad8b27f81ef91c93face568f522bb7a2190f3c9751f53ded78e97"
+
+[update]
+[update.modrinth]
+mod-id = "1RCjAAcr"
+version = "ur04zBMa"

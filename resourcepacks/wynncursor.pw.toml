@@ -1,0 +1,13 @@
+name = "Wynncursor"
+filename = "Wynncursor.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TTjDq0jQ/versions/yxH4XRNd/Wynncursor.zip"
+hash-format = "sha512"
+hash = "71c44163f8fca9362904d77fc5e451b474b15d36ad3f4a9654eb37da126fc7fc94125266d349700aa2c1c17d7b0be5eac4ba075e36ab7f13129ca342dc38dbbc"
+
+[update]
+[update.modrinth]
+mod-id = "TTjDq0jQ"
+version = "yxH4XRNd"

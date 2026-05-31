@@ -1,0 +1,13 @@
+name = "Wynncraft Spell Hider"
+filename = "wynncraftspellhider-1.1.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2l0OORAX/versions/zCW4RDIx/wynncraftspellhider-1.1.6.jar"
+hash-format = "sha512"
+hash = "54103226132f7e2f978c2d28b3325ce4259c27d7ae278123dc33f6e1430ea527f86918027b935b616a89a84942cf3e9c81761495b88c3fe2ba4420b1ae761179"
+
+[update]
+[update.modrinth]
+mod-id = "2l0OORAX"
+version = "zCW4RDIx"

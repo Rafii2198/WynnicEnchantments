@@ -1,0 +1,13 @@
+name = "WynnHandScale"
+filename = "wynnhandscale-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RbMy4QAO/versions/mjA7gwDO/wynnhandscale-1.1.0.jar"
+hash-format = "sha512"
+hash = "7c90031f27cbf358efcf4f165c2ebd5394f761061e63921945c8d747dcbd9c5dafb5975fec8e249cc61bcdeb4e0fde0d84f2a730e934bdb8a8ead64929902b53"
+
+[update]
+[update.modrinth]
+mod-id = "RbMy4QAO"
+version = "mjA7gwDO"

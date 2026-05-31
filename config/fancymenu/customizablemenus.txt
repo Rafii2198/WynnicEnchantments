@@ -3,9 +3,6 @@ type = customizablemenus
 de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 }
 
-com.jab125.mpuc.client.gui.screen.changelog.NewChangelogScreen {
-}
-
 net.minecraft.class_442 {
 }
 
@@ -51,9 +48,6 @@ net.minecraft.class_426 {
 net.minecraft.class_440 {
 }
 
-loaderCommon.fabric.com.seibel.distanthorizons.common.wrappers.gui.ClassicConfigGUI$ConfigScreen {
-}
-
 net.minecraft.class_6777 {
 }
 
@@ -61,5 +55,11 @@ com.terraformersmc.modmenu.gui.ModsScreen {
 }
 
 net.minecraft.class_4749 {
+}
+
+com.wynntils.screens.settings.WynntilsBookSettingsScreen {
+}
+
+com.wynntils.screens.overlays.selection.OverlaySelectionScreen {
 }
 

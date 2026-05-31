@@ -1,6 +1,7 @@
 readme.md
 versions
 meta.json
-./fancymenu/
+./fancymenu
 .imgbotconfig
 .gitignore
+build.py

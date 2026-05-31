@@ -1,0 +1,13 @@
+name = "Wynncraft - Fancy Professions Materials"
+filename = "⬡ §fFancyProfsMats.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2tROYIcm/versions/dOmHdyH7/%E2%AC%A1%20%C2%A7fFancyProfsMats.zip"
+hash-format = "sha512"
+hash = "cf6904e1cbbf6934f012aa7c716c85fd6cedca35a9767e1ad65922e2fd9aef36e633428c73d08f6958cd1ff57264522f87bed9fb2724ca7966fcebc9c7e7d4c9"
+
+[update]
+[update.modrinth]
+mod-id = "2tROYIcm"
+version = "dOmHdyH7"

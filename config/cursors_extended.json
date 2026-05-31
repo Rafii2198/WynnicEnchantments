@@ -1,0 +1,102 @@
+{
+  "_hash": "8ba03465",
+  "itemSlotEnabled": true,
+  "itemGrabbingEnabled": true,
+  "pointerScrollbarEnabled": true,
+  "resizeScrollbarEnabled": true,
+  "heldCursorsEnabled": true,
+  "aggressiveCursor": false,
+  "virtualMode": false,
+  "legacyMode": true,
+  "showHotspotGuide": true,
+  "remapStandardCursors": true,
+  "workarounds": true,
+  "global": {
+    "scaleActive": true,
+    "xhotActive": false,
+    "yhotActive": false,
+    "scale": 1.25,
+    "xhot": 0,
+    "yhot": 0
+  },
+  "cursors": {
+    "not_allowed": {
+      "enabled": true,
+      "scale": 1.0,
+      "xhot": 11,
+      "yhot": 11
+    },
+    "resize_all": {
+      "enabled": true,
+      "scale": 1.0,
+      "xhot": 16,
+      "yhot": 16
+    },
+    "ibeam": {
+      "enabled": true,
+      "scale": 1.0,
+      "xhot": 10,
+      "yhot": 12
+    },
+    "shift": {
+      "enabled": true,
+      "scale": 1.0,
+      "xhot": 10,
+      "yhot": 0
+    },
+    "pointing_hand": {
+      "enabled": true,
+      "scale": 1.0,
+      "xhot": 7,
+      "yhot": 0
+    },
+    "resize_nesw": {
+      "enabled": true,
+      "scale": 1.0,
+      "xhot": 16,
+      "yhot": 16
+    },
+    "crosshair": {
+      "enabled": true,
+      "scale": 1.0,
+      "xhot": 13,
+      "yhot": 13
+    },
+    "default": {
+      "enabled": true,
+      "scale": 1.0,
+      "xhot": 0,
+      "yhot": 0
+    },
+    "resize_ew": {
+      "enabled": true,
+      "scale": 1.0,
+      "xhot": 16,
+      "yhot": 16
+    },
+    "busy": {
+      "enabled": true,
+      "scale": 1.0,
+      "xhot": 0,
+      "yhot": 6
+    },
+    "resize_ns": {
+      "enabled": true,
+      "scale": 1.0,
+      "xhot": 16,
+      "yhot": 16
+    },
+    "grabbing": {
+      "enabled": true,
+      "scale": 1.0,
+      "xhot": 10,
+      "yhot": 2
+    },
+    "resize_nwse": {
+      "enabled": true,
+      "scale": 1.0,
+      "xhot": 16,
+      "yhot": 16
+    }
+  }
+}
