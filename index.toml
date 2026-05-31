@@ -34,7 +34,7 @@ hash = "c504dc2f327e77009a768c31599d3f062a724958f540b1c33df7c5affc62da24"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "ecaf2fa524f81922dee59bb095673cfd023a6a1f0d044c655b86f694a4b0911e"
+hash = "eaf04425b9d1da6c33f71280485c676d59617098e27444bbb439214f669e6520"
 
 [[files]]
 file = "config/cursors_extended.json"
