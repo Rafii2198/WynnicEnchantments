@@ -1,3 +1,3 @@
 version:4671
-resourcePacks:["variants-cit:assetgen","vanilla","file/[VCIT] MYTHOS 1.4.zip","file/Wynn Aspects reskin.zip","file/Annihilating_Armory_1.2.2.zip","file/Cork and Balls 1.1.2.zip","file/WynnLanternRP.zip"]
-incompatibleResourcePacks:["file/[VCIT] MYTHOS 1.4.zip","file/Wynn Aspects reskin.zip","file/Annihilating_Armory_1.2.2.zip","file/Cork and Balls 1.1.2.zip","file/WynnLanternRP.zip"]
+resourcePacks:["variants-cit:assetgen","vanilla","file/Wynn Aspects reskin.zip","file/WynnLanternRP.zip","cursors_extended:default","file/Wynncursor.zip","file/⬡ §fFancyProfsMats.zip","file/Cork and Balls 1.1.2.zip","file/Annihilating_Armory_1.2.2.zip","file/[VCIT] MYTHOS 1.41.zip","file/Wynnilla UI.zip"]
+incompatibleResourcePacks:["file/Wynn Aspects reskin.zip","file/WynnLanternRP.zip","file/Cork and Balls 1.1.2.zip","file/Annihilating_Armory_1.2.2.zip"]

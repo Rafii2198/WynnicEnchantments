@@ -84,7 +84,7 @@ key_Relay Bomb to Guild:key.keyboard.unknown:
 key_Share Item:key.keyboard.f5:
 key_Save Item to Item Record:key.keyboard.f6:
 key_Open Item Record:key.keyboard.unknown:
-key_Mount Horse:key.keyboard.unknown:
+key_wynntils.keybind.mountHorse:key.keyboard.unknown:
 key_Cast 1st Spell:key.keyboard.z:
 key_Cast 2nd Spell:key.keyboard.x:
 key_Cast 3rd Spell:key.keyboard.c:

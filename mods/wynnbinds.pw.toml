@@ -1,0 +1,13 @@
+name = "Wynnbinds"
+filename = "wynnbinds-2.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fpgPXgNE/versions/JOqq0ypA/wynnbinds-2.0.0.jar"
+hash-format = "sha512"
+hash = "dcb56bf9eceb948af9e2e0a1b90e32a41637df9b83b760f2818499b7ecac787c84a566242570236e17d8bf39507f22f88b9da43140f6e4a2e982253e2bbd7f94"
+
+[update]
+[update.modrinth]
+mod-id = "fpgPXgNE"
+version = "JOqq0ypA"

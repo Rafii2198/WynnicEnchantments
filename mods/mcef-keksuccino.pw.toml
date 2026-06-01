@@ -1,0 +1,13 @@
+name = "MCEF [Keksuccino's Fork]"
+filename = "mcef_fabric_2.2.0_MC_1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bQhBuv7x/versions/JLGheGoq/mcef_fabric_2.2.0_MC_1.21.11.jar"
+hash-format = "sha512"
+hash = "b98bc8b3b9dd0b38c50133406be0394e0b1dc0945894864310014a0a0060d557416daa898521eaf05e23a9276aef00ac0dc21aca9d69ef11762c44a48f76f697"
+
+[update]
+[update.modrinth]
+mod-id = "bQhBuv7x"
+version = "JLGheGoq"

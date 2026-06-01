@@ -1,0 +1,13 @@
+name = "Cursors Extended"
+filename = "cursors_extended-fabric-4.1.5+1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/o5fhgLeQ/versions/qAGkL02T/cursors_extended-fabric-4.1.5%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "64b14521d4c8565dea170b973d5aad1431b250d2abb0e458d75d6078c09759985efcaff70632e93171b3d6296c38bf6658a335c5f755274b7d47f5430b186dc4"
+
+[update]
+[update.modrinth]
+mod-id = "o5fhgLeQ"
+version = "qAGkL02T"

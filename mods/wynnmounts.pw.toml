@@ -1,0 +1,13 @@
+name = "WynnMounts"
+filename = "wynnmounts-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pf8qhQ8O/versions/5lNDS40v/wynnmounts-1.0.0.jar"
+hash-format = "sha512"
+hash = "17cd0849209b94b32252266152d5d23d5d4c7e88743508616572bb6d179c64a59e16eb32fafbce1b4037860b1eedb8bb24bb1b620eff39dc9d85d326fbfe0c44"
+
+[update]
+[update.modrinth]
+mod-id = "pf8qhQ8O"
+version = "5lNDS40v"

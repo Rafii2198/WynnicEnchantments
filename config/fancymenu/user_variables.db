@@ -1,14 +1,20 @@
 type = user_variables
 
 variable {
+  name = wynnilla_shown
+  value =
+  reset_on_launch = true
+}
+
+variable {
   name = join_through_title
-  value = 1
+  value = 0
   reset_on_launch = false
 }
 
 variable {
   name = wynnic_enchantments_version
-  value = 0.18.0
+  value = 0.19.0
   reset_on_launch = false
 }
 
@@ -28,6 +34,12 @@ variable {
   name = wynnic_server_uuid
   value = 000d80ed-5565-411a-a770-db9f84b0325b-1723070749726
   reset_on_launch = false
+}
+
+variable {
+  name = wynnic_refetch_timestamp
+  value =
+  reset_on_launch = true
 }
 
 variable {

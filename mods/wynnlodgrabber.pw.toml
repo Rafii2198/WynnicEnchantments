@@ -1,0 +1,13 @@
+name = "WynnLODGrabber"
+filename = "wynnlodgrabber-1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Rau5VAYE/versions/OPGW6sV9/wynnlodgrabber-1.2.1.jar"
+hash-format = "sha512"
+hash = "33069c9fc5764ac7a38602fc1c10c4eeb15fcc2867069a585107cfbc6e6c6b05403183700579cafa0b2c6b1b8639f136e4ec35e6fc04b4428ed63c8947691c77"
+
+[update]
+[update.modrinth]
+mod-id = "Rau5VAYE"
+version = "OPGW6sV9"
